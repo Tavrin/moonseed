@@ -885,7 +885,12 @@ mod tests {
         }
         assert!(ready(fs.remove(b"link/sentinel")).is_err());
         assert!(ready(fs.rename(b"link/sentinel", b"renamed")).is_err());
-        for path in [b"f\xff".as_slice(), br"..\outside\sentinel"] {
+        // APFS refuses file names that are not UTF-8 (EILSEQ).
+        let mut names = vec![br"..\outside\sentinel".as_slice()];
+        if !cfg!(target_os = "macos") {
+            names.push(b"f\xff");
+        }
+        for path in names {
             let id = ready(fs.open(path, OpenMode::parse(b"w+").unwrap())).unwrap();
             ready(fs.write_at(id, 0, b"confined")).unwrap();
             ready(fs.close(id)).unwrap();
@@ -917,6 +922,7 @@ mod tests {
         );
     }
     #[test]
+    #[cfg_attr(not(unix), allow(unreachable_code))]
     fn native_root_positional_temp_remove_rename_limits_and_symlinks() {
         let root = TempRoot::new();
         let fs = NativeFilesystem::new(
@@ -958,6 +964,13 @@ mod tests {
         assert!(ready(fs.read_file(b"renamed", 4)).is_err());
         ready(fs.remove(b"renamed")).unwrap();
         assert!(!ready(fs.probe_readable(b"renamed")).unwrap());
+        // Native temporary files are Unix-only.
+        #[cfg(not(unix))]
+        {
+            let error = ready(fs.temp_file()).unwrap_err();
+            assert_eq!(error.kind, HostIoErrorKind::Unsupported);
+            return;
+        }
         let id = ready(fs.temp_file()).unwrap();
         ready(fs.write_at(id, 0, b"temp")).unwrap();
         assert_eq!(ready(fs.read_at(id, 0, 4)).unwrap(), b"temp");
@@ -992,9 +1005,11 @@ mod tests {
                 assert!(ready(fs.rename(path, b"dest")).is_err());
                 assert!(ready(fs.rename(&a, path)).is_err());
             }
-            let id = ready(fs.open(b"\xff", OpenMode::parse(b"w").unwrap())).unwrap();
-            ready(fs.close(id)).unwrap();
-            ready(fs.remove(b"\xff")).unwrap();
+            if !cfg!(target_os = "macos") {
+                let id = ready(fs.open(b"\xff", OpenMode::parse(b"w").unwrap())).unwrap();
+                ready(fs.close(id)).unwrap();
+                ready(fs.remove(b"\xff")).unwrap();
+            }
         }
         let ro = NativeFilesystem::new(
             &root.0,

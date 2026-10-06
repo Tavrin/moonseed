@@ -25,7 +25,9 @@ the [compatibility guide](LUA_COMPATIBILITY.md) records finer differences.
   are supported.
 - C locale only. Local civil time falls back to UTC unless the host supplies
   timezone conversion. Native CPU time is Linux-only; native temporary-file
-  allocation is Unix-only. Unsupported adapters report errors.
+  allocation is Unix-only. Native file names are bytes; a filesystem that
+  requires UTF-8 names (APFS on macOS) rejects the rest with an error.
+  Unsupported adapters report errors.
 - Table order, collection timing, object identity text and long-string `%p`
   sharing differ from PUC. Portable math can differ from its host libm by an
   ulp; NaN sign and payload are outside the determinism contract.
