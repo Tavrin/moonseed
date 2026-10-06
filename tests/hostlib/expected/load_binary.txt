@@ -1,0 +1,10 @@
+load_binary.t.0	ok	3	string	6e696c	string	737472696e67	string	6d6f64653a62696e617279	-	-
+load_binary.t.1	ok	3	string	6e696c	string	737472696e67	string	6d6f64653a62696e617279	-	-
+load_binary.b.0	ok	3	string	66756e6374696f6e	number.integer	23	string	62696e617279	-	-
+load_binary.b.1	ok	3	string	66756e6374696f6e	number.integer	23	string	62696e617279	-	-
+load_binary.bt.0	ok	3	string	66756e6374696f6e	number.integer	23	string	62696e617279	-	-
+load_binary.bt.1	ok	3	string	66756e6374696f6e	number.integer	23	string	62696e617279	-	-
+load_binary.invalid.0	ok	3	string	6e696c	string	737472696e67	string	6d6f64653a62696e617279	-	-
+load_binary.invalid.1	ok	3	string	6e696c	string	737472696e67	string	6d6f64653a62696e617279	-	-
+load_binary.corrupt	ok	3	string	6e696c	string	737472696e67	string	696e76616c69642d62696e617279	-	-
+load_binary.dofile	ok	3	number.integer	23	string	62696e617279	nil	-	-	-

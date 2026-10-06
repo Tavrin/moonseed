@@ -1,0 +1,38 @@
+os_misc.clock	ok	2	string	6e756d626572	boolean	true	-	-
+os_misc.time_now	ok	1	string	6e756d626572	-	-
+os_misc.env.MS_A	ok	1	string	616c706861	-	-
+os_misc.env.MS_EMPTY	ok	1	string		-	-
+os_misc.env.MS_UNSET	ok	1	nil	-	-	-
+os_misc.env.TZ	ok	1	string	555443	-	-
+os_misc.env.LC_ALL	ok	1	string	43	-	-
+os_misc.env.arg.0	error	0	string	686f73746c69622d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027676574656e76272028737472696e672065787065637465642c20676f74206e696c29
+os_misc.env.arg.1	error	0	string	686f73746c69622d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027676574656e76272028737472696e672065787065637465642c20676f74207461626c6529
+os_misc.env.arg.2	error	0	string	686f73746c69622d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027676574656e76272028737472696e672065787065637465642c20676f7420626f6f6c65616e29
+os_misc.locale.all.0	ok	1	string	43	-	-
+os_misc.locale.all.1	ok	1	string	43	-	-
+os_misc.locale.all.2	ok	1	string	43	-	-
+os_misc.locale.all.3	ok	1	nil	-	-	-
+os_misc.locale.collate.0	ok	1	string	43	-	-
+os_misc.locale.collate.1	ok	1	string	43	-	-
+os_misc.locale.collate.2	ok	1	string	43	-	-
+os_misc.locale.collate.3	ok	1	nil	-	-	-
+os_misc.locale.ctype.0	ok	1	string	43	-	-
+os_misc.locale.ctype.1	ok	1	string	43	-	-
+os_misc.locale.ctype.2	ok	1	string	43	-	-
+os_misc.locale.ctype.3	ok	1	nil	-	-	-
+os_misc.locale.monetary.0	ok	1	string	43	-	-
+os_misc.locale.monetary.1	ok	1	string	43	-	-
+os_misc.locale.monetary.2	ok	1	string	43	-	-
+os_misc.locale.monetary.3	ok	1	nil	-	-	-
+os_misc.locale.numeric.0	ok	1	string	43	-	-
+os_misc.locale.numeric.1	ok	1	string	43	-	-
+os_misc.locale.numeric.2	ok	1	string	43	-	-
+os_misc.locale.numeric.3	ok	1	nil	-	-	-
+os_misc.locale.time.0	ok	1	string	43	-	-
+os_misc.locale.time.1	ok	1	string	43	-	-
+os_misc.locale.time.2	ok	1	string	43	-	-
+os_misc.locale.time.3	ok	1	nil	-	-	-
+os_misc.locale.bad.0	error	0	string	686f73746c69622d636173652e6c75613a313a2062616420617267756d656e7420233220746f20277365746c6f63616c65272028696e76616c6964206f7074696f6e20276261642729
+os_misc.locale.bad.1	error	0	string	686f73746c69622d636173652e6c75613a313a2062616420617267756d656e7420233220746f20277365746c6f63616c65272028696e76616c6964206f7074696f6e20276261642729
+os_misc.locale.bad.2	error	0	string	686f73746c69622d636173652e6c75613a313a2062616420617267756d656e7420233220746f20277365746c6f63616c65272028696e76616c6964206f7074696f6e20276261642729
+os_misc.locale.bad.3	error	0	string	686f73746c69622d636173652e6c75613a313a2062616420617267756d656e7420233220746f20277365746c6f63616c65272028696e76616c6964206f7074696f6e20276261642729

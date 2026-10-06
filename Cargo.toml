@@ -1,0 +1,27 @@
+[workspace]
+resolver = "3"
+members = ["crates/moonseed", "crates/moonseed-wasm-probe", "crates/moonseed-compat", "crates/moonseed-bench"]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+publish = false
+
+# The checkpoint and collection schedules restore and rerun a program at
+# every step, which is quadratic in its steps; unoptimized, the suite took
+# five minutes. Overflow checks and debug assertions stay on.
+[profile.test]
+opt-level = 1
+
+# Frozen portable measurement profile. LTO selection evidence: tools/BENCHMARKING.md.
+[profile.bench-stable]
+inherits = "release"
+opt-level = 3
+codegen-units = 1
+lto = "fat"
+debug = "line-tables-only"
+
+# Runner supplies RUSTFLAGS="-C target-cpu=native"; never use for portable baseline.
+[profile.bench-native]
+inherits = "bench-stable"

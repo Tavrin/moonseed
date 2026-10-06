@@ -1,0 +1,4 @@
+io_streams.stdin	ok	3	nil	-	string	63616e6e6f7420636c6f7365207374616e646172642066696c65	string	66696c65	-	-
+io_streams.stdout	ok	3	nil	-	string	63616e6e6f7420636c6f7365207374616e646172642066696c65	string	66696c65	-	-
+io_streams.stderr	ok	3	nil	-	string	63616e6e6f7420636c6f7365207374616e646172642066696c65	string	66696c65	-	-
+io_streams.types	ok	3	string	66696c65	string	66696c65	string	66696c65	-	-

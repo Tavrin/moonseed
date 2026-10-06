@@ -1,0 +1,10 @@
+[package]
+name = "moonseed-compat"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+publish = false
+description = "Runs the official Lua 5.4.9 test suite through Moonseed and classifies the results"
+
+[dependencies]
+moonseed = { path = "../moonseed" }

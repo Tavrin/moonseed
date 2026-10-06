@@ -1,0 +1,33 @@
+A	true	incremental
+A	200	148
+A	0	200
+A	100	300
+A	incremental	200
+A	incremental	180
+A	incremental	404
+A	200	1020
+A	200	0
+A	200	1020
+A	100	0
+A	200	0
+A	incremental
+B	false	bad argument #2 to 'collectgarbage' (number has no integer representation)
+B	false	bad argument #2 to 'collectgarbage' (number expected, got string)
+B	false	bad argument #3 to 'collectgarbage' (number expected, got table)
+B	false	bad argument #2 to 'collectgarbage' (number expected, got string)
+B	true	100
+B	false	bad argument #1 to 'collectgarbage' (invalid option 'nope')
+C	false
+C	boolean	false
+C	false
+C	0	true
+D	true	true
+D	false
+D	0	0
+D	float
+E	nil	true	1	kept
+E	3,2,1
+F	nil	nil	nil	nil	nil	nil
+F	200	4
+G	200	200	20100
+end

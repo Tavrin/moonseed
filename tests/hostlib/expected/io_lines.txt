@@ -1,0 +1,45 @@
+io_lines.file.0.exhaust	ok	14	string	3132	nil	-	string	3334	nil	-	string	3536	nil	-	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	3	boolean	true	nil	-	-	-
+io_lines.file.0.break	ok	10	string	3132	nil	-	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	1	boolean	true	nil	-	-	-
+io_lines.file.0.error	ok	10	string	3132	nil	-	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	1	boolean	false	string	686f73746c69622d636173652e6c75613a313a206c6f6f702d73746f70	-	-
+io_lines.file.1.exhaust	ok	14	string	3132	nil	-	string	3334	nil	-	string	3536	nil	-	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	3	boolean	true	nil	-	-	-
+io_lines.file.1.break	ok	10	string	3132	nil	-	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	1	boolean	true	nil	-	-	-
+io_lines.file.1.error	ok	10	string	3132	nil	-	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	1	boolean	false	string	686f73746c69622d636173652e6c75613a313a206c6f6f702d73746f70	-	-
+io_lines.file.2.exhaust	ok	14	string	31320a	nil	-	string	33340a	nil	-	string	35360a	nil	-	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	3	boolean	true	nil	-	-	-
+io_lines.file.2.break	ok	10	string	31320a	nil	-	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	1	boolean	true	nil	-	-	-
+io_lines.file.2.error	ok	10	string	31320a	nil	-	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	1	boolean	false	string	686f73746c69622d636173652e6c75613a313a206c6f6f702d73746f70	-	-
+io_lines.file.3.exhaust	ok	24	string	31320a33340a35360a	nil	-	string		nil	-	string		nil	-	string		nil	-	string		nil	-	string		nil	-	string		nil	-	string		nil	-	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	8	boolean	true	nil	-	-	-
+io_lines.file.3.break	ok	10	string	31320a33340a35360a	nil	-	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	1	boolean	true	nil	-	-	-
+io_lines.file.3.error	ok	10	string	31320a33340a35360a	nil	-	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	1	boolean	false	string	686f73746c69622d636173652e6c75613a313a206c6f6f702d73746f70	-	-
+io_lines.file.4.exhaust	ok	14	number.integer	12	nil	-	number.integer	34	nil	-	number.integer	56	nil	-	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	3	boolean	true	nil	-	-	-
+io_lines.file.4.break	ok	10	number.integer	12	nil	-	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	1	boolean	true	nil	-	-	-
+io_lines.file.4.error	ok	10	number.integer	12	nil	-	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	1	boolean	false	string	686f73746c69622d636173652e6c75613a313a206c6f6f702d73746f70	-	-
+io_lines.file.10.exhaust	ok	26	string	31	nil	-	string	32	nil	-	string	0a	nil	-	string	33	nil	-	string	34	nil	-	string	0a	nil	-	string	35	nil	-	string	36	nil	-	string	0a	nil	-	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	9	boolean	true	nil	-	-	-
+io_lines.file.10.break	ok	10	string	31	nil	-	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	1	boolean	true	nil	-	-	-
+io_lines.file.10.error	ok	10	string	31	nil	-	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	1	boolean	false	string	686f73746c69622d636173652e6c75613a313a206c6f6f702d73746f70	-	-
+io_lines.file.9.exhaust	ok	24	string		nil	-	string		nil	-	string		nil	-	string		nil	-	string		nil	-	string		nil	-	string		nil	-	string		nil	-	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	8	boolean	true	nil	-	-	-
+io_lines.file.9.break	ok	10	string		nil	-	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	1	boolean	true	nil	-	-	-
+io_lines.file.9.error	ok	10	string		nil	-	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	1	boolean	false	string	686f73746c69622d636173652e6c75613a313a206c6f6f702d73746f70	-	-
+io_lines.file.99.exhaust	ok	12	string	3132	string	3334	string	3536	nil	-	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	2	boolean	true	nil	-	-	-
+io_lines.file.99.break	ok	10	string	3132	string	3334	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	1	boolean	true	nil	-	-	-
+io_lines.file.99.error	ok	10	string	3132	string	3334	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	1	boolean	false	string	686f73746c69622d636173652e6c75613a313a206c6f6f702d73746f70	-	-
+io_lines.file.19.exhaust	ok	8	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	0	boolean	false	string	686f73746c69622d636173652e6c75613a313a2062616420617267756d656e7420233220746f2027666f72206974657261746f72272028696e76616c696420666f726d617429	-	-
+io_lines.file.19.break	ok	8	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	0	boolean	false	string	686f73746c69622d636173652e6c75613a313a2062616420617267756d656e7420233220746f2027666f72206974657261746f72272028696e76616c696420666f726d617429	-	-
+io_lines.file.19.error	ok	8	number.integer	4	string	66756e6374696f6e	string	6e696c	string	6e696c	string	636c6f7365642066696c65	number.integer	0	boolean	false	string	686f73746c69622d636173652e6c75613a313a2062616420617267756d656e7420233220746f2027666f72206974657261746f72272028696e76616c696420666f726d617429	-	-
+io_lines.default	ok	6	string	3132	string	3334	string	3536	number.integer	1	string	66696c65	string	6e696c	-	-
+io_lines.method	ok	6	string	3132	string	3334	string	3536	number.integer	1	string	66696c65	string	6e696c	-	-
+io_lines.default.break	ok	6	string	3132	number.integer	1	string	6e696c	boolean	true	nil	-	string	66696c65	-	-
+io_lines.default.error	ok	6	string	3132	number.integer	1	string	6e696c	boolean	false	string	686f73746c69622d636173652e6c75613a313a206c6f6f702d73746f70	string	66696c65	-	-
+io_lines.method.0	ok	7	string	31320a	nil	-	string	33340a	nil	-	string	35360a	nil	-	string	66696c65	-	-
+io_lines.method.1	ok	7	number.integer	12	nil	-	number.integer	34	nil	-	number.integer	56	nil	-	string	66696c65	-	-
+io_lines.method.2	ok	11	string	3132	nil	-	string	0a33	nil	-	string	340a	nil	-	string	3536	nil	-	string	0a	nil	-	string	66696c65	-	-
+io_lines.method.3	ok	5	string	3132	string	3334	string	3536	nil	-	string	66696c65	-	-
+io_lines.method.4	error	0	string	686f73746c69622d636173652e6c75613a313a2062616420617267756d656e7420233220746f2027666f72206974657261746f72272028696e76616c696420666f726d617429
+io_lines.limit.249.0	ok	2	number.integer	4	string	66756e6374696f6e	-	-
+io_lines.limit.249.1	ok	2	number.integer	1	string	66756e6374696f6e	-	-
+io_lines.limit.250.0	ok	2	number.integer	4	string	66756e6374696f6e	-	-
+io_lines.limit.250.1	ok	2	number.integer	1	string	66756e6374696f6e	-	-
+io_lines.limit.251.0	error	0	string	686f73746c69622d636173652e6c75613a313a2062616420617267756d656e74202332353220746f20276c696e6573272028746f6f206d616e7920617267756d656e747329
+io_lines.limit.251.1	error	0	string	686f73746c69622d636173652e6c75613a313a2062616420617267756d656e74202332353120746f20276c696e6573272028746f6f206d616e7920617267756d656e747329
+io_lines.missing	error	0	string	686f73746c69622d636173652e6c75613a313a2063616e6e6f74206f70656e2066696c6520276d697373696e672e7478742720284e6f20737563682066696c65206f72206469726563746f727929
+io_lines.iterator.closed	error	0	string	686f73746c69622d636173652e6c75613a313a2066696c6520697320616c726561647920636c6f736564
+io_lines.iterator.exhausted	ok	3	string	636c6f7365642066696c65	boolean	false	string	66696c6520697320616c726561647920636c6f736564	-	-

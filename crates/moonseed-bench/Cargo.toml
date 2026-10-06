@@ -1,0 +1,40 @@
+[package]
+name = "moonseed-bench"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+publish = false
+description = "Runs one Lua file through Moonseed for the PUC-versus-Moonseed benchmark corpus"
+
+[[bin]]
+name = "moonseed-run"
+path = "src/main.rs"
+
+[[bin]]
+name = "snapshot-scale"
+path = "src/bin/snapshot-scale.rs"
+required-features = ["measure"]
+
+[[bin]]
+name = "alloc-gc"
+path = "src/bin/alloc-gc.rs"
+required-features = ["alloc-gc"]
+
+[[bin]]
+name = "coroutine-roundtrip"
+path = "src/bin/coroutine-roundtrip.rs"
+required-features = ["measure"]
+
+[[bin]]
+name = "call-alloc"
+path = "src/bin/call-alloc.rs"
+required-features = ["alloc-gc"]
+
+[features]
+counters = ["moonseed/counters"]
+measure = ["moonseed/__measure"]
+alloc-gc = ["dep:allocation-counter"]
+
+[dependencies]
+moonseed = { path = "../moonseed" }
+allocation-counter = { version = "0.8.1", optional = true }

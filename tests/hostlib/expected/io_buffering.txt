@@ -1,0 +1,350 @@
+io_buffering.bulk.no.nil.0	ok	3	number.integer	0	number.integer	1	number.integer	1	-	-
+io_buffering.bulk.no.nil.1	ok	3	number.integer	1	number.integer	2	number.integer	2	-	-
+io_buffering.bulk.no.nil.15	ok	3	number.integer	15	number.integer	16	number.integer	16	-	-
+io_buffering.bulk.no.nil.16	ok	3	number.integer	16	number.integer	17	number.integer	17	-	-
+io_buffering.bulk.no.nil.4095	ok	3	number.integer	4095	number.integer	4096	number.integer	4096	-	-
+io_buffering.bulk.no.nil.4096	ok	3	number.integer	4096	number.integer	4097	number.integer	4097	-	-
+io_buffering.bulk.no.nil.4097	ok	3	number.integer	4097	number.integer	4098	number.integer	4098	-	-
+io_buffering.bulk.no.nil.8191	ok	3	number.integer	8191	number.integer	8192	number.integer	8192	-	-
+io_buffering.bulk.no.nil.8192	ok	3	number.integer	8192	number.integer	8193	number.integer	8193	-	-
+io_buffering.bulk.no.nil.8193	ok	3	number.integer	8193	number.integer	8194	number.integer	8194	-	-
+io_buffering.bulk.no.0.0	ok	3	number.integer	0	number.integer	1	number.integer	1	-	-
+io_buffering.bulk.no.0.1	ok	3	number.integer	1	number.integer	2	number.integer	2	-	-
+io_buffering.bulk.no.0.15	ok	3	number.integer	15	number.integer	16	number.integer	16	-	-
+io_buffering.bulk.no.0.16	ok	3	number.integer	16	number.integer	17	number.integer	17	-	-
+io_buffering.bulk.no.0.4095	ok	3	number.integer	4095	number.integer	4096	number.integer	4096	-	-
+io_buffering.bulk.no.0.4096	ok	3	number.integer	4096	number.integer	4097	number.integer	4097	-	-
+io_buffering.bulk.no.0.4097	ok	3	number.integer	4097	number.integer	4098	number.integer	4098	-	-
+io_buffering.bulk.no.0.8191	ok	3	number.integer	8191	number.integer	8192	number.integer	8192	-	-
+io_buffering.bulk.no.0.8192	ok	3	number.integer	8192	number.integer	8193	number.integer	8193	-	-
+io_buffering.bulk.no.0.8193	ok	3	number.integer	8193	number.integer	8194	number.integer	8194	-	-
+io_buffering.bulk.no.1.0	ok	3	number.integer	0	number.integer	1	number.integer	1	-	-
+io_buffering.bulk.no.1.1	ok	3	number.integer	1	number.integer	2	number.integer	2	-	-
+io_buffering.bulk.no.1.15	ok	3	number.integer	15	number.integer	16	number.integer	16	-	-
+io_buffering.bulk.no.1.16	ok	3	number.integer	16	number.integer	17	number.integer	17	-	-
+io_buffering.bulk.no.1.4095	ok	3	number.integer	4095	number.integer	4096	number.integer	4096	-	-
+io_buffering.bulk.no.1.4096	ok	3	number.integer	4096	number.integer	4097	number.integer	4097	-	-
+io_buffering.bulk.no.1.4097	ok	3	number.integer	4097	number.integer	4098	number.integer	4098	-	-
+io_buffering.bulk.no.1.8191	ok	3	number.integer	8191	number.integer	8192	number.integer	8192	-	-
+io_buffering.bulk.no.1.8192	ok	3	number.integer	8192	number.integer	8193	number.integer	8193	-	-
+io_buffering.bulk.no.1.8193	ok	3	number.integer	8193	number.integer	8194	number.integer	8194	-	-
+io_buffering.bulk.no.16.0	ok	3	number.integer	0	number.integer	1	number.integer	1	-	-
+io_buffering.bulk.no.16.1	ok	3	number.integer	1	number.integer	2	number.integer	2	-	-
+io_buffering.bulk.no.16.15	ok	3	number.integer	15	number.integer	16	number.integer	16	-	-
+io_buffering.bulk.no.16.16	ok	3	number.integer	16	number.integer	17	number.integer	17	-	-
+io_buffering.bulk.no.16.4095	ok	3	number.integer	4095	number.integer	4096	number.integer	4096	-	-
+io_buffering.bulk.no.16.4096	ok	3	number.integer	4096	number.integer	4097	number.integer	4097	-	-
+io_buffering.bulk.no.16.4097	ok	3	number.integer	4097	number.integer	4098	number.integer	4098	-	-
+io_buffering.bulk.no.16.8191	ok	3	number.integer	8191	number.integer	8192	number.integer	8192	-	-
+io_buffering.bulk.no.16.8192	ok	3	number.integer	8192	number.integer	8193	number.integer	8193	-	-
+io_buffering.bulk.no.16.8193	ok	3	number.integer	8193	number.integer	8194	number.integer	8194	-	-
+io_buffering.bulk.no.4096.0	ok	3	number.integer	0	number.integer	1	number.integer	1	-	-
+io_buffering.bulk.no.4096.1	ok	3	number.integer	1	number.integer	2	number.integer	2	-	-
+io_buffering.bulk.no.4096.15	ok	3	number.integer	15	number.integer	16	number.integer	16	-	-
+io_buffering.bulk.no.4096.16	ok	3	number.integer	16	number.integer	17	number.integer	17	-	-
+io_buffering.bulk.no.4096.4095	ok	3	number.integer	4095	number.integer	4096	number.integer	4096	-	-
+io_buffering.bulk.no.4096.4096	ok	3	number.integer	4096	number.integer	4097	number.integer	4097	-	-
+io_buffering.bulk.no.4096.4097	ok	3	number.integer	4097	number.integer	4098	number.integer	4098	-	-
+io_buffering.bulk.no.4096.8191	ok	3	number.integer	8191	number.integer	8192	number.integer	8192	-	-
+io_buffering.bulk.no.4096.8192	ok	3	number.integer	8192	number.integer	8193	number.integer	8193	-	-
+io_buffering.bulk.no.4096.8193	ok	3	number.integer	8193	number.integer	8194	number.integer	8194	-	-
+io_buffering.bulk.no.8192.0	ok	3	number.integer	0	number.integer	1	number.integer	1	-	-
+io_buffering.bulk.no.8192.1	ok	3	number.integer	1	number.integer	2	number.integer	2	-	-
+io_buffering.bulk.no.8192.15	ok	3	number.integer	15	number.integer	16	number.integer	16	-	-
+io_buffering.bulk.no.8192.16	ok	3	number.integer	16	number.integer	17	number.integer	17	-	-
+io_buffering.bulk.no.8192.4095	ok	3	number.integer	4095	number.integer	4096	number.integer	4096	-	-
+io_buffering.bulk.no.8192.4096	ok	3	number.integer	4096	number.integer	4097	number.integer	4097	-	-
+io_buffering.bulk.no.8192.4097	ok	3	number.integer	4097	number.integer	4098	number.integer	4098	-	-
+io_buffering.bulk.no.8192.8191	ok	3	number.integer	8191	number.integer	8192	number.integer	8192	-	-
+io_buffering.bulk.no.8192.8192	ok	3	number.integer	8192	number.integer	8193	number.integer	8193	-	-
+io_buffering.bulk.no.8192.8193	ok	3	number.integer	8193	number.integer	8194	number.integer	8194	-	-
+io_buffering.bulk.no.16384.0	ok	3	number.integer	0	number.integer	1	number.integer	1	-	-
+io_buffering.bulk.no.16384.1	ok	3	number.integer	1	number.integer	2	number.integer	2	-	-
+io_buffering.bulk.no.16384.15	ok	3	number.integer	15	number.integer	16	number.integer	16	-	-
+io_buffering.bulk.no.16384.16	ok	3	number.integer	16	number.integer	17	number.integer	17	-	-
+io_buffering.bulk.no.16384.4095	ok	3	number.integer	4095	number.integer	4096	number.integer	4096	-	-
+io_buffering.bulk.no.16384.4096	ok	3	number.integer	4096	number.integer	4097	number.integer	4097	-	-
+io_buffering.bulk.no.16384.4097	ok	3	number.integer	4097	number.integer	4098	number.integer	4098	-	-
+io_buffering.bulk.no.16384.8191	ok	3	number.integer	8191	number.integer	8192	number.integer	8192	-	-
+io_buffering.bulk.no.16384.8192	ok	3	number.integer	8192	number.integer	8193	number.integer	8193	-	-
+io_buffering.bulk.no.16384.8193	ok	3	number.integer	8193	number.integer	8194	number.integer	8194	-	-
+io_buffering.bulk.no.-1.0	ok	3	number.integer	0	number.integer	1	number.integer	1	-	-
+io_buffering.bulk.no.-1.1	ok	3	number.integer	1	number.integer	2	number.integer	2	-	-
+io_buffering.bulk.no.-1.15	ok	3	number.integer	15	number.integer	16	number.integer	16	-	-
+io_buffering.bulk.no.-1.16	ok	3	number.integer	16	number.integer	17	number.integer	17	-	-
+io_buffering.bulk.no.-1.4095	ok	3	number.integer	4095	number.integer	4096	number.integer	4096	-	-
+io_buffering.bulk.no.-1.4096	ok	3	number.integer	4096	number.integer	4097	number.integer	4097	-	-
+io_buffering.bulk.no.-1.4097	ok	3	number.integer	4097	number.integer	4098	number.integer	4098	-	-
+io_buffering.bulk.no.-1.8191	ok	3	number.integer	8191	number.integer	8192	number.integer	8192	-	-
+io_buffering.bulk.no.-1.8192	ok	3	number.integer	8192	number.integer	8193	number.integer	8193	-	-
+io_buffering.bulk.no.-1.8193	ok	3	number.integer	8193	number.integer	8194	number.integer	8194	-	-
+io_buffering.prefill.no.4094	ok	3	number.integer	4095	number.integer	4096	number.integer	4096	-	-
+io_buffering.prefill.no.4095	ok	3	number.integer	4096	number.integer	4097	number.integer	4097	-	-
+io_buffering.prefill.no.4096	ok	3	number.integer	4097	number.integer	4098	number.integer	4098	-	-
+io_buffering.prefill.no.4097	ok	3	number.integer	4098	number.integer	4099	number.integer	4099	-	-
+io_buffering.prefill.no.8191	ok	3	number.integer	8192	number.integer	8193	number.integer	8193	-	-
+io_buffering.prefill.no.8192	ok	3	number.integer	8193	number.integer	8194	number.integer	8194	-	-
+io_buffering.point.no.flush	ok	3	string	70656e64696e67	string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.no.io_flush	ok	3	string	70656e64696e67	string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.no.seek	ok	3	string	70656e64696e67	string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.no.read_zero	ok	3	string	70656e64696e67	string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.no.read_all	ok	3	string	70656e64696e67	string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.no.close	ok	3	string	70656e64696e67	string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.no.io_close	ok	3	string	70656e64696e67	string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.no.gc_method	ok	3	string	70656e64696e67	string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.no.close_method	ok	3	string	70656e64696e67	string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.no.switch_handle	ok	3	string	70656e64696e67	string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.no.switch_path	ok	3	string	70656e64696e67	string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.no.newline	ok	3	string	70656e64696e67	string	70656e64696e67610a620a63	string	70656e64696e67610a620a63	-	-
+io_buffering.scope.no	ok	1	string	73636f7065	-	-
+io_buffering.gc.no	ok	2	string	6763	string	6763	-	-
+io_buffering.bulk.full.nil.0	ok	3	number.integer	0	number.integer	0	number.integer	1	-	-
+io_buffering.bulk.full.nil.1	ok	3	number.integer	0	number.integer	0	number.integer	2	-	-
+io_buffering.bulk.full.nil.15	ok	3	number.integer	0	number.integer	0	number.integer	16	-	-
+io_buffering.bulk.full.nil.16	ok	3	number.integer	0	number.integer	0	number.integer	17	-	-
+io_buffering.bulk.full.nil.4095	ok	3	number.integer	0	number.integer	0	number.integer	4096	-	-
+io_buffering.bulk.full.nil.4096	ok	3	number.integer	4096	number.integer	4096	number.integer	4097	-	-
+io_buffering.bulk.full.nil.4097	ok	3	number.integer	4096	number.integer	4096	number.integer	4098	-	-
+io_buffering.bulk.full.nil.8191	ok	3	number.integer	4096	number.integer	4096	number.integer	8192	-	-
+io_buffering.bulk.full.nil.8192	ok	3	number.integer	8192	number.integer	8192	number.integer	8193	-	-
+io_buffering.bulk.full.nil.8193	ok	3	number.integer	8192	number.integer	8192	number.integer	8194	-	-
+io_buffering.bulk.full.0.0	ok	3	number.integer	0	number.integer	0	number.integer	1	-	-
+io_buffering.bulk.full.0.1	ok	3	number.integer	0	number.integer	0	number.integer	2	-	-
+io_buffering.bulk.full.0.15	ok	3	number.integer	0	number.integer	0	number.integer	16	-	-
+io_buffering.bulk.full.0.16	ok	3	number.integer	0	number.integer	0	number.integer	17	-	-
+io_buffering.bulk.full.0.4095	ok	3	number.integer	0	number.integer	0	number.integer	4096	-	-
+io_buffering.bulk.full.0.4096	ok	3	number.integer	4096	number.integer	4096	number.integer	4097	-	-
+io_buffering.bulk.full.0.4097	ok	3	number.integer	4096	number.integer	4096	number.integer	4098	-	-
+io_buffering.bulk.full.0.8191	ok	3	number.integer	4096	number.integer	4096	number.integer	8192	-	-
+io_buffering.bulk.full.0.8192	ok	3	number.integer	8192	number.integer	8192	number.integer	8193	-	-
+io_buffering.bulk.full.0.8193	ok	3	number.integer	8192	number.integer	8192	number.integer	8194	-	-
+io_buffering.bulk.full.1.0	ok	3	number.integer	0	number.integer	0	number.integer	1	-	-
+io_buffering.bulk.full.1.1	ok	3	number.integer	0	number.integer	0	number.integer	2	-	-
+io_buffering.bulk.full.1.15	ok	3	number.integer	0	number.integer	0	number.integer	16	-	-
+io_buffering.bulk.full.1.16	ok	3	number.integer	0	number.integer	0	number.integer	17	-	-
+io_buffering.bulk.full.1.4095	ok	3	number.integer	0	number.integer	0	number.integer	4096	-	-
+io_buffering.bulk.full.1.4096	ok	3	number.integer	4096	number.integer	4096	number.integer	4097	-	-
+io_buffering.bulk.full.1.4097	ok	3	number.integer	4096	number.integer	4096	number.integer	4098	-	-
+io_buffering.bulk.full.1.8191	ok	3	number.integer	4096	number.integer	4096	number.integer	8192	-	-
+io_buffering.bulk.full.1.8192	ok	3	number.integer	8192	number.integer	8192	number.integer	8193	-	-
+io_buffering.bulk.full.1.8193	ok	3	number.integer	8192	number.integer	8192	number.integer	8194	-	-
+io_buffering.bulk.full.16.0	ok	3	number.integer	0	number.integer	0	number.integer	1	-	-
+io_buffering.bulk.full.16.1	ok	3	number.integer	0	number.integer	0	number.integer	2	-	-
+io_buffering.bulk.full.16.15	ok	3	number.integer	0	number.integer	0	number.integer	16	-	-
+io_buffering.bulk.full.16.16	ok	3	number.integer	0	number.integer	0	number.integer	17	-	-
+io_buffering.bulk.full.16.4095	ok	3	number.integer	0	number.integer	0	number.integer	4096	-	-
+io_buffering.bulk.full.16.4096	ok	3	number.integer	4096	number.integer	4096	number.integer	4097	-	-
+io_buffering.bulk.full.16.4097	ok	3	number.integer	4096	number.integer	4096	number.integer	4098	-	-
+io_buffering.bulk.full.16.8191	ok	3	number.integer	4096	number.integer	4096	number.integer	8192	-	-
+io_buffering.bulk.full.16.8192	ok	3	number.integer	8192	number.integer	8192	number.integer	8193	-	-
+io_buffering.bulk.full.16.8193	ok	3	number.integer	8192	number.integer	8192	number.integer	8194	-	-
+io_buffering.bulk.full.4096.0	ok	3	number.integer	0	number.integer	0	number.integer	1	-	-
+io_buffering.bulk.full.4096.1	ok	3	number.integer	0	number.integer	0	number.integer	2	-	-
+io_buffering.bulk.full.4096.15	ok	3	number.integer	0	number.integer	0	number.integer	16	-	-
+io_buffering.bulk.full.4096.16	ok	3	number.integer	0	number.integer	0	number.integer	17	-	-
+io_buffering.bulk.full.4096.4095	ok	3	number.integer	0	number.integer	0	number.integer	4096	-	-
+io_buffering.bulk.full.4096.4096	ok	3	number.integer	4096	number.integer	4096	number.integer	4097	-	-
+io_buffering.bulk.full.4096.4097	ok	3	number.integer	4096	number.integer	4096	number.integer	4098	-	-
+io_buffering.bulk.full.4096.8191	ok	3	number.integer	4096	number.integer	4096	number.integer	8192	-	-
+io_buffering.bulk.full.4096.8192	ok	3	number.integer	8192	number.integer	8192	number.integer	8193	-	-
+io_buffering.bulk.full.4096.8193	ok	3	number.integer	8192	number.integer	8192	number.integer	8194	-	-
+io_buffering.bulk.full.8192.0	ok	3	number.integer	0	number.integer	0	number.integer	1	-	-
+io_buffering.bulk.full.8192.1	ok	3	number.integer	0	number.integer	0	number.integer	2	-	-
+io_buffering.bulk.full.8192.15	ok	3	number.integer	0	number.integer	0	number.integer	16	-	-
+io_buffering.bulk.full.8192.16	ok	3	number.integer	0	number.integer	0	number.integer	17	-	-
+io_buffering.bulk.full.8192.4095	ok	3	number.integer	0	number.integer	0	number.integer	4096	-	-
+io_buffering.bulk.full.8192.4096	ok	3	number.integer	4096	number.integer	4096	number.integer	4097	-	-
+io_buffering.bulk.full.8192.4097	ok	3	number.integer	4096	number.integer	4096	number.integer	4098	-	-
+io_buffering.bulk.full.8192.8191	ok	3	number.integer	4096	number.integer	4096	number.integer	8192	-	-
+io_buffering.bulk.full.8192.8192	ok	3	number.integer	8192	number.integer	8192	number.integer	8193	-	-
+io_buffering.bulk.full.8192.8193	ok	3	number.integer	8192	number.integer	8192	number.integer	8194	-	-
+io_buffering.bulk.full.16384.0	ok	3	number.integer	0	number.integer	0	number.integer	1	-	-
+io_buffering.bulk.full.16384.1	ok	3	number.integer	0	number.integer	0	number.integer	2	-	-
+io_buffering.bulk.full.16384.15	ok	3	number.integer	0	number.integer	0	number.integer	16	-	-
+io_buffering.bulk.full.16384.16	ok	3	number.integer	0	number.integer	0	number.integer	17	-	-
+io_buffering.bulk.full.16384.4095	ok	3	number.integer	0	number.integer	0	number.integer	4096	-	-
+io_buffering.bulk.full.16384.4096	ok	3	number.integer	4096	number.integer	4096	number.integer	4097	-	-
+io_buffering.bulk.full.16384.4097	ok	3	number.integer	4096	number.integer	4096	number.integer	4098	-	-
+io_buffering.bulk.full.16384.8191	ok	3	number.integer	4096	number.integer	4096	number.integer	8192	-	-
+io_buffering.bulk.full.16384.8192	ok	3	number.integer	8192	number.integer	8192	number.integer	8193	-	-
+io_buffering.bulk.full.16384.8193	ok	3	number.integer	8192	number.integer	8192	number.integer	8194	-	-
+io_buffering.bulk.full.-1.0	ok	3	number.integer	0	number.integer	0	number.integer	1	-	-
+io_buffering.bulk.full.-1.1	ok	3	number.integer	0	number.integer	0	number.integer	2	-	-
+io_buffering.bulk.full.-1.15	ok	3	number.integer	0	number.integer	0	number.integer	16	-	-
+io_buffering.bulk.full.-1.16	ok	3	number.integer	0	number.integer	0	number.integer	17	-	-
+io_buffering.bulk.full.-1.4095	ok	3	number.integer	0	number.integer	0	number.integer	4096	-	-
+io_buffering.bulk.full.-1.4096	ok	3	number.integer	4096	number.integer	4096	number.integer	4097	-	-
+io_buffering.bulk.full.-1.4097	ok	3	number.integer	4096	number.integer	4096	number.integer	4098	-	-
+io_buffering.bulk.full.-1.8191	ok	3	number.integer	4096	number.integer	4096	number.integer	8192	-	-
+io_buffering.bulk.full.-1.8192	ok	3	number.integer	8192	number.integer	8192	number.integer	8193	-	-
+io_buffering.bulk.full.-1.8193	ok	3	number.integer	8192	number.integer	8192	number.integer	8194	-	-
+io_buffering.prefill.full.4094	ok	3	number.integer	0	number.integer	0	number.integer	4096	-	-
+io_buffering.prefill.full.4095	ok	3	number.integer	0	number.integer	4096	number.integer	4097	-	-
+io_buffering.prefill.full.4096	ok	3	number.integer	4096	number.integer	4096	number.integer	4098	-	-
+io_buffering.prefill.full.4097	ok	3	number.integer	4096	number.integer	4096	number.integer	4099	-	-
+io_buffering.prefill.full.8191	ok	3	number.integer	8192	number.integer	8192	number.integer	8193	-	-
+io_buffering.prefill.full.8192	ok	3	number.integer	8192	number.integer	8192	number.integer	8194	-	-
+io_buffering.point.full.flush	ok	3	string		string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.full.io_flush	ok	3	string		string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.full.seek	ok	3	string		string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.full.read_zero	ok	3	string		string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.full.read_all	ok	3	string		string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.full.close	ok	3	string		string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.full.io_close	ok	3	string		string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.full.gc_method	ok	3	string		string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.full.close_method	ok	3	string		string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.full.switch_handle	ok	3	string		string		string	70656e64696e67	-	-
+io_buffering.point.full.switch_path	ok	3	string		string		string	70656e64696e67	-	-
+io_buffering.point.full.newline	ok	3	string		string		string	70656e64696e67610a620a63	-	-
+io_buffering.scope.full	ok	1	string	73636f7065	-	-
+io_buffering.gc.full	ok	2	string		string	6763	-	-
+io_buffering.bulk.line.nil.0	ok	3	number.integer	0	number.integer	0	number.integer	1	-	-
+io_buffering.bulk.line.nil.1	ok	3	number.integer	0	number.integer	0	number.integer	2	-	-
+io_buffering.bulk.line.nil.15	ok	3	number.integer	0	number.integer	0	number.integer	16	-	-
+io_buffering.bulk.line.nil.16	ok	3	number.integer	0	number.integer	0	number.integer	17	-	-
+io_buffering.bulk.line.nil.4095	ok	3	number.integer	0	number.integer	0	number.integer	4096	-	-
+io_buffering.bulk.line.nil.4096	ok	3	number.integer	4096	number.integer	4096	number.integer	4097	-	-
+io_buffering.bulk.line.nil.4097	ok	3	number.integer	4096	number.integer	4096	number.integer	4098	-	-
+io_buffering.bulk.line.nil.8191	ok	3	number.integer	4096	number.integer	4096	number.integer	8192	-	-
+io_buffering.bulk.line.nil.8192	ok	3	number.integer	8192	number.integer	8192	number.integer	8193	-	-
+io_buffering.bulk.line.nil.8193	ok	3	number.integer	8192	number.integer	8192	number.integer	8194	-	-
+io_buffering.bulk.line.0.0	ok	3	number.integer	0	number.integer	0	number.integer	1	-	-
+io_buffering.bulk.line.0.1	ok	3	number.integer	0	number.integer	0	number.integer	2	-	-
+io_buffering.bulk.line.0.15	ok	3	number.integer	0	number.integer	0	number.integer	16	-	-
+io_buffering.bulk.line.0.16	ok	3	number.integer	0	number.integer	0	number.integer	17	-	-
+io_buffering.bulk.line.0.4095	ok	3	number.integer	0	number.integer	0	number.integer	4096	-	-
+io_buffering.bulk.line.0.4096	ok	3	number.integer	4096	number.integer	4096	number.integer	4097	-	-
+io_buffering.bulk.line.0.4097	ok	3	number.integer	4096	number.integer	4096	number.integer	4098	-	-
+io_buffering.bulk.line.0.8191	ok	3	number.integer	4096	number.integer	4096	number.integer	8192	-	-
+io_buffering.bulk.line.0.8192	ok	3	number.integer	8192	number.integer	8192	number.integer	8193	-	-
+io_buffering.bulk.line.0.8193	ok	3	number.integer	8192	number.integer	8192	number.integer	8194	-	-
+io_buffering.bulk.line.1.0	ok	3	number.integer	0	number.integer	0	number.integer	1	-	-
+io_buffering.bulk.line.1.1	ok	3	number.integer	0	number.integer	0	number.integer	2	-	-
+io_buffering.bulk.line.1.15	ok	3	number.integer	0	number.integer	0	number.integer	16	-	-
+io_buffering.bulk.line.1.16	ok	3	number.integer	0	number.integer	0	number.integer	17	-	-
+io_buffering.bulk.line.1.4095	ok	3	number.integer	0	number.integer	0	number.integer	4096	-	-
+io_buffering.bulk.line.1.4096	ok	3	number.integer	4096	number.integer	4096	number.integer	4097	-	-
+io_buffering.bulk.line.1.4097	ok	3	number.integer	4096	number.integer	4096	number.integer	4098	-	-
+io_buffering.bulk.line.1.8191	ok	3	number.integer	4096	number.integer	4096	number.integer	8192	-	-
+io_buffering.bulk.line.1.8192	ok	3	number.integer	8192	number.integer	8192	number.integer	8193	-	-
+io_buffering.bulk.line.1.8193	ok	3	number.integer	8192	number.integer	8192	number.integer	8194	-	-
+io_buffering.bulk.line.16.0	ok	3	number.integer	0	number.integer	0	number.integer	1	-	-
+io_buffering.bulk.line.16.1	ok	3	number.integer	0	number.integer	0	number.integer	2	-	-
+io_buffering.bulk.line.16.15	ok	3	number.integer	0	number.integer	0	number.integer	16	-	-
+io_buffering.bulk.line.16.16	ok	3	number.integer	0	number.integer	0	number.integer	17	-	-
+io_buffering.bulk.line.16.4095	ok	3	number.integer	0	number.integer	0	number.integer	4096	-	-
+io_buffering.bulk.line.16.4096	ok	3	number.integer	4096	number.integer	4096	number.integer	4097	-	-
+io_buffering.bulk.line.16.4097	ok	3	number.integer	4096	number.integer	4096	number.integer	4098	-	-
+io_buffering.bulk.line.16.8191	ok	3	number.integer	4096	number.integer	4096	number.integer	8192	-	-
+io_buffering.bulk.line.16.8192	ok	3	number.integer	8192	number.integer	8192	number.integer	8193	-	-
+io_buffering.bulk.line.16.8193	ok	3	number.integer	8192	number.integer	8192	number.integer	8194	-	-
+io_buffering.bulk.line.4096.0	ok	3	number.integer	0	number.integer	0	number.integer	1	-	-
+io_buffering.bulk.line.4096.1	ok	3	number.integer	0	number.integer	0	number.integer	2	-	-
+io_buffering.bulk.line.4096.15	ok	3	number.integer	0	number.integer	0	number.integer	16	-	-
+io_buffering.bulk.line.4096.16	ok	3	number.integer	0	number.integer	0	number.integer	17	-	-
+io_buffering.bulk.line.4096.4095	ok	3	number.integer	0	number.integer	0	number.integer	4096	-	-
+io_buffering.bulk.line.4096.4096	ok	3	number.integer	4096	number.integer	4096	number.integer	4097	-	-
+io_buffering.bulk.line.4096.4097	ok	3	number.integer	4096	number.integer	4096	number.integer	4098	-	-
+io_buffering.bulk.line.4096.8191	ok	3	number.integer	4096	number.integer	4096	number.integer	8192	-	-
+io_buffering.bulk.line.4096.8192	ok	3	number.integer	8192	number.integer	8192	number.integer	8193	-	-
+io_buffering.bulk.line.4096.8193	ok	3	number.integer	8192	number.integer	8192	number.integer	8194	-	-
+io_buffering.bulk.line.8192.0	ok	3	number.integer	0	number.integer	0	number.integer	1	-	-
+io_buffering.bulk.line.8192.1	ok	3	number.integer	0	number.integer	0	number.integer	2	-	-
+io_buffering.bulk.line.8192.15	ok	3	number.integer	0	number.integer	0	number.integer	16	-	-
+io_buffering.bulk.line.8192.16	ok	3	number.integer	0	number.integer	0	number.integer	17	-	-
+io_buffering.bulk.line.8192.4095	ok	3	number.integer	0	number.integer	0	number.integer	4096	-	-
+io_buffering.bulk.line.8192.4096	ok	3	number.integer	4096	number.integer	4096	number.integer	4097	-	-
+io_buffering.bulk.line.8192.4097	ok	3	number.integer	4096	number.integer	4096	number.integer	4098	-	-
+io_buffering.bulk.line.8192.8191	ok	3	number.integer	4096	number.integer	4096	number.integer	8192	-	-
+io_buffering.bulk.line.8192.8192	ok	3	number.integer	8192	number.integer	8192	number.integer	8193	-	-
+io_buffering.bulk.line.8192.8193	ok	3	number.integer	8192	number.integer	8192	number.integer	8194	-	-
+io_buffering.bulk.line.16384.0	ok	3	number.integer	0	number.integer	0	number.integer	1	-	-
+io_buffering.bulk.line.16384.1	ok	3	number.integer	0	number.integer	0	number.integer	2	-	-
+io_buffering.bulk.line.16384.15	ok	3	number.integer	0	number.integer	0	number.integer	16	-	-
+io_buffering.bulk.line.16384.16	ok	3	number.integer	0	number.integer	0	number.integer	17	-	-
+io_buffering.bulk.line.16384.4095	ok	3	number.integer	0	number.integer	0	number.integer	4096	-	-
+io_buffering.bulk.line.16384.4096	ok	3	number.integer	4096	number.integer	4096	number.integer	4097	-	-
+io_buffering.bulk.line.16384.4097	ok	3	number.integer	4096	number.integer	4096	number.integer	4098	-	-
+io_buffering.bulk.line.16384.8191	ok	3	number.integer	4096	number.integer	4096	number.integer	8192	-	-
+io_buffering.bulk.line.16384.8192	ok	3	number.integer	8192	number.integer	8192	number.integer	8193	-	-
+io_buffering.bulk.line.16384.8193	ok	3	number.integer	8192	number.integer	8192	number.integer	8194	-	-
+io_buffering.bulk.line.-1.0	ok	3	number.integer	0	number.integer	0	number.integer	1	-	-
+io_buffering.bulk.line.-1.1	ok	3	number.integer	0	number.integer	0	number.integer	2	-	-
+io_buffering.bulk.line.-1.15	ok	3	number.integer	0	number.integer	0	number.integer	16	-	-
+io_buffering.bulk.line.-1.16	ok	3	number.integer	0	number.integer	0	number.integer	17	-	-
+io_buffering.bulk.line.-1.4095	ok	3	number.integer	0	number.integer	0	number.integer	4096	-	-
+io_buffering.bulk.line.-1.4096	ok	3	number.integer	4096	number.integer	4096	number.integer	4097	-	-
+io_buffering.bulk.line.-1.4097	ok	3	number.integer	4096	number.integer	4096	number.integer	4098	-	-
+io_buffering.bulk.line.-1.8191	ok	3	number.integer	4096	number.integer	4096	number.integer	8192	-	-
+io_buffering.bulk.line.-1.8192	ok	3	number.integer	8192	number.integer	8192	number.integer	8193	-	-
+io_buffering.bulk.line.-1.8193	ok	3	number.integer	8192	number.integer	8192	number.integer	8194	-	-
+io_buffering.prefill.line.4094	ok	3	number.integer	0	number.integer	0	number.integer	4096	-	-
+io_buffering.prefill.line.4095	ok	3	number.integer	0	number.integer	4096	number.integer	4097	-	-
+io_buffering.prefill.line.4096	ok	3	number.integer	4096	number.integer	4096	number.integer	4098	-	-
+io_buffering.prefill.line.4097	ok	3	number.integer	4096	number.integer	4096	number.integer	4099	-	-
+io_buffering.prefill.line.8191	ok	3	number.integer	8192	number.integer	8192	number.integer	8193	-	-
+io_buffering.prefill.line.8192	ok	3	number.integer	8192	number.integer	8192	number.integer	8194	-	-
+io_buffering.point.line.flush	ok	3	string		string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.line.io_flush	ok	3	string		string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.line.seek	ok	3	string		string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.line.read_zero	ok	3	string		string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.line.read_all	ok	3	string		string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.line.close	ok	3	string		string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.line.io_close	ok	3	string		string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.line.gc_method	ok	3	string		string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.line.close_method	ok	3	string		string	70656e64696e67	string	70656e64696e67	-	-
+io_buffering.point.line.switch_handle	ok	3	string		string		string	70656e64696e67	-	-
+io_buffering.point.line.switch_path	ok	3	string		string		string	70656e64696e67	-	-
+io_buffering.point.line.newline	ok	3	string		string	70656e64696e67610a620a	string	70656e64696e67610a620a63	-	-
+io_buffering.scope.line	ok	1	string	73636f7065	-	-
+io_buffering.gc.line	ok	2	string		string	6763	-	-
+io_buffering.transition.no.no	ok	4	string	616263	string	616263	string	61626358	string	61626358	-	-
+io_buffering.transition.no.full	ok	4	string	616263	string	616263	string	61626358	string	61626358	-	-
+io_buffering.transition.no.line	ok	4	string	616263	string	616263	string	616263	string	61626358	-	-
+io_buffering.transition.full.no	ok	4	string		string	616263	string	61626358	string	61626358	-	-
+io_buffering.transition.full.full	ok	4	string		string		string		string	61626358	-	-
+io_buffering.transition.full.line	ok	4	string		string		string		string	61626358	-	-
+io_buffering.transition.line.no	ok	4	string		string	616263	string	61626358	string	61626358	-	-
+io_buffering.transition.line.full	ok	4	string		string		string	616263	string	61626358	-	-
+io_buffering.transition.line.line	ok	4	string		string		string		string	61626358	-	-
+io_buffering.failed_seek_flushes	ok	5	string		string	70656e64696e67	nil	-	string	496e76616c696420617267756d656e74	number.integer	22	-	-
+io_buffering.read_validation.w.bad	ok	3	boolean	false	string	686f73746c69622d636173652e6c75613a313a2062616420617267756d656e7420233120746f202772656164272028696e76616c696420666f726d617429	string		-	-
+io_buffering.read_validation.w.l	ok	3	boolean	true	nil	-	string	70656e64696e67	-	-
+io_buffering.read_validation.w+.bad	ok	3	boolean	false	string	686f73746c69622d636173652e6c75613a313a2062616420617267756d656e7420233120746f202772656164272028696e76616c696420666f726d617429	string		-	-
+io_buffering.read_validation.w+.l	ok	3	boolean	true	nil	-	string	70656e64696e67	-	-
+io_buffering.line_overflow.0.4095.0	ok	3	number.integer	1	string	0a	number.integer	4095	-	-
+io_buffering.line_overflow.0.4095.2047	ok	3	number.integer	2048	string	787878787878780a	number.integer	4095	-	-
+io_buffering.line_overflow.0.4095.4094	ok	3	number.integer	4095	string	787878787878780a	number.integer	4095	-	-
+io_buffering.line_overflow.0.4096.0	ok	3	number.integer	4096	string	7979797979797979	number.integer	4096	-	-
+io_buffering.line_overflow.0.4096.2048	ok	3	number.integer	4096	string	7979797979797979	number.integer	4096	-	-
+io_buffering.line_overflow.0.4096.4095	ok	3	number.integer	4096	string	787878787878780a	number.integer	4096	-	-
+io_buffering.line_overflow.0.4097.0	ok	3	number.integer	4096	string	7979797979797979	number.integer	4097	-	-
+io_buffering.line_overflow.0.4097.2048	ok	3	number.integer	4096	string	7979797979797979	number.integer	4097	-	-
+io_buffering.line_overflow.0.4097.4096	ok	3	number.integer	4097	string	787878787878780a	number.integer	4097	-	-
+io_buffering.line_overflow.0.8193.0	ok	3	number.integer	8192	string	7979797979797979	number.integer	8193	-	-
+io_buffering.line_overflow.0.8193.4096	ok	3	number.integer	8192	string	7979797979797979	number.integer	8193	-	-
+io_buffering.line_overflow.0.8193.8192	ok	3	number.integer	8193	string	787878787878780a	number.integer	8193	-	-
+io_buffering.line_overflow.1.4095.0	ok	3	number.integer	2	string	700a	number.integer	4096	-	-
+io_buffering.line_overflow.1.4095.2047	ok	3	number.integer	2049	string	787878787878780a	number.integer	4096	-	-
+io_buffering.line_overflow.1.4095.4094	ok	3	number.integer	4096	string	787878787878780a	number.integer	4096	-	-
+io_buffering.line_overflow.1.4096.0	ok	3	number.integer	4096	string	7979797979797979	number.integer	4097	-	-
+io_buffering.line_overflow.1.4096.2048	ok	3	number.integer	4096	string	7979797979797979	number.integer	4097	-	-
+io_buffering.line_overflow.1.4096.4095	ok	3	number.integer	4097	string	787878787878780a	number.integer	4097	-	-
+io_buffering.line_overflow.1.4097.0	ok	3	number.integer	4096	string	7979797979797979	number.integer	4098	-	-
+io_buffering.line_overflow.1.4097.2048	ok	3	number.integer	4096	string	7979797979797979	number.integer	4098	-	-
+io_buffering.line_overflow.1.4097.4096	ok	3	number.integer	4098	string	787878787878780a	number.integer	4098	-	-
+io_buffering.line_overflow.1.8193.0	ok	3	number.integer	8192	string	7979797979797979	number.integer	8194	-	-
+io_buffering.line_overflow.1.8193.4096	ok	3	number.integer	8192	string	7979797979797979	number.integer	8194	-	-
+io_buffering.line_overflow.1.8193.8192	ok	3	number.integer	8194	string	787878787878780a	number.integer	8194	-	-
+io_buffering.line_overflow.4095.4095.0	ok	3	number.integer	4096	string	707070707070700a	number.integer	8190	-	-
+io_buffering.line_overflow.4095.4095.2047	ok	3	number.integer	6143	string	787878787878780a	number.integer	8190	-	-
+io_buffering.line_overflow.4095.4095.4094	ok	3	number.integer	8190	string	787878787878780a	number.integer	8190	-	-
+io_buffering.line_overflow.4095.4096.0	ok	3	number.integer	4096	string	707070707070700a	number.integer	8191	-	-
+io_buffering.line_overflow.4095.4096.2048	ok	3	number.integer	6144	string	787878787878780a	number.integer	8191	-	-
+io_buffering.line_overflow.4095.4096.4095	ok	3	number.integer	8191	string	787878787878780a	number.integer	8191	-	-
+io_buffering.line_overflow.4095.4097.0	ok	3	number.integer	8192	string	7979797979797979	number.integer	8192	-	-
+io_buffering.line_overflow.4095.4097.2048	ok	3	number.integer	8192	string	7979797979797979	number.integer	8192	-	-
+io_buffering.line_overflow.4095.4097.4096	ok	3	number.integer	8192	string	787878787878780a	number.integer	8192	-	-
+io_buffering.line_overflow.4095.8193.0	ok	3	number.integer	12288	string	7979797979797979	number.integer	12288	-	-
+io_buffering.line_overflow.4095.8193.4096	ok	3	number.integer	12288	string	7979797979797979	number.integer	12288	-	-
+io_buffering.line_overflow.4095.8193.8192	ok	3	number.integer	12288	string	787878787878780a	number.integer	12288	-	-

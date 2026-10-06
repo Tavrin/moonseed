@@ -1,0 +1,84 @@
+[package]
+name = "moonseed"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+publish = true
+description = "Deterministic, checkpointable Lua 5.4 runtime in safe Rust"
+rust-version = "1.88"
+repository = "https://github.com/Tavrin/moonseed"
+homepage = "https://github.com/Tavrin/moonseed"
+documentation = "https://docs.rs/moonseed"
+readme = "README.md"
+keywords = ["lua", "interpreter", "deterministic", "checkpoint", "sandbox"]
+categories = ["compilers", "wasm"]
+include = ["Cargo.toml", "src/**", "examples/**", "tests/**", "benches/**", "fixtures/**", "EMBEDDING.md", "FEATURES.md", "README.md", "LICENSE-MIT", "LICENSE-APACHE"]
+
+[package.metadata.docs.rs]
+features = ["native-host", "counters"]
+rustdoc-args = ["--cfg", "docsrs"]
+
+[dependencies]
+serde_json = { version = "1", optional = true }
+# Pure-Rust port of musl's libm, used on every target so transcendental
+# functions and `^` give the same bits native and on wasm32 (ADR 0032).
+# No default features: its `arch` feature swaps in target intrinsics.
+libm = { version = "0.2.16", default-features = false }
+
+[features]
+default = ["native-host"]
+# Compiles native adapters; grants no authority until explicitly attached.
+native-host = []
+# Internal dev-only scaffolding for workspace benchmarks; not a supported feature.
+__measure = ["native-host"]
+# Unstable portable diagnostics; never saved in snapshots.
+counters = ["dep:serde_json"]
+
+[lib]
+name = "moonseed"
+path = "src/lib.rs"
+
+[[bench]]
+name = "kernel"
+harness = false
+required-features = ["__measure"]
+
+[[example]]
+name = "hello_call"
+test = true
+
+[[example]]
+name = "lua_calls_rust"
+test = true
+
+[[example]]
+name = "tables_and_strings"
+test = true
+
+[[example]]
+name = "host_userdata"
+test = true
+
+[[example]]
+name = "stateful_function"
+test = true
+
+[[example]]
+name = "native_calls_lua"
+test = true
+
+[[example]]
+name = "async_wait"
+test = true
+
+[[example]]
+name = "snapshot_restore"
+test = true
+
+[[example]]
+name = "external_rebind"
+test = true
+
+[[example]]
+name = "module_resolver"
+test = true

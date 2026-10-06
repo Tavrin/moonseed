@@ -1,0 +1,198 @@
+lax.empty.len.false	ok	1	number.integer	0	-	-
+lax.empty.codepoint.false	ok	0	-	-
+lax.empty.codes.false	ok	0	-	-
+lax.empty.len.nil	ok	1	number.integer	0	-	-
+lax.empty.codepoint.nil	ok	0	-	-
+lax.empty.codes.nil	ok	0	-	-
+lax.empty.len.true	ok	1	number.integer	0	-	-
+lax.empty.codepoint.true	ok	0	-	-
+lax.empty.codes.true	ok	0	-	-
+lax.empty.len.zero	ok	1	number.integer	0	-	-
+lax.empty.codepoint.zero	ok	0	-	-
+lax.empty.codes.zero	ok	0	-	-
+lax.empty.len.empty	ok	1	number.integer	0	-	-
+lax.empty.codepoint.empty	ok	0	-	-
+lax.empty.codes.empty	ok	0	-	-
+lax.empty.len.table	ok	1	number.integer	0	-	-
+lax.empty.codepoint.table	ok	0	-	-
+lax.empty.codes.table	ok	0	-	-
+lax.ascii.len.false	ok	1	number.integer	2	-	-
+lax.ascii.codepoint.false	ok	2	number.integer	97	number.integer	98	-	-
+lax.ascii.codes.false	ok	4	number.integer	1	number.integer	97	number.integer	2	number.integer	98	-	-
+lax.ascii.len.nil	ok	1	number.integer	2	-	-
+lax.ascii.codepoint.nil	ok	2	number.integer	97	number.integer	98	-	-
+lax.ascii.codes.nil	ok	4	number.integer	1	number.integer	97	number.integer	2	number.integer	98	-	-
+lax.ascii.len.true	ok	1	number.integer	2	-	-
+lax.ascii.codepoint.true	ok	2	number.integer	97	number.integer	98	-	-
+lax.ascii.codes.true	ok	4	number.integer	1	number.integer	97	number.integer	2	number.integer	98	-	-
+lax.ascii.len.zero	ok	1	number.integer	2	-	-
+lax.ascii.codepoint.zero	ok	2	number.integer	97	number.integer	98	-	-
+lax.ascii.codes.zero	ok	4	number.integer	1	number.integer	97	number.integer	2	number.integer	98	-	-
+lax.ascii.len.empty	ok	1	number.integer	2	-	-
+lax.ascii.codepoint.empty	ok	2	number.integer	97	number.integer	98	-	-
+lax.ascii.codes.empty	ok	4	number.integer	1	number.integer	97	number.integer	2	number.integer	98	-	-
+lax.ascii.len.table	ok	1	number.integer	2	-	-
+lax.ascii.codepoint.table	ok	2	number.integer	97	number.integer	98	-	-
+lax.ascii.codes.table	ok	4	number.integer	1	number.integer	97	number.integer	2	number.integer	98	-	-
+lax.two.len.false	ok	1	number.integer	1	-	-
+lax.two.codepoint.false	ok	1	number.integer	128	-	-
+lax.two.codes.false	ok	2	number.integer	1	number.integer	128	-	-
+lax.two.len.nil	ok	1	number.integer	1	-	-
+lax.two.codepoint.nil	ok	1	number.integer	128	-	-
+lax.two.codes.nil	ok	2	number.integer	1	number.integer	128	-	-
+lax.two.len.true	ok	1	number.integer	1	-	-
+lax.two.codepoint.true	ok	1	number.integer	128	-	-
+lax.two.codes.true	ok	2	number.integer	1	number.integer	128	-	-
+lax.two.len.zero	ok	1	number.integer	1	-	-
+lax.two.codepoint.zero	ok	1	number.integer	128	-	-
+lax.two.codes.zero	ok	2	number.integer	1	number.integer	128	-	-
+lax.two.len.empty	ok	1	number.integer	1	-	-
+lax.two.codepoint.empty	ok	1	number.integer	128	-	-
+lax.two.codes.empty	ok	2	number.integer	1	number.integer	128	-	-
+lax.two.len.table	ok	1	number.integer	1	-	-
+lax.two.codepoint.table	ok	1	number.integer	128	-	-
+lax.two.codes.table	ok	2	number.integer	1	number.integer	128	-	-
+lax.three.len.false	ok	1	number.integer	1	-	-
+lax.three.codepoint.false	ok	1	number.integer	2048	-	-
+lax.three.codes.false	ok	2	number.integer	1	number.integer	2048	-	-
+lax.three.len.nil	ok	1	number.integer	1	-	-
+lax.three.codepoint.nil	ok	1	number.integer	2048	-	-
+lax.three.codes.nil	ok	2	number.integer	1	number.integer	2048	-	-
+lax.three.len.true	ok	1	number.integer	1	-	-
+lax.three.codepoint.true	ok	1	number.integer	2048	-	-
+lax.three.codes.true	ok	2	number.integer	1	number.integer	2048	-	-
+lax.three.len.zero	ok	1	number.integer	1	-	-
+lax.three.codepoint.zero	ok	1	number.integer	2048	-	-
+lax.three.codes.zero	ok	2	number.integer	1	number.integer	2048	-	-
+lax.three.len.empty	ok	1	number.integer	1	-	-
+lax.three.codepoint.empty	ok	1	number.integer	2048	-	-
+lax.three.codes.empty	ok	2	number.integer	1	number.integer	2048	-	-
+lax.three.len.table	ok	1	number.integer	1	-	-
+lax.three.codepoint.table	ok	1	number.integer	2048	-	-
+lax.three.codes.table	ok	2	number.integer	1	number.integer	2048	-	-
+lax.four.len.false	ok	1	number.integer	1	-	-
+lax.four.codepoint.false	ok	1	number.integer	65536	-	-
+lax.four.codes.false	ok	2	number.integer	1	number.integer	65536	-	-
+lax.four.len.nil	ok	1	number.integer	1	-	-
+lax.four.codepoint.nil	ok	1	number.integer	65536	-	-
+lax.four.codes.nil	ok	2	number.integer	1	number.integer	65536	-	-
+lax.four.len.true	ok	1	number.integer	1	-	-
+lax.four.codepoint.true	ok	1	number.integer	65536	-	-
+lax.four.codes.true	ok	2	number.integer	1	number.integer	65536	-	-
+lax.four.len.zero	ok	1	number.integer	1	-	-
+lax.four.codepoint.zero	ok	1	number.integer	65536	-	-
+lax.four.codes.zero	ok	2	number.integer	1	number.integer	65536	-	-
+lax.four.len.empty	ok	1	number.integer	1	-	-
+lax.four.codepoint.empty	ok	1	number.integer	65536	-	-
+lax.four.codes.empty	ok	2	number.integer	1	number.integer	65536	-	-
+lax.four.len.table	ok	1	number.integer	1	-	-
+lax.four.codepoint.table	ok	1	number.integer	65536	-	-
+lax.four.codes.table	ok	2	number.integer	1	number.integer	65536	-	-
+lax.extended.len.false	ok	2	nil	-	number.integer	1	-	-
+lax.extended.codepoint.false	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.extended.codes.false	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.extended.len.nil	ok	2	nil	-	number.integer	1	-	-
+lax.extended.codepoint.nil	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.extended.codes.nil	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.extended.len.true	ok	1	number.integer	1	-	-
+lax.extended.codepoint.true	ok	1	number.integer	2147483647	-	-
+lax.extended.codes.true	ok	2	number.integer	1	number.integer	2147483647	-	-
+lax.extended.len.zero	ok	1	number.integer	1	-	-
+lax.extended.codepoint.zero	ok	1	number.integer	2147483647	-	-
+lax.extended.codes.zero	ok	2	number.integer	1	number.integer	2147483647	-	-
+lax.extended.len.empty	ok	1	number.integer	1	-	-
+lax.extended.codepoint.empty	ok	1	number.integer	2147483647	-	-
+lax.extended.codes.empty	ok	2	number.integer	1	number.integer	2147483647	-	-
+lax.extended.len.table	ok	1	number.integer	1	-	-
+lax.extended.codepoint.table	ok	1	number.integer	2147483647	-	-
+lax.extended.codes.table	ok	2	number.integer	1	number.integer	2147483647	-	-
+lax.surrogate.len.false	ok	2	nil	-	number.integer	1	-	-
+lax.surrogate.codepoint.false	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.surrogate.codes.false	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.surrogate.len.nil	ok	2	nil	-	number.integer	1	-	-
+lax.surrogate.codepoint.nil	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.surrogate.codes.nil	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.surrogate.len.true	ok	1	number.integer	1	-	-
+lax.surrogate.codepoint.true	ok	1	number.integer	55296	-	-
+lax.surrogate.codes.true	ok	2	number.integer	1	number.integer	55296	-	-
+lax.surrogate.len.zero	ok	1	number.integer	1	-	-
+lax.surrogate.codepoint.zero	ok	1	number.integer	55296	-	-
+lax.surrogate.codes.zero	ok	2	number.integer	1	number.integer	55296	-	-
+lax.surrogate.len.empty	ok	1	number.integer	1	-	-
+lax.surrogate.codepoint.empty	ok	1	number.integer	55296	-	-
+lax.surrogate.codes.empty	ok	2	number.integer	1	number.integer	55296	-	-
+lax.surrogate.len.table	ok	1	number.integer	1	-	-
+lax.surrogate.codepoint.table	ok	1	number.integer	55296	-	-
+lax.surrogate.codes.table	ok	2	number.integer	1	number.integer	55296	-	-
+lax.malformed.len.false	ok	2	nil	-	number.integer	2	-	-
+lax.malformed.codepoint.false	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.malformed.codes.false	error	2	number.integer	1	number.integer	65	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.malformed.len.nil	ok	2	nil	-	number.integer	2	-	-
+lax.malformed.codepoint.nil	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.malformed.codes.nil	error	2	number.integer	1	number.integer	65	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.malformed.len.true	ok	2	nil	-	number.integer	2	-	-
+lax.malformed.codepoint.true	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.malformed.codes.true	error	2	number.integer	1	number.integer	65	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.malformed.len.zero	ok	2	nil	-	number.integer	2	-	-
+lax.malformed.codepoint.zero	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.malformed.codes.zero	error	2	number.integer	1	number.integer	65	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.malformed.len.empty	ok	2	nil	-	number.integer	2	-	-
+lax.malformed.codepoint.empty	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.malformed.codes.empty	error	2	number.integer	1	number.integer	65	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.malformed.len.table	ok	2	nil	-	number.integer	2	-	-
+lax.malformed.codepoint.table	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.malformed.codes.table	error	2	number.integer	1	number.integer	65	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.continuation.len.false	ok	2	nil	-	number.integer	1	-	-
+lax.continuation.codepoint.false	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.continuation.codes.false	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+lax.continuation.len.nil	ok	2	nil	-	number.integer	1	-	-
+lax.continuation.codepoint.nil	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.continuation.codes.nil	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+lax.continuation.len.true	ok	2	nil	-	number.integer	1	-	-
+lax.continuation.codepoint.true	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.continuation.codes.true	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+lax.continuation.len.zero	ok	2	nil	-	number.integer	1	-	-
+lax.continuation.codepoint.zero	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.continuation.codes.zero	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+lax.continuation.len.empty	ok	2	nil	-	number.integer	1	-	-
+lax.continuation.codepoint.empty	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.continuation.codes.empty	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+lax.continuation.len.table	ok	2	nil	-	number.integer	1	-	-
+lax.continuation.codepoint.table	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+lax.continuation.codes.table	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+lax.nul.len.false	ok	1	number.integer	3	-	-
+lax.nul.codepoint.false	ok	3	number.integer	65	number.integer	0	number.integer	2048	-	-
+lax.nul.codes.false	ok	6	number.integer	1	number.integer	65	number.integer	2	number.integer	0	number.integer	3	number.integer	2048	-	-
+lax.nul.len.nil	ok	1	number.integer	3	-	-
+lax.nul.codepoint.nil	ok	3	number.integer	65	number.integer	0	number.integer	2048	-	-
+lax.nul.codes.nil	ok	6	number.integer	1	number.integer	65	number.integer	2	number.integer	0	number.integer	3	number.integer	2048	-	-
+lax.nul.len.true	ok	1	number.integer	3	-	-
+lax.nul.codepoint.true	ok	3	number.integer	65	number.integer	0	number.integer	2048	-	-
+lax.nul.codes.true	ok	6	number.integer	1	number.integer	65	number.integer	2	number.integer	0	number.integer	3	number.integer	2048	-	-
+lax.nul.len.zero	ok	1	number.integer	3	-	-
+lax.nul.codepoint.zero	ok	3	number.integer	65	number.integer	0	number.integer	2048	-	-
+lax.nul.codes.zero	ok	6	number.integer	1	number.integer	65	number.integer	2	number.integer	0	number.integer	3	number.integer	2048	-	-
+lax.nul.len.empty	ok	1	number.integer	3	-	-
+lax.nul.codepoint.empty	ok	3	number.integer	65	number.integer	0	number.integer	2048	-	-
+lax.nul.codes.empty	ok	6	number.integer	1	number.integer	65	number.integer	2	number.integer	0	number.integer	3	number.integer	2048	-	-
+lax.nul.len.table	ok	1	number.integer	3	-	-
+lax.nul.codepoint.table	ok	3	number.integer	65	number.integer	0	number.integer	2048	-	-
+lax.nul.codes.table	ok	6	number.integer	1	number.integer	65	number.integer	2	number.integer	0	number.integer	3	number.integer	2048	-	-
+lax.mixed.len.false	ok	1	number.integer	4	-	-
+lax.mixed.codepoint.false	ok	4	number.integer	65	number.integer	128	number.integer	2048	number.integer	65536	-	-
+lax.mixed.codes.false	ok	8	number.integer	1	number.integer	65	number.integer	2	number.integer	128	number.integer	4	number.integer	2048	number.integer	7	number.integer	65536	-	-
+lax.mixed.len.nil	ok	1	number.integer	4	-	-
+lax.mixed.codepoint.nil	ok	4	number.integer	65	number.integer	128	number.integer	2048	number.integer	65536	-	-
+lax.mixed.codes.nil	ok	8	number.integer	1	number.integer	65	number.integer	2	number.integer	128	number.integer	4	number.integer	2048	number.integer	7	number.integer	65536	-	-
+lax.mixed.len.true	ok	1	number.integer	4	-	-
+lax.mixed.codepoint.true	ok	4	number.integer	65	number.integer	128	number.integer	2048	number.integer	65536	-	-
+lax.mixed.codes.true	ok	8	number.integer	1	number.integer	65	number.integer	2	number.integer	128	number.integer	4	number.integer	2048	number.integer	7	number.integer	65536	-	-
+lax.mixed.len.zero	ok	1	number.integer	4	-	-
+lax.mixed.codepoint.zero	ok	4	number.integer	65	number.integer	128	number.integer	2048	number.integer	65536	-	-
+lax.mixed.codes.zero	ok	8	number.integer	1	number.integer	65	number.integer	2	number.integer	128	number.integer	4	number.integer	2048	number.integer	7	number.integer	65536	-	-
+lax.mixed.len.empty	ok	1	number.integer	4	-	-
+lax.mixed.codepoint.empty	ok	4	number.integer	65	number.integer	128	number.integer	2048	number.integer	65536	-	-
+lax.mixed.codes.empty	ok	8	number.integer	1	number.integer	65	number.integer	2	number.integer	128	number.integer	4	number.integer	2048	number.integer	7	number.integer	65536	-	-
+lax.mixed.len.table	ok	1	number.integer	4	-	-
+lax.mixed.codepoint.table	ok	4	number.integer	65	number.integer	128	number.integer	2048	number.integer	65536	-	-
+lax.mixed.codes.table	ok	8	number.integer	1	number.integer	65	number.integer	2	number.integer	128	number.integer	4	number.integer	2048	number.integer	7	number.integer	65536	-	-

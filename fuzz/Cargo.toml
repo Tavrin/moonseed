@@ -1,0 +1,118 @@
+[package]
+name = "moonseed-fuzz"
+version = "0.0.0"
+edition = "2024"
+publish = false
+description = "libFuzzer targets for Moonseed (cargo-fuzz); never published."
+
+[package.metadata]
+cargo-fuzz = true
+
+[dependencies]
+libfuzzer-sys = "0.4"
+moonseed = { path = "../crates/moonseed" }
+
+# Its own workspace: the root workspace's members list does not include it,
+# so `cargo build --workspace` at the root never builds the fuzz targets.
+[workspace]
+members = ["."]
+
+[profile.release]
+debug = 1
+
+[lib]
+path = "src/lib.rs"
+test = false
+doc = false
+
+[[bin]]
+name = "compile"
+path = "fuzz_targets/compile.rs"
+test = false
+doc = false
+bench = false
+
+[[bin]]
+name = "compile_run"
+path = "fuzz_targets/compile_run.rs"
+test = false
+doc = false
+bench = false
+
+[[bin]]
+name = "chunk_load"
+path = "fuzz_targets/chunk_load.rs"
+test = false
+doc = false
+bench = false
+
+[[bin]]
+name = "snapshot_restore"
+path = "fuzz_targets/snapshot_restore.rs"
+test = false
+doc = false
+bench = false
+
+[[bin]]
+name = "gc_restore"
+path = "fuzz_targets/gc_restore.rs"
+test = false
+doc = false
+bench = false
+
+[[bin]]
+name = "hostcap_restore"
+path = "fuzz_targets/hostcap_restore.rs"
+test = false
+doc = false
+bench = false
+
+[[bin]]
+name = "pattern"
+path = "fuzz_targets/pattern.rs"
+test = false
+doc = false
+bench = false
+
+[[bin]]
+name = "utf8"
+path = "fuzz_targets/utf8.rs"
+test = false
+doc = false
+bench = false
+
+[[bin]]
+name = "pack"
+path = "fuzz_targets/pack.rs"
+test = false
+doc = false
+bench = false
+
+[[bin]]
+name = "table_ops"
+path = "fuzz_targets/table_ops.rs"
+test = false
+doc = false
+bench = false
+
+[[bin]]
+name = "io_vfs"
+path = "fuzz_targets/io_vfs.rs"
+test = false
+doc = false
+bench = false
+
+[[bin]]
+name = "searchpath"
+path = "fuzz_targets/searchpath.rs"
+test = false
+doc = false
+bench = false
+
+[[bin]]
+name = "diag"
+path = "fuzz_targets/diag.rs"
+test = false
+doc = false
+bench = false
+

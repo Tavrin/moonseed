@@ -1,0 +1,122 @@
+A1	0:
+A6	1:true
+A2	1:nil
+A7	2:true,nil
+A3	2:nil,nil
+A8	3:true,nil,nil
+A4	2:a,nil
+A9	5:true,1,nil,3,nil
+A5	0:
+A10	4:true,nil,r,nil
+A11	2:false,cannot resume dead coroutine	dead
+A12	251	true	1	2	249	250
+A13	251	3	248
+B1	thread	true	running	false	false
+B9	suspended	true
+B4	normal	running	suspended
+B2	normal	normal	running	normal
+B3	true	true	true	false
+B5	2:true,c
+B6	suspended
+B7	2:true,b
+B8	suspended	suspended
+B10	2:true,a
+B11	dead	suspended	suspended	true
+B12	2:false,cannot resume non-suspended coroutine	2:false,cannot resume non-suspended coroutine
+B13	3:true,false,cannot resume non-suspended coroutine
+B14	4:true,true,false,cannot resume non-suspended coroutine
+C1	2:true,42
+C2	2:false,boom	dead
+C3	2:false,cannot resume dead coroutine
+C4	false	true
+C5	false	attempt to yield from outside a coroutine
+C6	false	bad argument #1 to 'coroutine.create' (function expected, got table)
+C7	false	bad argument #1 to 'coroutine.create' (function expected, got table)
+C8	false	bad argument #1 to 'coroutine.resume' (thread expected, got no value)
+C9	false	bad argument #1 to 'coroutine.resume' (thread expected, got table)
+C10	false	bad argument #1 to 'coroutine.status' (thread expected, got nil)
+C11	false	bad argument #1 to 'coroutine.close' (thread expected, got no value)
+C12	false	bad argument #1 to 'coroutine.isyieldable' (thread expected, got number)
+C13	false	bad argument #1 to 'coroutine.wrap' (function expected, got number)
+C14	1	false	bad argument #1 to 'coroutine.isyieldable' (thread expected, got nil)
+printed	nil	3
+D1	1:true	dead
+D2	2:false,e	dead
+D3	3:true,1,2	2:true,3	dead
+D4	2:true,11
+D5	3:true,false,inner	dead
+D6	3	function
+E1	2:false,closeerr	b:nil a:closeerr	dead
+E2	1:true	2:false,cannot resume dead coroutine
+E3	2:false,died
+E4	2:false,died	c2:died
+E5	1:true
+E6	1:true
+E7	dead	2:false,cannot resume dead coroutine
+E8	false	cannot close a running coroutine
+E9	false	cannot close a normal coroutine
+E10	false	cannot close a running coroutine
+E11	true
+E12	false	attempt to yield across a C-call boundary
+E13	1:true	ok:nil
+F1	3:1,nil,3
+F2	2:end,0
+F3	false	cannot resume dead coroutine
+F4	false	corpus_coroutine.lua:154: wrapped
+F5	false	corpus_coroutine.lua:154: cannot resume dead coroutine
+F6	true
+F7	false	w:orig
+F8	false	attempt to yield across a C-call boundary
+F9	true	function
+F10	1	1
+F10	2	4
+F10	3	9
+F11	one+two+three
+F12	false	corpus_coroutine.lua:175: cannot resume non-suspended coroutine
+G1	false	C stack overflow
+G2	197
+G3	true	bottom
+G4	C stack overflow
+H12	1:through pcall
+H1	true	k-val
+H2	false	attempt to yield across a C-call boundary
+H3	false	attempt to yield across a C-call boundary
+H4	false	attempt to yield across a C-call boundary
+H5	true	nil	attempt to yield across a C-call boundary
+H6	false	attempt to yield across a C-call boundary
+H7	false	attempt to yield across a C-call boundary
+H13	1:key
+H8	add-val
+H14	1:add
+H9	pcall-val
+H15	1:in pcall
+I1	nil	stack traceback:
+I2	a	b	2
+I3	C	213
+I4	susp
+stack traceback:
+	[C]: in function 'coroutine.yield'
+	corpus_coroutine.lua:213: in function <corpus_coroutine.lua:211>
+I5	dead	stack traceback:
+	[C]: in function 'error'
+	corpus_coroutine.lua:214: in function <corpus_coroutine.lua:211>
+I6	99
+I7	nil	stack traceback:
+I8	stack traceback:
+	[C]: in function 'coroutine.resume'
+	corpus_coroutine.lua:230: in function <corpus_coroutine.lua:228>
+I9	stack traceback:
+	[C]: in function 'error'	nil
+I10	stack traceback:
+	[C]: in function 'coroutine.yield'
+J1	Lua:nil C:pcall
+J2	false	43
+J3	Lua:close Lua:onreturn
+J5	Lua:nil C:pcall
+J4	Lua:nil C:pcall
+J6	false	e
+J7	Lua:nil
+J8	Lua:nil
+J1	Lua:nil C:pcall Lua:nil
+J9	true	false	43
+done

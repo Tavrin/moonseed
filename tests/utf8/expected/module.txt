@@ -1,0 +1,2 @@
+module.require	ok	3	boolean	true	boolean	true	boolean	true	-	-
+module.fields	ok	6	string	63686172	string	636861727061747465726e	string	636f6465706f696e74	string	636f646573	string	6c656e	string	6f6666736574	-	-

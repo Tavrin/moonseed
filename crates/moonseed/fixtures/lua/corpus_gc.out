@@ -1,0 +1,70 @@
+A order	c, b, a
+A late	
+A reset	reset
+A keep place	second, first again
+A debug	debug userdata, debug table
+A lookup	c ran
+A replaced	new
+B saved	7	true
+B once	save
+B again	round 1, round 2, round 3
+B reach	inner
+C values	false true true true true false false false false	short	60
+C strong keys	1
+D keys	5	kept	table	table	table	table
+D chain	1	1	1
+D chain dead	0	0	0
+D same table	199
+D same table dead	0
+D cycle	0
+E both	2	true	nil	one
+F mode	string	1	2
+F mode	string	0	2
+F mode	string	2	1
+F mode	string	2	0
+F mode	string	41	2
+F mode	string	2	2
+F mode	string	4	1
+F mode	number	1	2
+F strong	1	1
+F now weak	0	0
+F strong again	1
+F k to v	1
+G next	5	true	true	5
+G insert after	6
+H during	in gc: weak value nil, in gc: weak key meta
+H after	0	1
+H next cycle	0
+H ephemeron	data kept for gc
+H resurrected weak	w 1
+H resurrected weak after	1
+I main	yieldable false, main true, collect nil, count nil
+I coroutine	true	after
+I coroutine	main false, yieldable false
+[warn] error in __gc (attempt to yield across a C-call boundary)
+I yield	no yield
+[warn] error in __gc (error object is not a string)
+[warn] error in __gc (error object is not a string)
+[warn] error in __gc (error object is not a string)
+[warn] error in __gc (string error)
+J xpcall	true
+J	j6, j1
+[warn] one
+[warn] two pieces 3 4.5
+[warn] @on
+[warn] zero next
+K	false	bad argument #1 to 'warn' (string expected, got no value)
+K	false	bad argument #2 to 'warn' (string expected, got table)
+K	false	bad argument #1 to 'warn' (string expected, got nil)
+[warn] x
+K	0
+L	ud uv
+N	50
+N dead	0
+M step	true
+M	step
+end
+closing: last registered
+closing: error next
+[warn] error in __gc (at close)
+closing: first registered

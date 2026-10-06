@@ -1,0 +1,23 @@
+A	generational	generational
+A	generational	incremental
+A	generational	true
+A step	false	false
+A collect	0	generational
+B	234
+C	10
+D	1	+
+E	123	hello
+F	nil
+G new	1	new
+G survival	1	survival
+G old	1	old
+G young holds old	1	holds kept
+H	1	1	1	young value	true
+H full	1	1	1
+I weak	nil
+I strong	table
+J	1830	60	60
+K	4501500	nil
+M	false	0	false	0
+M full	1
+L	generational	incremental

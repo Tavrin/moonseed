@@ -1,0 +1,27 @@
+# Invariants
+
+- No continuation the collector or a snapshot must see lives only on the Rust stack.
+- `ObjectId` is the only identity in a snapshot. Handles, generations, and the owner token are not.
+- A `Root` keeps its target alive and works only on the runtime that created it.
+- A handle does not keep its target alive. After the slot is freed, lookup fails. Generations do not wrap.
+- Collection runs at safe points: between instructions, at `HostCall::Prepared`, and at `HostCall::Waiting`.
+- Safe points are not Lua yields. `Waiting` is thread state and stays until `complete_wait`. Fuel does not clear it.
+- `CallHost` charges once. The host runs only from `Prepared`, and the PC advances only after a ready result or `complete_wait`.
+- The same `EffectId` returns the journal’s stored outcome.
+- `from_snapshot` either returns a new runtime or an error. It does not modify an existing one.
+- Snapshot decode checks counts before it allocates the declared number of objects.
+- String table keys are bytes. Distinct tables are distinct keys.
+- `COUNT_OPEN` (`u8::MAX`) keeps every value below `top`, nils included. A smaller count is exact, and zero discards every result.
+- Assignment destinations are frame state. Stores run right to left after a single fuel charge. The cursor before and between stores is a safe point, not a Lua yield.
+- An execution cache, if one is added later, is not snapshot state. None is implemented.
+- `next` order is insertion order. A dead anchor keeps a deleted key's position and does not root that key.
+- Raw length is the smallest Lua border. It is not `#` and it is not "any border."
+- An absent-key insert drops every dead anchor once they outnumber half the live entries (ADR 0052), otherwise none. A value update and a pure delete never do. A key's live slot is its last slot.
+- The runtime core has no `unsafe`.
+- `compile` either returns a validated prototype or an error. It does not mutate a runtime.
+- Instruction spans are not snapshot state. `Jump` does not close upvalues.
+- The quota is on the exact logical heap (`GcState::used`): the sum of every object's logical size, plus what the running sweep has freed until it ends. Collector estimates (`live`, `debt`, thresholds) only schedule collections and never authorize an allocation (ADR 0051).
+- A thread is charged at least the stack slots its frames can write and the bytes its builtins hold. A collection tracing it charges it what it holds then.
+- Restore counts the logical heap from the decoded objects and never reads it from the image.
+- In generational form, no young object can be freed while an old object refers to it, weakly or strongly, unless a young collection traces the old one first. Restore checks this in every phase and refuses an image that breaks it (`gc::check_gen_invariant`).
+- A slot is on its arena's `again` list at most once.

@@ -1,0 +1,1 @@
+dofile_stdin.default	ok	4	number.integer	71	nil	-	string	737464696e	nil	-	-	-

@@ -1,0 +1,8 @@
+flat.add.ok	ok	-	-	-
+flat.logical.ok	ok	-	-	-
+flat.field.ok	ok	-	-	-
+flat.call.ok	ok	-	-	-
+flat.method.ok	ok	-	-	-
+flat.mixed.ok	ok	-	-	-
+flat.arithmetic-line	error	string	646961672e6c75613a333a20617474656d707420746f20706572666f726d2061726974686d65746963206f6e206120626f6f6c65616e2076616c7565	-
+flat.suffix-line	error	string	646961672e6c75613a333a20617474656d707420746f20696e6465782061206e696c2076616c756520286669656c6420276d697373696e672729	-

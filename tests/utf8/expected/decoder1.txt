@@ -1,0 +1,1792 @@
+decoder1.00.len.strict	ok	1	number.integer	1	-	-
+decoder1.00.len.lax	ok	1	number.integer	1	-	-
+decoder1.00.codepoint.strict	ok	1	number.integer	0	-	-
+decoder1.00.codepoint.lax	ok	1	number.integer	0	-	-
+decoder1.00.codes.strict	ok	2	number.integer	1	number.integer	0	-	-
+decoder1.00.codes.lax	ok	2	number.integer	1	number.integer	0	-	-
+decoder1.00.offset	ok	1	number.integer	1	-	-
+decoder1.01.len.strict	ok	1	number.integer	1	-	-
+decoder1.01.len.lax	ok	1	number.integer	1	-	-
+decoder1.01.codepoint.strict	ok	1	number.integer	1	-	-
+decoder1.01.codepoint.lax	ok	1	number.integer	1	-	-
+decoder1.01.codes.strict	ok	2	number.integer	1	number.integer	1	-	-
+decoder1.01.codes.lax	ok	2	number.integer	1	number.integer	1	-	-
+decoder1.01.offset	ok	1	number.integer	1	-	-
+decoder1.02.len.strict	ok	1	number.integer	1	-	-
+decoder1.02.len.lax	ok	1	number.integer	1	-	-
+decoder1.02.codepoint.strict	ok	1	number.integer	2	-	-
+decoder1.02.codepoint.lax	ok	1	number.integer	2	-	-
+decoder1.02.codes.strict	ok	2	number.integer	1	number.integer	2	-	-
+decoder1.02.codes.lax	ok	2	number.integer	1	number.integer	2	-	-
+decoder1.02.offset	ok	1	number.integer	1	-	-
+decoder1.03.len.strict	ok	1	number.integer	1	-	-
+decoder1.03.len.lax	ok	1	number.integer	1	-	-
+decoder1.03.codepoint.strict	ok	1	number.integer	3	-	-
+decoder1.03.codepoint.lax	ok	1	number.integer	3	-	-
+decoder1.03.codes.strict	ok	2	number.integer	1	number.integer	3	-	-
+decoder1.03.codes.lax	ok	2	number.integer	1	number.integer	3	-	-
+decoder1.03.offset	ok	1	number.integer	1	-	-
+decoder1.04.len.strict	ok	1	number.integer	1	-	-
+decoder1.04.len.lax	ok	1	number.integer	1	-	-
+decoder1.04.codepoint.strict	ok	1	number.integer	4	-	-
+decoder1.04.codepoint.lax	ok	1	number.integer	4	-	-
+decoder1.04.codes.strict	ok	2	number.integer	1	number.integer	4	-	-
+decoder1.04.codes.lax	ok	2	number.integer	1	number.integer	4	-	-
+decoder1.04.offset	ok	1	number.integer	1	-	-
+decoder1.05.len.strict	ok	1	number.integer	1	-	-
+decoder1.05.len.lax	ok	1	number.integer	1	-	-
+decoder1.05.codepoint.strict	ok	1	number.integer	5	-	-
+decoder1.05.codepoint.lax	ok	1	number.integer	5	-	-
+decoder1.05.codes.strict	ok	2	number.integer	1	number.integer	5	-	-
+decoder1.05.codes.lax	ok	2	number.integer	1	number.integer	5	-	-
+decoder1.05.offset	ok	1	number.integer	1	-	-
+decoder1.06.len.strict	ok	1	number.integer	1	-	-
+decoder1.06.len.lax	ok	1	number.integer	1	-	-
+decoder1.06.codepoint.strict	ok	1	number.integer	6	-	-
+decoder1.06.codepoint.lax	ok	1	number.integer	6	-	-
+decoder1.06.codes.strict	ok	2	number.integer	1	number.integer	6	-	-
+decoder1.06.codes.lax	ok	2	number.integer	1	number.integer	6	-	-
+decoder1.06.offset	ok	1	number.integer	1	-	-
+decoder1.07.len.strict	ok	1	number.integer	1	-	-
+decoder1.07.len.lax	ok	1	number.integer	1	-	-
+decoder1.07.codepoint.strict	ok	1	number.integer	7	-	-
+decoder1.07.codepoint.lax	ok	1	number.integer	7	-	-
+decoder1.07.codes.strict	ok	2	number.integer	1	number.integer	7	-	-
+decoder1.07.codes.lax	ok	2	number.integer	1	number.integer	7	-	-
+decoder1.07.offset	ok	1	number.integer	1	-	-
+decoder1.08.len.strict	ok	1	number.integer	1	-	-
+decoder1.08.len.lax	ok	1	number.integer	1	-	-
+decoder1.08.codepoint.strict	ok	1	number.integer	8	-	-
+decoder1.08.codepoint.lax	ok	1	number.integer	8	-	-
+decoder1.08.codes.strict	ok	2	number.integer	1	number.integer	8	-	-
+decoder1.08.codes.lax	ok	2	number.integer	1	number.integer	8	-	-
+decoder1.08.offset	ok	1	number.integer	1	-	-
+decoder1.09.len.strict	ok	1	number.integer	1	-	-
+decoder1.09.len.lax	ok	1	number.integer	1	-	-
+decoder1.09.codepoint.strict	ok	1	number.integer	9	-	-
+decoder1.09.codepoint.lax	ok	1	number.integer	9	-	-
+decoder1.09.codes.strict	ok	2	number.integer	1	number.integer	9	-	-
+decoder1.09.codes.lax	ok	2	number.integer	1	number.integer	9	-	-
+decoder1.09.offset	ok	1	number.integer	1	-	-
+decoder1.0a.len.strict	ok	1	number.integer	1	-	-
+decoder1.0a.len.lax	ok	1	number.integer	1	-	-
+decoder1.0a.codepoint.strict	ok	1	number.integer	10	-	-
+decoder1.0a.codepoint.lax	ok	1	number.integer	10	-	-
+decoder1.0a.codes.strict	ok	2	number.integer	1	number.integer	10	-	-
+decoder1.0a.codes.lax	ok	2	number.integer	1	number.integer	10	-	-
+decoder1.0a.offset	ok	1	number.integer	1	-	-
+decoder1.0b.len.strict	ok	1	number.integer	1	-	-
+decoder1.0b.len.lax	ok	1	number.integer	1	-	-
+decoder1.0b.codepoint.strict	ok	1	number.integer	11	-	-
+decoder1.0b.codepoint.lax	ok	1	number.integer	11	-	-
+decoder1.0b.codes.strict	ok	2	number.integer	1	number.integer	11	-	-
+decoder1.0b.codes.lax	ok	2	number.integer	1	number.integer	11	-	-
+decoder1.0b.offset	ok	1	number.integer	1	-	-
+decoder1.0c.len.strict	ok	1	number.integer	1	-	-
+decoder1.0c.len.lax	ok	1	number.integer	1	-	-
+decoder1.0c.codepoint.strict	ok	1	number.integer	12	-	-
+decoder1.0c.codepoint.lax	ok	1	number.integer	12	-	-
+decoder1.0c.codes.strict	ok	2	number.integer	1	number.integer	12	-	-
+decoder1.0c.codes.lax	ok	2	number.integer	1	number.integer	12	-	-
+decoder1.0c.offset	ok	1	number.integer	1	-	-
+decoder1.0d.len.strict	ok	1	number.integer	1	-	-
+decoder1.0d.len.lax	ok	1	number.integer	1	-	-
+decoder1.0d.codepoint.strict	ok	1	number.integer	13	-	-
+decoder1.0d.codepoint.lax	ok	1	number.integer	13	-	-
+decoder1.0d.codes.strict	ok	2	number.integer	1	number.integer	13	-	-
+decoder1.0d.codes.lax	ok	2	number.integer	1	number.integer	13	-	-
+decoder1.0d.offset	ok	1	number.integer	1	-	-
+decoder1.0e.len.strict	ok	1	number.integer	1	-	-
+decoder1.0e.len.lax	ok	1	number.integer	1	-	-
+decoder1.0e.codepoint.strict	ok	1	number.integer	14	-	-
+decoder1.0e.codepoint.lax	ok	1	number.integer	14	-	-
+decoder1.0e.codes.strict	ok	2	number.integer	1	number.integer	14	-	-
+decoder1.0e.codes.lax	ok	2	number.integer	1	number.integer	14	-	-
+decoder1.0e.offset	ok	1	number.integer	1	-	-
+decoder1.0f.len.strict	ok	1	number.integer	1	-	-
+decoder1.0f.len.lax	ok	1	number.integer	1	-	-
+decoder1.0f.codepoint.strict	ok	1	number.integer	15	-	-
+decoder1.0f.codepoint.lax	ok	1	number.integer	15	-	-
+decoder1.0f.codes.strict	ok	2	number.integer	1	number.integer	15	-	-
+decoder1.0f.codes.lax	ok	2	number.integer	1	number.integer	15	-	-
+decoder1.0f.offset	ok	1	number.integer	1	-	-
+decoder1.10.len.strict	ok	1	number.integer	1	-	-
+decoder1.10.len.lax	ok	1	number.integer	1	-	-
+decoder1.10.codepoint.strict	ok	1	number.integer	16	-	-
+decoder1.10.codepoint.lax	ok	1	number.integer	16	-	-
+decoder1.10.codes.strict	ok	2	number.integer	1	number.integer	16	-	-
+decoder1.10.codes.lax	ok	2	number.integer	1	number.integer	16	-	-
+decoder1.10.offset	ok	1	number.integer	1	-	-
+decoder1.11.len.strict	ok	1	number.integer	1	-	-
+decoder1.11.len.lax	ok	1	number.integer	1	-	-
+decoder1.11.codepoint.strict	ok	1	number.integer	17	-	-
+decoder1.11.codepoint.lax	ok	1	number.integer	17	-	-
+decoder1.11.codes.strict	ok	2	number.integer	1	number.integer	17	-	-
+decoder1.11.codes.lax	ok	2	number.integer	1	number.integer	17	-	-
+decoder1.11.offset	ok	1	number.integer	1	-	-
+decoder1.12.len.strict	ok	1	number.integer	1	-	-
+decoder1.12.len.lax	ok	1	number.integer	1	-	-
+decoder1.12.codepoint.strict	ok	1	number.integer	18	-	-
+decoder1.12.codepoint.lax	ok	1	number.integer	18	-	-
+decoder1.12.codes.strict	ok	2	number.integer	1	number.integer	18	-	-
+decoder1.12.codes.lax	ok	2	number.integer	1	number.integer	18	-	-
+decoder1.12.offset	ok	1	number.integer	1	-	-
+decoder1.13.len.strict	ok	1	number.integer	1	-	-
+decoder1.13.len.lax	ok	1	number.integer	1	-	-
+decoder1.13.codepoint.strict	ok	1	number.integer	19	-	-
+decoder1.13.codepoint.lax	ok	1	number.integer	19	-	-
+decoder1.13.codes.strict	ok	2	number.integer	1	number.integer	19	-	-
+decoder1.13.codes.lax	ok	2	number.integer	1	number.integer	19	-	-
+decoder1.13.offset	ok	1	number.integer	1	-	-
+decoder1.14.len.strict	ok	1	number.integer	1	-	-
+decoder1.14.len.lax	ok	1	number.integer	1	-	-
+decoder1.14.codepoint.strict	ok	1	number.integer	20	-	-
+decoder1.14.codepoint.lax	ok	1	number.integer	20	-	-
+decoder1.14.codes.strict	ok	2	number.integer	1	number.integer	20	-	-
+decoder1.14.codes.lax	ok	2	number.integer	1	number.integer	20	-	-
+decoder1.14.offset	ok	1	number.integer	1	-	-
+decoder1.15.len.strict	ok	1	number.integer	1	-	-
+decoder1.15.len.lax	ok	1	number.integer	1	-	-
+decoder1.15.codepoint.strict	ok	1	number.integer	21	-	-
+decoder1.15.codepoint.lax	ok	1	number.integer	21	-	-
+decoder1.15.codes.strict	ok	2	number.integer	1	number.integer	21	-	-
+decoder1.15.codes.lax	ok	2	number.integer	1	number.integer	21	-	-
+decoder1.15.offset	ok	1	number.integer	1	-	-
+decoder1.16.len.strict	ok	1	number.integer	1	-	-
+decoder1.16.len.lax	ok	1	number.integer	1	-	-
+decoder1.16.codepoint.strict	ok	1	number.integer	22	-	-
+decoder1.16.codepoint.lax	ok	1	number.integer	22	-	-
+decoder1.16.codes.strict	ok	2	number.integer	1	number.integer	22	-	-
+decoder1.16.codes.lax	ok	2	number.integer	1	number.integer	22	-	-
+decoder1.16.offset	ok	1	number.integer	1	-	-
+decoder1.17.len.strict	ok	1	number.integer	1	-	-
+decoder1.17.len.lax	ok	1	number.integer	1	-	-
+decoder1.17.codepoint.strict	ok	1	number.integer	23	-	-
+decoder1.17.codepoint.lax	ok	1	number.integer	23	-	-
+decoder1.17.codes.strict	ok	2	number.integer	1	number.integer	23	-	-
+decoder1.17.codes.lax	ok	2	number.integer	1	number.integer	23	-	-
+decoder1.17.offset	ok	1	number.integer	1	-	-
+decoder1.18.len.strict	ok	1	number.integer	1	-	-
+decoder1.18.len.lax	ok	1	number.integer	1	-	-
+decoder1.18.codepoint.strict	ok	1	number.integer	24	-	-
+decoder1.18.codepoint.lax	ok	1	number.integer	24	-	-
+decoder1.18.codes.strict	ok	2	number.integer	1	number.integer	24	-	-
+decoder1.18.codes.lax	ok	2	number.integer	1	number.integer	24	-	-
+decoder1.18.offset	ok	1	number.integer	1	-	-
+decoder1.19.len.strict	ok	1	number.integer	1	-	-
+decoder1.19.len.lax	ok	1	number.integer	1	-	-
+decoder1.19.codepoint.strict	ok	1	number.integer	25	-	-
+decoder1.19.codepoint.lax	ok	1	number.integer	25	-	-
+decoder1.19.codes.strict	ok	2	number.integer	1	number.integer	25	-	-
+decoder1.19.codes.lax	ok	2	number.integer	1	number.integer	25	-	-
+decoder1.19.offset	ok	1	number.integer	1	-	-
+decoder1.1a.len.strict	ok	1	number.integer	1	-	-
+decoder1.1a.len.lax	ok	1	number.integer	1	-	-
+decoder1.1a.codepoint.strict	ok	1	number.integer	26	-	-
+decoder1.1a.codepoint.lax	ok	1	number.integer	26	-	-
+decoder1.1a.codes.strict	ok	2	number.integer	1	number.integer	26	-	-
+decoder1.1a.codes.lax	ok	2	number.integer	1	number.integer	26	-	-
+decoder1.1a.offset	ok	1	number.integer	1	-	-
+decoder1.1b.len.strict	ok	1	number.integer	1	-	-
+decoder1.1b.len.lax	ok	1	number.integer	1	-	-
+decoder1.1b.codepoint.strict	ok	1	number.integer	27	-	-
+decoder1.1b.codepoint.lax	ok	1	number.integer	27	-	-
+decoder1.1b.codes.strict	ok	2	number.integer	1	number.integer	27	-	-
+decoder1.1b.codes.lax	ok	2	number.integer	1	number.integer	27	-	-
+decoder1.1b.offset	ok	1	number.integer	1	-	-
+decoder1.1c.len.strict	ok	1	number.integer	1	-	-
+decoder1.1c.len.lax	ok	1	number.integer	1	-	-
+decoder1.1c.codepoint.strict	ok	1	number.integer	28	-	-
+decoder1.1c.codepoint.lax	ok	1	number.integer	28	-	-
+decoder1.1c.codes.strict	ok	2	number.integer	1	number.integer	28	-	-
+decoder1.1c.codes.lax	ok	2	number.integer	1	number.integer	28	-	-
+decoder1.1c.offset	ok	1	number.integer	1	-	-
+decoder1.1d.len.strict	ok	1	number.integer	1	-	-
+decoder1.1d.len.lax	ok	1	number.integer	1	-	-
+decoder1.1d.codepoint.strict	ok	1	number.integer	29	-	-
+decoder1.1d.codepoint.lax	ok	1	number.integer	29	-	-
+decoder1.1d.codes.strict	ok	2	number.integer	1	number.integer	29	-	-
+decoder1.1d.codes.lax	ok	2	number.integer	1	number.integer	29	-	-
+decoder1.1d.offset	ok	1	number.integer	1	-	-
+decoder1.1e.len.strict	ok	1	number.integer	1	-	-
+decoder1.1e.len.lax	ok	1	number.integer	1	-	-
+decoder1.1e.codepoint.strict	ok	1	number.integer	30	-	-
+decoder1.1e.codepoint.lax	ok	1	number.integer	30	-	-
+decoder1.1e.codes.strict	ok	2	number.integer	1	number.integer	30	-	-
+decoder1.1e.codes.lax	ok	2	number.integer	1	number.integer	30	-	-
+decoder1.1e.offset	ok	1	number.integer	1	-	-
+decoder1.1f.len.strict	ok	1	number.integer	1	-	-
+decoder1.1f.len.lax	ok	1	number.integer	1	-	-
+decoder1.1f.codepoint.strict	ok	1	number.integer	31	-	-
+decoder1.1f.codepoint.lax	ok	1	number.integer	31	-	-
+decoder1.1f.codes.strict	ok	2	number.integer	1	number.integer	31	-	-
+decoder1.1f.codes.lax	ok	2	number.integer	1	number.integer	31	-	-
+decoder1.1f.offset	ok	1	number.integer	1	-	-
+decoder1.20.len.strict	ok	1	number.integer	1	-	-
+decoder1.20.len.lax	ok	1	number.integer	1	-	-
+decoder1.20.codepoint.strict	ok	1	number.integer	32	-	-
+decoder1.20.codepoint.lax	ok	1	number.integer	32	-	-
+decoder1.20.codes.strict	ok	2	number.integer	1	number.integer	32	-	-
+decoder1.20.codes.lax	ok	2	number.integer	1	number.integer	32	-	-
+decoder1.20.offset	ok	1	number.integer	1	-	-
+decoder1.21.len.strict	ok	1	number.integer	1	-	-
+decoder1.21.len.lax	ok	1	number.integer	1	-	-
+decoder1.21.codepoint.strict	ok	1	number.integer	33	-	-
+decoder1.21.codepoint.lax	ok	1	number.integer	33	-	-
+decoder1.21.codes.strict	ok	2	number.integer	1	number.integer	33	-	-
+decoder1.21.codes.lax	ok	2	number.integer	1	number.integer	33	-	-
+decoder1.21.offset	ok	1	number.integer	1	-	-
+decoder1.22.len.strict	ok	1	number.integer	1	-	-
+decoder1.22.len.lax	ok	1	number.integer	1	-	-
+decoder1.22.codepoint.strict	ok	1	number.integer	34	-	-
+decoder1.22.codepoint.lax	ok	1	number.integer	34	-	-
+decoder1.22.codes.strict	ok	2	number.integer	1	number.integer	34	-	-
+decoder1.22.codes.lax	ok	2	number.integer	1	number.integer	34	-	-
+decoder1.22.offset	ok	1	number.integer	1	-	-
+decoder1.23.len.strict	ok	1	number.integer	1	-	-
+decoder1.23.len.lax	ok	1	number.integer	1	-	-
+decoder1.23.codepoint.strict	ok	1	number.integer	35	-	-
+decoder1.23.codepoint.lax	ok	1	number.integer	35	-	-
+decoder1.23.codes.strict	ok	2	number.integer	1	number.integer	35	-	-
+decoder1.23.codes.lax	ok	2	number.integer	1	number.integer	35	-	-
+decoder1.23.offset	ok	1	number.integer	1	-	-
+decoder1.24.len.strict	ok	1	number.integer	1	-	-
+decoder1.24.len.lax	ok	1	number.integer	1	-	-
+decoder1.24.codepoint.strict	ok	1	number.integer	36	-	-
+decoder1.24.codepoint.lax	ok	1	number.integer	36	-	-
+decoder1.24.codes.strict	ok	2	number.integer	1	number.integer	36	-	-
+decoder1.24.codes.lax	ok	2	number.integer	1	number.integer	36	-	-
+decoder1.24.offset	ok	1	number.integer	1	-	-
+decoder1.25.len.strict	ok	1	number.integer	1	-	-
+decoder1.25.len.lax	ok	1	number.integer	1	-	-
+decoder1.25.codepoint.strict	ok	1	number.integer	37	-	-
+decoder1.25.codepoint.lax	ok	1	number.integer	37	-	-
+decoder1.25.codes.strict	ok	2	number.integer	1	number.integer	37	-	-
+decoder1.25.codes.lax	ok	2	number.integer	1	number.integer	37	-	-
+decoder1.25.offset	ok	1	number.integer	1	-	-
+decoder1.26.len.strict	ok	1	number.integer	1	-	-
+decoder1.26.len.lax	ok	1	number.integer	1	-	-
+decoder1.26.codepoint.strict	ok	1	number.integer	38	-	-
+decoder1.26.codepoint.lax	ok	1	number.integer	38	-	-
+decoder1.26.codes.strict	ok	2	number.integer	1	number.integer	38	-	-
+decoder1.26.codes.lax	ok	2	number.integer	1	number.integer	38	-	-
+decoder1.26.offset	ok	1	number.integer	1	-	-
+decoder1.27.len.strict	ok	1	number.integer	1	-	-
+decoder1.27.len.lax	ok	1	number.integer	1	-	-
+decoder1.27.codepoint.strict	ok	1	number.integer	39	-	-
+decoder1.27.codepoint.lax	ok	1	number.integer	39	-	-
+decoder1.27.codes.strict	ok	2	number.integer	1	number.integer	39	-	-
+decoder1.27.codes.lax	ok	2	number.integer	1	number.integer	39	-	-
+decoder1.27.offset	ok	1	number.integer	1	-	-
+decoder1.28.len.strict	ok	1	number.integer	1	-	-
+decoder1.28.len.lax	ok	1	number.integer	1	-	-
+decoder1.28.codepoint.strict	ok	1	number.integer	40	-	-
+decoder1.28.codepoint.lax	ok	1	number.integer	40	-	-
+decoder1.28.codes.strict	ok	2	number.integer	1	number.integer	40	-	-
+decoder1.28.codes.lax	ok	2	number.integer	1	number.integer	40	-	-
+decoder1.28.offset	ok	1	number.integer	1	-	-
+decoder1.29.len.strict	ok	1	number.integer	1	-	-
+decoder1.29.len.lax	ok	1	number.integer	1	-	-
+decoder1.29.codepoint.strict	ok	1	number.integer	41	-	-
+decoder1.29.codepoint.lax	ok	1	number.integer	41	-	-
+decoder1.29.codes.strict	ok	2	number.integer	1	number.integer	41	-	-
+decoder1.29.codes.lax	ok	2	number.integer	1	number.integer	41	-	-
+decoder1.29.offset	ok	1	number.integer	1	-	-
+decoder1.2a.len.strict	ok	1	number.integer	1	-	-
+decoder1.2a.len.lax	ok	1	number.integer	1	-	-
+decoder1.2a.codepoint.strict	ok	1	number.integer	42	-	-
+decoder1.2a.codepoint.lax	ok	1	number.integer	42	-	-
+decoder1.2a.codes.strict	ok	2	number.integer	1	number.integer	42	-	-
+decoder1.2a.codes.lax	ok	2	number.integer	1	number.integer	42	-	-
+decoder1.2a.offset	ok	1	number.integer	1	-	-
+decoder1.2b.len.strict	ok	1	number.integer	1	-	-
+decoder1.2b.len.lax	ok	1	number.integer	1	-	-
+decoder1.2b.codepoint.strict	ok	1	number.integer	43	-	-
+decoder1.2b.codepoint.lax	ok	1	number.integer	43	-	-
+decoder1.2b.codes.strict	ok	2	number.integer	1	number.integer	43	-	-
+decoder1.2b.codes.lax	ok	2	number.integer	1	number.integer	43	-	-
+decoder1.2b.offset	ok	1	number.integer	1	-	-
+decoder1.2c.len.strict	ok	1	number.integer	1	-	-
+decoder1.2c.len.lax	ok	1	number.integer	1	-	-
+decoder1.2c.codepoint.strict	ok	1	number.integer	44	-	-
+decoder1.2c.codepoint.lax	ok	1	number.integer	44	-	-
+decoder1.2c.codes.strict	ok	2	number.integer	1	number.integer	44	-	-
+decoder1.2c.codes.lax	ok	2	number.integer	1	number.integer	44	-	-
+decoder1.2c.offset	ok	1	number.integer	1	-	-
+decoder1.2d.len.strict	ok	1	number.integer	1	-	-
+decoder1.2d.len.lax	ok	1	number.integer	1	-	-
+decoder1.2d.codepoint.strict	ok	1	number.integer	45	-	-
+decoder1.2d.codepoint.lax	ok	1	number.integer	45	-	-
+decoder1.2d.codes.strict	ok	2	number.integer	1	number.integer	45	-	-
+decoder1.2d.codes.lax	ok	2	number.integer	1	number.integer	45	-	-
+decoder1.2d.offset	ok	1	number.integer	1	-	-
+decoder1.2e.len.strict	ok	1	number.integer	1	-	-
+decoder1.2e.len.lax	ok	1	number.integer	1	-	-
+decoder1.2e.codepoint.strict	ok	1	number.integer	46	-	-
+decoder1.2e.codepoint.lax	ok	1	number.integer	46	-	-
+decoder1.2e.codes.strict	ok	2	number.integer	1	number.integer	46	-	-
+decoder1.2e.codes.lax	ok	2	number.integer	1	number.integer	46	-	-
+decoder1.2e.offset	ok	1	number.integer	1	-	-
+decoder1.2f.len.strict	ok	1	number.integer	1	-	-
+decoder1.2f.len.lax	ok	1	number.integer	1	-	-
+decoder1.2f.codepoint.strict	ok	1	number.integer	47	-	-
+decoder1.2f.codepoint.lax	ok	1	number.integer	47	-	-
+decoder1.2f.codes.strict	ok	2	number.integer	1	number.integer	47	-	-
+decoder1.2f.codes.lax	ok	2	number.integer	1	number.integer	47	-	-
+decoder1.2f.offset	ok	1	number.integer	1	-	-
+decoder1.30.len.strict	ok	1	number.integer	1	-	-
+decoder1.30.len.lax	ok	1	number.integer	1	-	-
+decoder1.30.codepoint.strict	ok	1	number.integer	48	-	-
+decoder1.30.codepoint.lax	ok	1	number.integer	48	-	-
+decoder1.30.codes.strict	ok	2	number.integer	1	number.integer	48	-	-
+decoder1.30.codes.lax	ok	2	number.integer	1	number.integer	48	-	-
+decoder1.30.offset	ok	1	number.integer	1	-	-
+decoder1.31.len.strict	ok	1	number.integer	1	-	-
+decoder1.31.len.lax	ok	1	number.integer	1	-	-
+decoder1.31.codepoint.strict	ok	1	number.integer	49	-	-
+decoder1.31.codepoint.lax	ok	1	number.integer	49	-	-
+decoder1.31.codes.strict	ok	2	number.integer	1	number.integer	49	-	-
+decoder1.31.codes.lax	ok	2	number.integer	1	number.integer	49	-	-
+decoder1.31.offset	ok	1	number.integer	1	-	-
+decoder1.32.len.strict	ok	1	number.integer	1	-	-
+decoder1.32.len.lax	ok	1	number.integer	1	-	-
+decoder1.32.codepoint.strict	ok	1	number.integer	50	-	-
+decoder1.32.codepoint.lax	ok	1	number.integer	50	-	-
+decoder1.32.codes.strict	ok	2	number.integer	1	number.integer	50	-	-
+decoder1.32.codes.lax	ok	2	number.integer	1	number.integer	50	-	-
+decoder1.32.offset	ok	1	number.integer	1	-	-
+decoder1.33.len.strict	ok	1	number.integer	1	-	-
+decoder1.33.len.lax	ok	1	number.integer	1	-	-
+decoder1.33.codepoint.strict	ok	1	number.integer	51	-	-
+decoder1.33.codepoint.lax	ok	1	number.integer	51	-	-
+decoder1.33.codes.strict	ok	2	number.integer	1	number.integer	51	-	-
+decoder1.33.codes.lax	ok	2	number.integer	1	number.integer	51	-	-
+decoder1.33.offset	ok	1	number.integer	1	-	-
+decoder1.34.len.strict	ok	1	number.integer	1	-	-
+decoder1.34.len.lax	ok	1	number.integer	1	-	-
+decoder1.34.codepoint.strict	ok	1	number.integer	52	-	-
+decoder1.34.codepoint.lax	ok	1	number.integer	52	-	-
+decoder1.34.codes.strict	ok	2	number.integer	1	number.integer	52	-	-
+decoder1.34.codes.lax	ok	2	number.integer	1	number.integer	52	-	-
+decoder1.34.offset	ok	1	number.integer	1	-	-
+decoder1.35.len.strict	ok	1	number.integer	1	-	-
+decoder1.35.len.lax	ok	1	number.integer	1	-	-
+decoder1.35.codepoint.strict	ok	1	number.integer	53	-	-
+decoder1.35.codepoint.lax	ok	1	number.integer	53	-	-
+decoder1.35.codes.strict	ok	2	number.integer	1	number.integer	53	-	-
+decoder1.35.codes.lax	ok	2	number.integer	1	number.integer	53	-	-
+decoder1.35.offset	ok	1	number.integer	1	-	-
+decoder1.36.len.strict	ok	1	number.integer	1	-	-
+decoder1.36.len.lax	ok	1	number.integer	1	-	-
+decoder1.36.codepoint.strict	ok	1	number.integer	54	-	-
+decoder1.36.codepoint.lax	ok	1	number.integer	54	-	-
+decoder1.36.codes.strict	ok	2	number.integer	1	number.integer	54	-	-
+decoder1.36.codes.lax	ok	2	number.integer	1	number.integer	54	-	-
+decoder1.36.offset	ok	1	number.integer	1	-	-
+decoder1.37.len.strict	ok	1	number.integer	1	-	-
+decoder1.37.len.lax	ok	1	number.integer	1	-	-
+decoder1.37.codepoint.strict	ok	1	number.integer	55	-	-
+decoder1.37.codepoint.lax	ok	1	number.integer	55	-	-
+decoder1.37.codes.strict	ok	2	number.integer	1	number.integer	55	-	-
+decoder1.37.codes.lax	ok	2	number.integer	1	number.integer	55	-	-
+decoder1.37.offset	ok	1	number.integer	1	-	-
+decoder1.38.len.strict	ok	1	number.integer	1	-	-
+decoder1.38.len.lax	ok	1	number.integer	1	-	-
+decoder1.38.codepoint.strict	ok	1	number.integer	56	-	-
+decoder1.38.codepoint.lax	ok	1	number.integer	56	-	-
+decoder1.38.codes.strict	ok	2	number.integer	1	number.integer	56	-	-
+decoder1.38.codes.lax	ok	2	number.integer	1	number.integer	56	-	-
+decoder1.38.offset	ok	1	number.integer	1	-	-
+decoder1.39.len.strict	ok	1	number.integer	1	-	-
+decoder1.39.len.lax	ok	1	number.integer	1	-	-
+decoder1.39.codepoint.strict	ok	1	number.integer	57	-	-
+decoder1.39.codepoint.lax	ok	1	number.integer	57	-	-
+decoder1.39.codes.strict	ok	2	number.integer	1	number.integer	57	-	-
+decoder1.39.codes.lax	ok	2	number.integer	1	number.integer	57	-	-
+decoder1.39.offset	ok	1	number.integer	1	-	-
+decoder1.3a.len.strict	ok	1	number.integer	1	-	-
+decoder1.3a.len.lax	ok	1	number.integer	1	-	-
+decoder1.3a.codepoint.strict	ok	1	number.integer	58	-	-
+decoder1.3a.codepoint.lax	ok	1	number.integer	58	-	-
+decoder1.3a.codes.strict	ok	2	number.integer	1	number.integer	58	-	-
+decoder1.3a.codes.lax	ok	2	number.integer	1	number.integer	58	-	-
+decoder1.3a.offset	ok	1	number.integer	1	-	-
+decoder1.3b.len.strict	ok	1	number.integer	1	-	-
+decoder1.3b.len.lax	ok	1	number.integer	1	-	-
+decoder1.3b.codepoint.strict	ok	1	number.integer	59	-	-
+decoder1.3b.codepoint.lax	ok	1	number.integer	59	-	-
+decoder1.3b.codes.strict	ok	2	number.integer	1	number.integer	59	-	-
+decoder1.3b.codes.lax	ok	2	number.integer	1	number.integer	59	-	-
+decoder1.3b.offset	ok	1	number.integer	1	-	-
+decoder1.3c.len.strict	ok	1	number.integer	1	-	-
+decoder1.3c.len.lax	ok	1	number.integer	1	-	-
+decoder1.3c.codepoint.strict	ok	1	number.integer	60	-	-
+decoder1.3c.codepoint.lax	ok	1	number.integer	60	-	-
+decoder1.3c.codes.strict	ok	2	number.integer	1	number.integer	60	-	-
+decoder1.3c.codes.lax	ok	2	number.integer	1	number.integer	60	-	-
+decoder1.3c.offset	ok	1	number.integer	1	-	-
+decoder1.3d.len.strict	ok	1	number.integer	1	-	-
+decoder1.3d.len.lax	ok	1	number.integer	1	-	-
+decoder1.3d.codepoint.strict	ok	1	number.integer	61	-	-
+decoder1.3d.codepoint.lax	ok	1	number.integer	61	-	-
+decoder1.3d.codes.strict	ok	2	number.integer	1	number.integer	61	-	-
+decoder1.3d.codes.lax	ok	2	number.integer	1	number.integer	61	-	-
+decoder1.3d.offset	ok	1	number.integer	1	-	-
+decoder1.3e.len.strict	ok	1	number.integer	1	-	-
+decoder1.3e.len.lax	ok	1	number.integer	1	-	-
+decoder1.3e.codepoint.strict	ok	1	number.integer	62	-	-
+decoder1.3e.codepoint.lax	ok	1	number.integer	62	-	-
+decoder1.3e.codes.strict	ok	2	number.integer	1	number.integer	62	-	-
+decoder1.3e.codes.lax	ok	2	number.integer	1	number.integer	62	-	-
+decoder1.3e.offset	ok	1	number.integer	1	-	-
+decoder1.3f.len.strict	ok	1	number.integer	1	-	-
+decoder1.3f.len.lax	ok	1	number.integer	1	-	-
+decoder1.3f.codepoint.strict	ok	1	number.integer	63	-	-
+decoder1.3f.codepoint.lax	ok	1	number.integer	63	-	-
+decoder1.3f.codes.strict	ok	2	number.integer	1	number.integer	63	-	-
+decoder1.3f.codes.lax	ok	2	number.integer	1	number.integer	63	-	-
+decoder1.3f.offset	ok	1	number.integer	1	-	-
+decoder1.40.len.strict	ok	1	number.integer	1	-	-
+decoder1.40.len.lax	ok	1	number.integer	1	-	-
+decoder1.40.codepoint.strict	ok	1	number.integer	64	-	-
+decoder1.40.codepoint.lax	ok	1	number.integer	64	-	-
+decoder1.40.codes.strict	ok	2	number.integer	1	number.integer	64	-	-
+decoder1.40.codes.lax	ok	2	number.integer	1	number.integer	64	-	-
+decoder1.40.offset	ok	1	number.integer	1	-	-
+decoder1.41.len.strict	ok	1	number.integer	1	-	-
+decoder1.41.len.lax	ok	1	number.integer	1	-	-
+decoder1.41.codepoint.strict	ok	1	number.integer	65	-	-
+decoder1.41.codepoint.lax	ok	1	number.integer	65	-	-
+decoder1.41.codes.strict	ok	2	number.integer	1	number.integer	65	-	-
+decoder1.41.codes.lax	ok	2	number.integer	1	number.integer	65	-	-
+decoder1.41.offset	ok	1	number.integer	1	-	-
+decoder1.42.len.strict	ok	1	number.integer	1	-	-
+decoder1.42.len.lax	ok	1	number.integer	1	-	-
+decoder1.42.codepoint.strict	ok	1	number.integer	66	-	-
+decoder1.42.codepoint.lax	ok	1	number.integer	66	-	-
+decoder1.42.codes.strict	ok	2	number.integer	1	number.integer	66	-	-
+decoder1.42.codes.lax	ok	2	number.integer	1	number.integer	66	-	-
+decoder1.42.offset	ok	1	number.integer	1	-	-
+decoder1.43.len.strict	ok	1	number.integer	1	-	-
+decoder1.43.len.lax	ok	1	number.integer	1	-	-
+decoder1.43.codepoint.strict	ok	1	number.integer	67	-	-
+decoder1.43.codepoint.lax	ok	1	number.integer	67	-	-
+decoder1.43.codes.strict	ok	2	number.integer	1	number.integer	67	-	-
+decoder1.43.codes.lax	ok	2	number.integer	1	number.integer	67	-	-
+decoder1.43.offset	ok	1	number.integer	1	-	-
+decoder1.44.len.strict	ok	1	number.integer	1	-	-
+decoder1.44.len.lax	ok	1	number.integer	1	-	-
+decoder1.44.codepoint.strict	ok	1	number.integer	68	-	-
+decoder1.44.codepoint.lax	ok	1	number.integer	68	-	-
+decoder1.44.codes.strict	ok	2	number.integer	1	number.integer	68	-	-
+decoder1.44.codes.lax	ok	2	number.integer	1	number.integer	68	-	-
+decoder1.44.offset	ok	1	number.integer	1	-	-
+decoder1.45.len.strict	ok	1	number.integer	1	-	-
+decoder1.45.len.lax	ok	1	number.integer	1	-	-
+decoder1.45.codepoint.strict	ok	1	number.integer	69	-	-
+decoder1.45.codepoint.lax	ok	1	number.integer	69	-	-
+decoder1.45.codes.strict	ok	2	number.integer	1	number.integer	69	-	-
+decoder1.45.codes.lax	ok	2	number.integer	1	number.integer	69	-	-
+decoder1.45.offset	ok	1	number.integer	1	-	-
+decoder1.46.len.strict	ok	1	number.integer	1	-	-
+decoder1.46.len.lax	ok	1	number.integer	1	-	-
+decoder1.46.codepoint.strict	ok	1	number.integer	70	-	-
+decoder1.46.codepoint.lax	ok	1	number.integer	70	-	-
+decoder1.46.codes.strict	ok	2	number.integer	1	number.integer	70	-	-
+decoder1.46.codes.lax	ok	2	number.integer	1	number.integer	70	-	-
+decoder1.46.offset	ok	1	number.integer	1	-	-
+decoder1.47.len.strict	ok	1	number.integer	1	-	-
+decoder1.47.len.lax	ok	1	number.integer	1	-	-
+decoder1.47.codepoint.strict	ok	1	number.integer	71	-	-
+decoder1.47.codepoint.lax	ok	1	number.integer	71	-	-
+decoder1.47.codes.strict	ok	2	number.integer	1	number.integer	71	-	-
+decoder1.47.codes.lax	ok	2	number.integer	1	number.integer	71	-	-
+decoder1.47.offset	ok	1	number.integer	1	-	-
+decoder1.48.len.strict	ok	1	number.integer	1	-	-
+decoder1.48.len.lax	ok	1	number.integer	1	-	-
+decoder1.48.codepoint.strict	ok	1	number.integer	72	-	-
+decoder1.48.codepoint.lax	ok	1	number.integer	72	-	-
+decoder1.48.codes.strict	ok	2	number.integer	1	number.integer	72	-	-
+decoder1.48.codes.lax	ok	2	number.integer	1	number.integer	72	-	-
+decoder1.48.offset	ok	1	number.integer	1	-	-
+decoder1.49.len.strict	ok	1	number.integer	1	-	-
+decoder1.49.len.lax	ok	1	number.integer	1	-	-
+decoder1.49.codepoint.strict	ok	1	number.integer	73	-	-
+decoder1.49.codepoint.lax	ok	1	number.integer	73	-	-
+decoder1.49.codes.strict	ok	2	number.integer	1	number.integer	73	-	-
+decoder1.49.codes.lax	ok	2	number.integer	1	number.integer	73	-	-
+decoder1.49.offset	ok	1	number.integer	1	-	-
+decoder1.4a.len.strict	ok	1	number.integer	1	-	-
+decoder1.4a.len.lax	ok	1	number.integer	1	-	-
+decoder1.4a.codepoint.strict	ok	1	number.integer	74	-	-
+decoder1.4a.codepoint.lax	ok	1	number.integer	74	-	-
+decoder1.4a.codes.strict	ok	2	number.integer	1	number.integer	74	-	-
+decoder1.4a.codes.lax	ok	2	number.integer	1	number.integer	74	-	-
+decoder1.4a.offset	ok	1	number.integer	1	-	-
+decoder1.4b.len.strict	ok	1	number.integer	1	-	-
+decoder1.4b.len.lax	ok	1	number.integer	1	-	-
+decoder1.4b.codepoint.strict	ok	1	number.integer	75	-	-
+decoder1.4b.codepoint.lax	ok	1	number.integer	75	-	-
+decoder1.4b.codes.strict	ok	2	number.integer	1	number.integer	75	-	-
+decoder1.4b.codes.lax	ok	2	number.integer	1	number.integer	75	-	-
+decoder1.4b.offset	ok	1	number.integer	1	-	-
+decoder1.4c.len.strict	ok	1	number.integer	1	-	-
+decoder1.4c.len.lax	ok	1	number.integer	1	-	-
+decoder1.4c.codepoint.strict	ok	1	number.integer	76	-	-
+decoder1.4c.codepoint.lax	ok	1	number.integer	76	-	-
+decoder1.4c.codes.strict	ok	2	number.integer	1	number.integer	76	-	-
+decoder1.4c.codes.lax	ok	2	number.integer	1	number.integer	76	-	-
+decoder1.4c.offset	ok	1	number.integer	1	-	-
+decoder1.4d.len.strict	ok	1	number.integer	1	-	-
+decoder1.4d.len.lax	ok	1	number.integer	1	-	-
+decoder1.4d.codepoint.strict	ok	1	number.integer	77	-	-
+decoder1.4d.codepoint.lax	ok	1	number.integer	77	-	-
+decoder1.4d.codes.strict	ok	2	number.integer	1	number.integer	77	-	-
+decoder1.4d.codes.lax	ok	2	number.integer	1	number.integer	77	-	-
+decoder1.4d.offset	ok	1	number.integer	1	-	-
+decoder1.4e.len.strict	ok	1	number.integer	1	-	-
+decoder1.4e.len.lax	ok	1	number.integer	1	-	-
+decoder1.4e.codepoint.strict	ok	1	number.integer	78	-	-
+decoder1.4e.codepoint.lax	ok	1	number.integer	78	-	-
+decoder1.4e.codes.strict	ok	2	number.integer	1	number.integer	78	-	-
+decoder1.4e.codes.lax	ok	2	number.integer	1	number.integer	78	-	-
+decoder1.4e.offset	ok	1	number.integer	1	-	-
+decoder1.4f.len.strict	ok	1	number.integer	1	-	-
+decoder1.4f.len.lax	ok	1	number.integer	1	-	-
+decoder1.4f.codepoint.strict	ok	1	number.integer	79	-	-
+decoder1.4f.codepoint.lax	ok	1	number.integer	79	-	-
+decoder1.4f.codes.strict	ok	2	number.integer	1	number.integer	79	-	-
+decoder1.4f.codes.lax	ok	2	number.integer	1	number.integer	79	-	-
+decoder1.4f.offset	ok	1	number.integer	1	-	-
+decoder1.50.len.strict	ok	1	number.integer	1	-	-
+decoder1.50.len.lax	ok	1	number.integer	1	-	-
+decoder1.50.codepoint.strict	ok	1	number.integer	80	-	-
+decoder1.50.codepoint.lax	ok	1	number.integer	80	-	-
+decoder1.50.codes.strict	ok	2	number.integer	1	number.integer	80	-	-
+decoder1.50.codes.lax	ok	2	number.integer	1	number.integer	80	-	-
+decoder1.50.offset	ok	1	number.integer	1	-	-
+decoder1.51.len.strict	ok	1	number.integer	1	-	-
+decoder1.51.len.lax	ok	1	number.integer	1	-	-
+decoder1.51.codepoint.strict	ok	1	number.integer	81	-	-
+decoder1.51.codepoint.lax	ok	1	number.integer	81	-	-
+decoder1.51.codes.strict	ok	2	number.integer	1	number.integer	81	-	-
+decoder1.51.codes.lax	ok	2	number.integer	1	number.integer	81	-	-
+decoder1.51.offset	ok	1	number.integer	1	-	-
+decoder1.52.len.strict	ok	1	number.integer	1	-	-
+decoder1.52.len.lax	ok	1	number.integer	1	-	-
+decoder1.52.codepoint.strict	ok	1	number.integer	82	-	-
+decoder1.52.codepoint.lax	ok	1	number.integer	82	-	-
+decoder1.52.codes.strict	ok	2	number.integer	1	number.integer	82	-	-
+decoder1.52.codes.lax	ok	2	number.integer	1	number.integer	82	-	-
+decoder1.52.offset	ok	1	number.integer	1	-	-
+decoder1.53.len.strict	ok	1	number.integer	1	-	-
+decoder1.53.len.lax	ok	1	number.integer	1	-	-
+decoder1.53.codepoint.strict	ok	1	number.integer	83	-	-
+decoder1.53.codepoint.lax	ok	1	number.integer	83	-	-
+decoder1.53.codes.strict	ok	2	number.integer	1	number.integer	83	-	-
+decoder1.53.codes.lax	ok	2	number.integer	1	number.integer	83	-	-
+decoder1.53.offset	ok	1	number.integer	1	-	-
+decoder1.54.len.strict	ok	1	number.integer	1	-	-
+decoder1.54.len.lax	ok	1	number.integer	1	-	-
+decoder1.54.codepoint.strict	ok	1	number.integer	84	-	-
+decoder1.54.codepoint.lax	ok	1	number.integer	84	-	-
+decoder1.54.codes.strict	ok	2	number.integer	1	number.integer	84	-	-
+decoder1.54.codes.lax	ok	2	number.integer	1	number.integer	84	-	-
+decoder1.54.offset	ok	1	number.integer	1	-	-
+decoder1.55.len.strict	ok	1	number.integer	1	-	-
+decoder1.55.len.lax	ok	1	number.integer	1	-	-
+decoder1.55.codepoint.strict	ok	1	number.integer	85	-	-
+decoder1.55.codepoint.lax	ok	1	number.integer	85	-	-
+decoder1.55.codes.strict	ok	2	number.integer	1	number.integer	85	-	-
+decoder1.55.codes.lax	ok	2	number.integer	1	number.integer	85	-	-
+decoder1.55.offset	ok	1	number.integer	1	-	-
+decoder1.56.len.strict	ok	1	number.integer	1	-	-
+decoder1.56.len.lax	ok	1	number.integer	1	-	-
+decoder1.56.codepoint.strict	ok	1	number.integer	86	-	-
+decoder1.56.codepoint.lax	ok	1	number.integer	86	-	-
+decoder1.56.codes.strict	ok	2	number.integer	1	number.integer	86	-	-
+decoder1.56.codes.lax	ok	2	number.integer	1	number.integer	86	-	-
+decoder1.56.offset	ok	1	number.integer	1	-	-
+decoder1.57.len.strict	ok	1	number.integer	1	-	-
+decoder1.57.len.lax	ok	1	number.integer	1	-	-
+decoder1.57.codepoint.strict	ok	1	number.integer	87	-	-
+decoder1.57.codepoint.lax	ok	1	number.integer	87	-	-
+decoder1.57.codes.strict	ok	2	number.integer	1	number.integer	87	-	-
+decoder1.57.codes.lax	ok	2	number.integer	1	number.integer	87	-	-
+decoder1.57.offset	ok	1	number.integer	1	-	-
+decoder1.58.len.strict	ok	1	number.integer	1	-	-
+decoder1.58.len.lax	ok	1	number.integer	1	-	-
+decoder1.58.codepoint.strict	ok	1	number.integer	88	-	-
+decoder1.58.codepoint.lax	ok	1	number.integer	88	-	-
+decoder1.58.codes.strict	ok	2	number.integer	1	number.integer	88	-	-
+decoder1.58.codes.lax	ok	2	number.integer	1	number.integer	88	-	-
+decoder1.58.offset	ok	1	number.integer	1	-	-
+decoder1.59.len.strict	ok	1	number.integer	1	-	-
+decoder1.59.len.lax	ok	1	number.integer	1	-	-
+decoder1.59.codepoint.strict	ok	1	number.integer	89	-	-
+decoder1.59.codepoint.lax	ok	1	number.integer	89	-	-
+decoder1.59.codes.strict	ok	2	number.integer	1	number.integer	89	-	-
+decoder1.59.codes.lax	ok	2	number.integer	1	number.integer	89	-	-
+decoder1.59.offset	ok	1	number.integer	1	-	-
+decoder1.5a.len.strict	ok	1	number.integer	1	-	-
+decoder1.5a.len.lax	ok	1	number.integer	1	-	-
+decoder1.5a.codepoint.strict	ok	1	number.integer	90	-	-
+decoder1.5a.codepoint.lax	ok	1	number.integer	90	-	-
+decoder1.5a.codes.strict	ok	2	number.integer	1	number.integer	90	-	-
+decoder1.5a.codes.lax	ok	2	number.integer	1	number.integer	90	-	-
+decoder1.5a.offset	ok	1	number.integer	1	-	-
+decoder1.5b.len.strict	ok	1	number.integer	1	-	-
+decoder1.5b.len.lax	ok	1	number.integer	1	-	-
+decoder1.5b.codepoint.strict	ok	1	number.integer	91	-	-
+decoder1.5b.codepoint.lax	ok	1	number.integer	91	-	-
+decoder1.5b.codes.strict	ok	2	number.integer	1	number.integer	91	-	-
+decoder1.5b.codes.lax	ok	2	number.integer	1	number.integer	91	-	-
+decoder1.5b.offset	ok	1	number.integer	1	-	-
+decoder1.5c.len.strict	ok	1	number.integer	1	-	-
+decoder1.5c.len.lax	ok	1	number.integer	1	-	-
+decoder1.5c.codepoint.strict	ok	1	number.integer	92	-	-
+decoder1.5c.codepoint.lax	ok	1	number.integer	92	-	-
+decoder1.5c.codes.strict	ok	2	number.integer	1	number.integer	92	-	-
+decoder1.5c.codes.lax	ok	2	number.integer	1	number.integer	92	-	-
+decoder1.5c.offset	ok	1	number.integer	1	-	-
+decoder1.5d.len.strict	ok	1	number.integer	1	-	-
+decoder1.5d.len.lax	ok	1	number.integer	1	-	-
+decoder1.5d.codepoint.strict	ok	1	number.integer	93	-	-
+decoder1.5d.codepoint.lax	ok	1	number.integer	93	-	-
+decoder1.5d.codes.strict	ok	2	number.integer	1	number.integer	93	-	-
+decoder1.5d.codes.lax	ok	2	number.integer	1	number.integer	93	-	-
+decoder1.5d.offset	ok	1	number.integer	1	-	-
+decoder1.5e.len.strict	ok	1	number.integer	1	-	-
+decoder1.5e.len.lax	ok	1	number.integer	1	-	-
+decoder1.5e.codepoint.strict	ok	1	number.integer	94	-	-
+decoder1.5e.codepoint.lax	ok	1	number.integer	94	-	-
+decoder1.5e.codes.strict	ok	2	number.integer	1	number.integer	94	-	-
+decoder1.5e.codes.lax	ok	2	number.integer	1	number.integer	94	-	-
+decoder1.5e.offset	ok	1	number.integer	1	-	-
+decoder1.5f.len.strict	ok	1	number.integer	1	-	-
+decoder1.5f.len.lax	ok	1	number.integer	1	-	-
+decoder1.5f.codepoint.strict	ok	1	number.integer	95	-	-
+decoder1.5f.codepoint.lax	ok	1	number.integer	95	-	-
+decoder1.5f.codes.strict	ok	2	number.integer	1	number.integer	95	-	-
+decoder1.5f.codes.lax	ok	2	number.integer	1	number.integer	95	-	-
+decoder1.5f.offset	ok	1	number.integer	1	-	-
+decoder1.60.len.strict	ok	1	number.integer	1	-	-
+decoder1.60.len.lax	ok	1	number.integer	1	-	-
+decoder1.60.codepoint.strict	ok	1	number.integer	96	-	-
+decoder1.60.codepoint.lax	ok	1	number.integer	96	-	-
+decoder1.60.codes.strict	ok	2	number.integer	1	number.integer	96	-	-
+decoder1.60.codes.lax	ok	2	number.integer	1	number.integer	96	-	-
+decoder1.60.offset	ok	1	number.integer	1	-	-
+decoder1.61.len.strict	ok	1	number.integer	1	-	-
+decoder1.61.len.lax	ok	1	number.integer	1	-	-
+decoder1.61.codepoint.strict	ok	1	number.integer	97	-	-
+decoder1.61.codepoint.lax	ok	1	number.integer	97	-	-
+decoder1.61.codes.strict	ok	2	number.integer	1	number.integer	97	-	-
+decoder1.61.codes.lax	ok	2	number.integer	1	number.integer	97	-	-
+decoder1.61.offset	ok	1	number.integer	1	-	-
+decoder1.62.len.strict	ok	1	number.integer	1	-	-
+decoder1.62.len.lax	ok	1	number.integer	1	-	-
+decoder1.62.codepoint.strict	ok	1	number.integer	98	-	-
+decoder1.62.codepoint.lax	ok	1	number.integer	98	-	-
+decoder1.62.codes.strict	ok	2	number.integer	1	number.integer	98	-	-
+decoder1.62.codes.lax	ok	2	number.integer	1	number.integer	98	-	-
+decoder1.62.offset	ok	1	number.integer	1	-	-
+decoder1.63.len.strict	ok	1	number.integer	1	-	-
+decoder1.63.len.lax	ok	1	number.integer	1	-	-
+decoder1.63.codepoint.strict	ok	1	number.integer	99	-	-
+decoder1.63.codepoint.lax	ok	1	number.integer	99	-	-
+decoder1.63.codes.strict	ok	2	number.integer	1	number.integer	99	-	-
+decoder1.63.codes.lax	ok	2	number.integer	1	number.integer	99	-	-
+decoder1.63.offset	ok	1	number.integer	1	-	-
+decoder1.64.len.strict	ok	1	number.integer	1	-	-
+decoder1.64.len.lax	ok	1	number.integer	1	-	-
+decoder1.64.codepoint.strict	ok	1	number.integer	100	-	-
+decoder1.64.codepoint.lax	ok	1	number.integer	100	-	-
+decoder1.64.codes.strict	ok	2	number.integer	1	number.integer	100	-	-
+decoder1.64.codes.lax	ok	2	number.integer	1	number.integer	100	-	-
+decoder1.64.offset	ok	1	number.integer	1	-	-
+decoder1.65.len.strict	ok	1	number.integer	1	-	-
+decoder1.65.len.lax	ok	1	number.integer	1	-	-
+decoder1.65.codepoint.strict	ok	1	number.integer	101	-	-
+decoder1.65.codepoint.lax	ok	1	number.integer	101	-	-
+decoder1.65.codes.strict	ok	2	number.integer	1	number.integer	101	-	-
+decoder1.65.codes.lax	ok	2	number.integer	1	number.integer	101	-	-
+decoder1.65.offset	ok	1	number.integer	1	-	-
+decoder1.66.len.strict	ok	1	number.integer	1	-	-
+decoder1.66.len.lax	ok	1	number.integer	1	-	-
+decoder1.66.codepoint.strict	ok	1	number.integer	102	-	-
+decoder1.66.codepoint.lax	ok	1	number.integer	102	-	-
+decoder1.66.codes.strict	ok	2	number.integer	1	number.integer	102	-	-
+decoder1.66.codes.lax	ok	2	number.integer	1	number.integer	102	-	-
+decoder1.66.offset	ok	1	number.integer	1	-	-
+decoder1.67.len.strict	ok	1	number.integer	1	-	-
+decoder1.67.len.lax	ok	1	number.integer	1	-	-
+decoder1.67.codepoint.strict	ok	1	number.integer	103	-	-
+decoder1.67.codepoint.lax	ok	1	number.integer	103	-	-
+decoder1.67.codes.strict	ok	2	number.integer	1	number.integer	103	-	-
+decoder1.67.codes.lax	ok	2	number.integer	1	number.integer	103	-	-
+decoder1.67.offset	ok	1	number.integer	1	-	-
+decoder1.68.len.strict	ok	1	number.integer	1	-	-
+decoder1.68.len.lax	ok	1	number.integer	1	-	-
+decoder1.68.codepoint.strict	ok	1	number.integer	104	-	-
+decoder1.68.codepoint.lax	ok	1	number.integer	104	-	-
+decoder1.68.codes.strict	ok	2	number.integer	1	number.integer	104	-	-
+decoder1.68.codes.lax	ok	2	number.integer	1	number.integer	104	-	-
+decoder1.68.offset	ok	1	number.integer	1	-	-
+decoder1.69.len.strict	ok	1	number.integer	1	-	-
+decoder1.69.len.lax	ok	1	number.integer	1	-	-
+decoder1.69.codepoint.strict	ok	1	number.integer	105	-	-
+decoder1.69.codepoint.lax	ok	1	number.integer	105	-	-
+decoder1.69.codes.strict	ok	2	number.integer	1	number.integer	105	-	-
+decoder1.69.codes.lax	ok	2	number.integer	1	number.integer	105	-	-
+decoder1.69.offset	ok	1	number.integer	1	-	-
+decoder1.6a.len.strict	ok	1	number.integer	1	-	-
+decoder1.6a.len.lax	ok	1	number.integer	1	-	-
+decoder1.6a.codepoint.strict	ok	1	number.integer	106	-	-
+decoder1.6a.codepoint.lax	ok	1	number.integer	106	-	-
+decoder1.6a.codes.strict	ok	2	number.integer	1	number.integer	106	-	-
+decoder1.6a.codes.lax	ok	2	number.integer	1	number.integer	106	-	-
+decoder1.6a.offset	ok	1	number.integer	1	-	-
+decoder1.6b.len.strict	ok	1	number.integer	1	-	-
+decoder1.6b.len.lax	ok	1	number.integer	1	-	-
+decoder1.6b.codepoint.strict	ok	1	number.integer	107	-	-
+decoder1.6b.codepoint.lax	ok	1	number.integer	107	-	-
+decoder1.6b.codes.strict	ok	2	number.integer	1	number.integer	107	-	-
+decoder1.6b.codes.lax	ok	2	number.integer	1	number.integer	107	-	-
+decoder1.6b.offset	ok	1	number.integer	1	-	-
+decoder1.6c.len.strict	ok	1	number.integer	1	-	-
+decoder1.6c.len.lax	ok	1	number.integer	1	-	-
+decoder1.6c.codepoint.strict	ok	1	number.integer	108	-	-
+decoder1.6c.codepoint.lax	ok	1	number.integer	108	-	-
+decoder1.6c.codes.strict	ok	2	number.integer	1	number.integer	108	-	-
+decoder1.6c.codes.lax	ok	2	number.integer	1	number.integer	108	-	-
+decoder1.6c.offset	ok	1	number.integer	1	-	-
+decoder1.6d.len.strict	ok	1	number.integer	1	-	-
+decoder1.6d.len.lax	ok	1	number.integer	1	-	-
+decoder1.6d.codepoint.strict	ok	1	number.integer	109	-	-
+decoder1.6d.codepoint.lax	ok	1	number.integer	109	-	-
+decoder1.6d.codes.strict	ok	2	number.integer	1	number.integer	109	-	-
+decoder1.6d.codes.lax	ok	2	number.integer	1	number.integer	109	-	-
+decoder1.6d.offset	ok	1	number.integer	1	-	-
+decoder1.6e.len.strict	ok	1	number.integer	1	-	-
+decoder1.6e.len.lax	ok	1	number.integer	1	-	-
+decoder1.6e.codepoint.strict	ok	1	number.integer	110	-	-
+decoder1.6e.codepoint.lax	ok	1	number.integer	110	-	-
+decoder1.6e.codes.strict	ok	2	number.integer	1	number.integer	110	-	-
+decoder1.6e.codes.lax	ok	2	number.integer	1	number.integer	110	-	-
+decoder1.6e.offset	ok	1	number.integer	1	-	-
+decoder1.6f.len.strict	ok	1	number.integer	1	-	-
+decoder1.6f.len.lax	ok	1	number.integer	1	-	-
+decoder1.6f.codepoint.strict	ok	1	number.integer	111	-	-
+decoder1.6f.codepoint.lax	ok	1	number.integer	111	-	-
+decoder1.6f.codes.strict	ok	2	number.integer	1	number.integer	111	-	-
+decoder1.6f.codes.lax	ok	2	number.integer	1	number.integer	111	-	-
+decoder1.6f.offset	ok	1	number.integer	1	-	-
+decoder1.70.len.strict	ok	1	number.integer	1	-	-
+decoder1.70.len.lax	ok	1	number.integer	1	-	-
+decoder1.70.codepoint.strict	ok	1	number.integer	112	-	-
+decoder1.70.codepoint.lax	ok	1	number.integer	112	-	-
+decoder1.70.codes.strict	ok	2	number.integer	1	number.integer	112	-	-
+decoder1.70.codes.lax	ok	2	number.integer	1	number.integer	112	-	-
+decoder1.70.offset	ok	1	number.integer	1	-	-
+decoder1.71.len.strict	ok	1	number.integer	1	-	-
+decoder1.71.len.lax	ok	1	number.integer	1	-	-
+decoder1.71.codepoint.strict	ok	1	number.integer	113	-	-
+decoder1.71.codepoint.lax	ok	1	number.integer	113	-	-
+decoder1.71.codes.strict	ok	2	number.integer	1	number.integer	113	-	-
+decoder1.71.codes.lax	ok	2	number.integer	1	number.integer	113	-	-
+decoder1.71.offset	ok	1	number.integer	1	-	-
+decoder1.72.len.strict	ok	1	number.integer	1	-	-
+decoder1.72.len.lax	ok	1	number.integer	1	-	-
+decoder1.72.codepoint.strict	ok	1	number.integer	114	-	-
+decoder1.72.codepoint.lax	ok	1	number.integer	114	-	-
+decoder1.72.codes.strict	ok	2	number.integer	1	number.integer	114	-	-
+decoder1.72.codes.lax	ok	2	number.integer	1	number.integer	114	-	-
+decoder1.72.offset	ok	1	number.integer	1	-	-
+decoder1.73.len.strict	ok	1	number.integer	1	-	-
+decoder1.73.len.lax	ok	1	number.integer	1	-	-
+decoder1.73.codepoint.strict	ok	1	number.integer	115	-	-
+decoder1.73.codepoint.lax	ok	1	number.integer	115	-	-
+decoder1.73.codes.strict	ok	2	number.integer	1	number.integer	115	-	-
+decoder1.73.codes.lax	ok	2	number.integer	1	number.integer	115	-	-
+decoder1.73.offset	ok	1	number.integer	1	-	-
+decoder1.74.len.strict	ok	1	number.integer	1	-	-
+decoder1.74.len.lax	ok	1	number.integer	1	-	-
+decoder1.74.codepoint.strict	ok	1	number.integer	116	-	-
+decoder1.74.codepoint.lax	ok	1	number.integer	116	-	-
+decoder1.74.codes.strict	ok	2	number.integer	1	number.integer	116	-	-
+decoder1.74.codes.lax	ok	2	number.integer	1	number.integer	116	-	-
+decoder1.74.offset	ok	1	number.integer	1	-	-
+decoder1.75.len.strict	ok	1	number.integer	1	-	-
+decoder1.75.len.lax	ok	1	number.integer	1	-	-
+decoder1.75.codepoint.strict	ok	1	number.integer	117	-	-
+decoder1.75.codepoint.lax	ok	1	number.integer	117	-	-
+decoder1.75.codes.strict	ok	2	number.integer	1	number.integer	117	-	-
+decoder1.75.codes.lax	ok	2	number.integer	1	number.integer	117	-	-
+decoder1.75.offset	ok	1	number.integer	1	-	-
+decoder1.76.len.strict	ok	1	number.integer	1	-	-
+decoder1.76.len.lax	ok	1	number.integer	1	-	-
+decoder1.76.codepoint.strict	ok	1	number.integer	118	-	-
+decoder1.76.codepoint.lax	ok	1	number.integer	118	-	-
+decoder1.76.codes.strict	ok	2	number.integer	1	number.integer	118	-	-
+decoder1.76.codes.lax	ok	2	number.integer	1	number.integer	118	-	-
+decoder1.76.offset	ok	1	number.integer	1	-	-
+decoder1.77.len.strict	ok	1	number.integer	1	-	-
+decoder1.77.len.lax	ok	1	number.integer	1	-	-
+decoder1.77.codepoint.strict	ok	1	number.integer	119	-	-
+decoder1.77.codepoint.lax	ok	1	number.integer	119	-	-
+decoder1.77.codes.strict	ok	2	number.integer	1	number.integer	119	-	-
+decoder1.77.codes.lax	ok	2	number.integer	1	number.integer	119	-	-
+decoder1.77.offset	ok	1	number.integer	1	-	-
+decoder1.78.len.strict	ok	1	number.integer	1	-	-
+decoder1.78.len.lax	ok	1	number.integer	1	-	-
+decoder1.78.codepoint.strict	ok	1	number.integer	120	-	-
+decoder1.78.codepoint.lax	ok	1	number.integer	120	-	-
+decoder1.78.codes.strict	ok	2	number.integer	1	number.integer	120	-	-
+decoder1.78.codes.lax	ok	2	number.integer	1	number.integer	120	-	-
+decoder1.78.offset	ok	1	number.integer	1	-	-
+decoder1.79.len.strict	ok	1	number.integer	1	-	-
+decoder1.79.len.lax	ok	1	number.integer	1	-	-
+decoder1.79.codepoint.strict	ok	1	number.integer	121	-	-
+decoder1.79.codepoint.lax	ok	1	number.integer	121	-	-
+decoder1.79.codes.strict	ok	2	number.integer	1	number.integer	121	-	-
+decoder1.79.codes.lax	ok	2	number.integer	1	number.integer	121	-	-
+decoder1.79.offset	ok	1	number.integer	1	-	-
+decoder1.7a.len.strict	ok	1	number.integer	1	-	-
+decoder1.7a.len.lax	ok	1	number.integer	1	-	-
+decoder1.7a.codepoint.strict	ok	1	number.integer	122	-	-
+decoder1.7a.codepoint.lax	ok	1	number.integer	122	-	-
+decoder1.7a.codes.strict	ok	2	number.integer	1	number.integer	122	-	-
+decoder1.7a.codes.lax	ok	2	number.integer	1	number.integer	122	-	-
+decoder1.7a.offset	ok	1	number.integer	1	-	-
+decoder1.7b.len.strict	ok	1	number.integer	1	-	-
+decoder1.7b.len.lax	ok	1	number.integer	1	-	-
+decoder1.7b.codepoint.strict	ok	1	number.integer	123	-	-
+decoder1.7b.codepoint.lax	ok	1	number.integer	123	-	-
+decoder1.7b.codes.strict	ok	2	number.integer	1	number.integer	123	-	-
+decoder1.7b.codes.lax	ok	2	number.integer	1	number.integer	123	-	-
+decoder1.7b.offset	ok	1	number.integer	1	-	-
+decoder1.7c.len.strict	ok	1	number.integer	1	-	-
+decoder1.7c.len.lax	ok	1	number.integer	1	-	-
+decoder1.7c.codepoint.strict	ok	1	number.integer	124	-	-
+decoder1.7c.codepoint.lax	ok	1	number.integer	124	-	-
+decoder1.7c.codes.strict	ok	2	number.integer	1	number.integer	124	-	-
+decoder1.7c.codes.lax	ok	2	number.integer	1	number.integer	124	-	-
+decoder1.7c.offset	ok	1	number.integer	1	-	-
+decoder1.7d.len.strict	ok	1	number.integer	1	-	-
+decoder1.7d.len.lax	ok	1	number.integer	1	-	-
+decoder1.7d.codepoint.strict	ok	1	number.integer	125	-	-
+decoder1.7d.codepoint.lax	ok	1	number.integer	125	-	-
+decoder1.7d.codes.strict	ok	2	number.integer	1	number.integer	125	-	-
+decoder1.7d.codes.lax	ok	2	number.integer	1	number.integer	125	-	-
+decoder1.7d.offset	ok	1	number.integer	1	-	-
+decoder1.7e.len.strict	ok	1	number.integer	1	-	-
+decoder1.7e.len.lax	ok	1	number.integer	1	-	-
+decoder1.7e.codepoint.strict	ok	1	number.integer	126	-	-
+decoder1.7e.codepoint.lax	ok	1	number.integer	126	-	-
+decoder1.7e.codes.strict	ok	2	number.integer	1	number.integer	126	-	-
+decoder1.7e.codes.lax	ok	2	number.integer	1	number.integer	126	-	-
+decoder1.7e.offset	ok	1	number.integer	1	-	-
+decoder1.7f.len.strict	ok	1	number.integer	1	-	-
+decoder1.7f.len.lax	ok	1	number.integer	1	-	-
+decoder1.7f.codepoint.strict	ok	1	number.integer	127	-	-
+decoder1.7f.codepoint.lax	ok	1	number.integer	127	-	-
+decoder1.7f.codes.strict	ok	2	number.integer	1	number.integer	127	-	-
+decoder1.7f.codes.lax	ok	2	number.integer	1	number.integer	127	-	-
+decoder1.7f.offset	ok	1	number.integer	1	-	-
+decoder1.80.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.80.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.80.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.80.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.80.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.80.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.80.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.81.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.81.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.81.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.81.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.81.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.81.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.81.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.82.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.82.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.82.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.82.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.82.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.82.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.82.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.83.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.83.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.83.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.83.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.83.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.83.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.83.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.84.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.84.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.84.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.84.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.84.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.84.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.84.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.85.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.85.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.85.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.85.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.85.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.85.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.85.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.86.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.86.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.86.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.86.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.86.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.86.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.86.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.87.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.87.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.87.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.87.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.87.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.87.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.87.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.88.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.88.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.88.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.88.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.88.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.88.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.88.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.89.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.89.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.89.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.89.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.89.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.89.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.89.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.8a.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.8a.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.8a.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.8a.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.8a.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.8a.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.8a.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.8b.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.8b.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.8b.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.8b.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.8b.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.8b.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.8b.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.8c.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.8c.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.8c.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.8c.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.8c.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.8c.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.8c.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.8d.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.8d.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.8d.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.8d.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.8d.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.8d.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.8d.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.8e.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.8e.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.8e.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.8e.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.8e.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.8e.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.8e.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.8f.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.8f.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.8f.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.8f.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.8f.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.8f.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.8f.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.90.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.90.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.90.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.90.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.90.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.90.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.90.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.91.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.91.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.91.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.91.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.91.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.91.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.91.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.92.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.92.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.92.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.92.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.92.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.92.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.92.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.93.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.93.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.93.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.93.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.93.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.93.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.93.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.94.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.94.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.94.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.94.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.94.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.94.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.94.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.95.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.95.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.95.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.95.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.95.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.95.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.95.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.96.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.96.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.96.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.96.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.96.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.96.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.96.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.97.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.97.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.97.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.97.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.97.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.97.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.97.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.98.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.98.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.98.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.98.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.98.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.98.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.98.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.99.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.99.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.99.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.99.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.99.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.99.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.99.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.9a.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.9a.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.9a.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.9a.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.9a.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.9a.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.9a.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.9b.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.9b.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.9b.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.9b.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.9b.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.9b.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.9b.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.9c.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.9c.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.9c.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.9c.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.9c.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.9c.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.9c.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.9d.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.9d.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.9d.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.9d.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.9d.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.9d.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.9d.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.9e.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.9e.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.9e.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.9e.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.9e.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.9e.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.9e.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.9f.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.9f.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.9f.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.9f.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.9f.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.9f.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.9f.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.a0.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.a0.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.a0.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.a0.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.a0.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.a0.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.a0.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.a1.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.a1.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.a1.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.a1.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.a1.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.a1.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.a1.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.a2.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.a2.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.a2.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.a2.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.a2.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.a2.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.a2.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.a3.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.a3.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.a3.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.a3.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.a3.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.a3.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.a3.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.a4.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.a4.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.a4.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.a4.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.a4.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.a4.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.a4.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.a5.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.a5.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.a5.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.a5.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.a5.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.a5.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.a5.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.a6.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.a6.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.a6.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.a6.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.a6.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.a6.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.a6.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.a7.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.a7.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.a7.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.a7.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.a7.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.a7.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.a7.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.a8.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.a8.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.a8.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.a8.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.a8.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.a8.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.a8.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.a9.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.a9.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.a9.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.a9.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.a9.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.a9.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.a9.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.aa.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.aa.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.aa.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.aa.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.aa.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.aa.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.aa.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.ab.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.ab.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.ab.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ab.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ab.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.ab.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.ab.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.ac.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.ac.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.ac.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ac.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ac.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.ac.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.ac.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.ad.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.ad.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.ad.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ad.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ad.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.ad.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.ad.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.ae.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.ae.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.ae.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ae.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ae.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.ae.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.ae.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.af.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.af.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.af.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.af.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.af.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.af.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.af.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.b0.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.b0.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.b0.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.b0.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.b0.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.b0.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.b0.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.b1.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.b1.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.b1.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.b1.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.b1.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.b1.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.b1.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.b2.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.b2.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.b2.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.b2.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.b2.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.b2.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.b2.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.b3.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.b3.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.b3.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.b3.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.b3.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.b3.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.b3.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.b4.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.b4.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.b4.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.b4.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.b4.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.b4.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.b4.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.b5.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.b5.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.b5.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.b5.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.b5.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.b5.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.b5.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.b6.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.b6.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.b6.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.b6.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.b6.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.b6.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.b6.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.b7.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.b7.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.b7.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.b7.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.b7.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.b7.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.b7.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.b8.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.b8.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.b8.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.b8.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.b8.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.b8.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.b8.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.b9.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.b9.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.b9.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.b9.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.b9.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.b9.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.b9.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.ba.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.ba.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.ba.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ba.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ba.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.ba.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.ba.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.bb.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.bb.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.bb.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.bb.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.bb.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.bb.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.bb.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.bc.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.bc.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.bc.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.bc.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.bc.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.bc.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.bc.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.bd.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.bd.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.bd.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.bd.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.bd.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.bd.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.bd.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.be.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.be.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.be.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.be.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.be.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.be.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.be.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.bf.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.bf.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.bf.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.bf.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.bf.codes.strict	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.bf.codes.lax	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+decoder1.bf.offset	error	0	string	757466382d636173652e6c75613a313a20696e697469616c20706f736974696f6e206973206120636f6e74696e756174696f6e2062797465
+decoder1.c0.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.c0.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.c0.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c0.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c0.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c0.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c0.offset	ok	1	number.integer	1	-	-
+decoder1.c1.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.c1.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.c1.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c1.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c1.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c1.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c1.offset	ok	1	number.integer	1	-	-
+decoder1.c2.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.c2.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.c2.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c2.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c2.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c2.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c2.offset	ok	1	number.integer	1	-	-
+decoder1.c3.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.c3.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.c3.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c3.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c3.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c3.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c3.offset	ok	1	number.integer	1	-	-
+decoder1.c4.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.c4.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.c4.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c4.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c4.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c4.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c4.offset	ok	1	number.integer	1	-	-
+decoder1.c5.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.c5.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.c5.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c5.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c5.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c5.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c5.offset	ok	1	number.integer	1	-	-
+decoder1.c6.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.c6.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.c6.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c6.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c6.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c6.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c6.offset	ok	1	number.integer	1	-	-
+decoder1.c7.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.c7.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.c7.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c7.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c7.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c7.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c7.offset	ok	1	number.integer	1	-	-
+decoder1.c8.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.c8.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.c8.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c8.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c8.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c8.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c8.offset	ok	1	number.integer	1	-	-
+decoder1.c9.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.c9.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.c9.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c9.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c9.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c9.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.c9.offset	ok	1	number.integer	1	-	-
+decoder1.ca.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.ca.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.ca.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ca.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ca.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ca.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ca.offset	ok	1	number.integer	1	-	-
+decoder1.cb.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.cb.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.cb.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.cb.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.cb.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.cb.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.cb.offset	ok	1	number.integer	1	-	-
+decoder1.cc.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.cc.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.cc.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.cc.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.cc.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.cc.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.cc.offset	ok	1	number.integer	1	-	-
+decoder1.cd.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.cd.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.cd.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.cd.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.cd.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.cd.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.cd.offset	ok	1	number.integer	1	-	-
+decoder1.ce.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.ce.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.ce.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ce.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ce.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ce.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ce.offset	ok	1	number.integer	1	-	-
+decoder1.cf.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.cf.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.cf.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.cf.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.cf.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.cf.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.cf.offset	ok	1	number.integer	1	-	-
+decoder1.d0.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.d0.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.d0.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d0.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d0.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d0.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d0.offset	ok	1	number.integer	1	-	-
+decoder1.d1.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.d1.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.d1.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d1.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d1.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d1.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d1.offset	ok	1	number.integer	1	-	-
+decoder1.d2.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.d2.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.d2.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d2.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d2.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d2.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d2.offset	ok	1	number.integer	1	-	-
+decoder1.d3.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.d3.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.d3.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d3.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d3.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d3.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d3.offset	ok	1	number.integer	1	-	-
+decoder1.d4.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.d4.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.d4.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d4.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d4.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d4.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d4.offset	ok	1	number.integer	1	-	-
+decoder1.d5.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.d5.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.d5.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d5.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d5.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d5.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d5.offset	ok	1	number.integer	1	-	-
+decoder1.d6.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.d6.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.d6.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d6.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d6.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d6.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d6.offset	ok	1	number.integer	1	-	-
+decoder1.d7.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.d7.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.d7.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d7.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d7.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d7.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d7.offset	ok	1	number.integer	1	-	-
+decoder1.d8.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.d8.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.d8.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d8.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d8.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d8.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d8.offset	ok	1	number.integer	1	-	-
+decoder1.d9.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.d9.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.d9.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d9.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d9.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d9.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.d9.offset	ok	1	number.integer	1	-	-
+decoder1.da.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.da.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.da.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.da.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.da.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.da.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.da.offset	ok	1	number.integer	1	-	-
+decoder1.db.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.db.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.db.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.db.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.db.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.db.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.db.offset	ok	1	number.integer	1	-	-
+decoder1.dc.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.dc.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.dc.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.dc.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.dc.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.dc.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.dc.offset	ok	1	number.integer	1	-	-
+decoder1.dd.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.dd.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.dd.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.dd.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.dd.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.dd.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.dd.offset	ok	1	number.integer	1	-	-
+decoder1.de.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.de.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.de.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.de.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.de.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.de.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.de.offset	ok	1	number.integer	1	-	-
+decoder1.df.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.df.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.df.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.df.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.df.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.df.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.df.offset	ok	1	number.integer	1	-	-
+decoder1.e0.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.e0.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.e0.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e0.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e0.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e0.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e0.offset	ok	1	number.integer	1	-	-
+decoder1.e1.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.e1.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.e1.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e1.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e1.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e1.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e1.offset	ok	1	number.integer	1	-	-
+decoder1.e2.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.e2.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.e2.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e2.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e2.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e2.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e2.offset	ok	1	number.integer	1	-	-
+decoder1.e3.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.e3.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.e3.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e3.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e3.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e3.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e3.offset	ok	1	number.integer	1	-	-
+decoder1.e4.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.e4.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.e4.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e4.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e4.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e4.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e4.offset	ok	1	number.integer	1	-	-
+decoder1.e5.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.e5.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.e5.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e5.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e5.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e5.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e5.offset	ok	1	number.integer	1	-	-
+decoder1.e6.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.e6.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.e6.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e6.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e6.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e6.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e6.offset	ok	1	number.integer	1	-	-
+decoder1.e7.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.e7.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.e7.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e7.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e7.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e7.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e7.offset	ok	1	number.integer	1	-	-
+decoder1.e8.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.e8.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.e8.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e8.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e8.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e8.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e8.offset	ok	1	number.integer	1	-	-
+decoder1.e9.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.e9.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.e9.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e9.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e9.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e9.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.e9.offset	ok	1	number.integer	1	-	-
+decoder1.ea.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.ea.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.ea.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ea.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ea.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ea.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ea.offset	ok	1	number.integer	1	-	-
+decoder1.eb.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.eb.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.eb.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.eb.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.eb.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.eb.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.eb.offset	ok	1	number.integer	1	-	-
+decoder1.ec.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.ec.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.ec.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ec.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ec.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ec.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ec.offset	ok	1	number.integer	1	-	-
+decoder1.ed.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.ed.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.ed.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ed.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ed.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ed.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ed.offset	ok	1	number.integer	1	-	-
+decoder1.ee.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.ee.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.ee.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ee.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ee.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ee.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ee.offset	ok	1	number.integer	1	-	-
+decoder1.ef.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.ef.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.ef.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ef.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ef.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ef.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ef.offset	ok	1	number.integer	1	-	-
+decoder1.f0.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.f0.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.f0.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f0.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f0.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f0.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f0.offset	ok	1	number.integer	1	-	-
+decoder1.f1.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.f1.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.f1.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f1.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f1.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f1.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f1.offset	ok	1	number.integer	1	-	-
+decoder1.f2.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.f2.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.f2.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f2.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f2.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f2.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f2.offset	ok	1	number.integer	1	-	-
+decoder1.f3.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.f3.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.f3.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f3.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f3.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f3.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f3.offset	ok	1	number.integer	1	-	-
+decoder1.f4.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.f4.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.f4.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f4.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f4.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f4.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f4.offset	ok	1	number.integer	1	-	-
+decoder1.f5.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.f5.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.f5.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f5.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f5.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f5.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f5.offset	ok	1	number.integer	1	-	-
+decoder1.f6.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.f6.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.f6.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f6.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f6.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f6.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f6.offset	ok	1	number.integer	1	-	-
+decoder1.f7.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.f7.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.f7.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f7.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f7.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f7.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f7.offset	ok	1	number.integer	1	-	-
+decoder1.f8.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.f8.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.f8.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f8.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f8.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f8.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f8.offset	ok	1	number.integer	1	-	-
+decoder1.f9.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.f9.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.f9.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f9.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f9.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f9.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.f9.offset	ok	1	number.integer	1	-	-
+decoder1.fa.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.fa.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.fa.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.fa.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.fa.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.fa.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.fa.offset	ok	1	number.integer	1	-	-
+decoder1.fb.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.fb.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.fb.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.fb.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.fb.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.fb.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.fb.offset	ok	1	number.integer	1	-	-
+decoder1.fc.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.fc.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.fc.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.fc.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.fc.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.fc.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.fc.offset	ok	1	number.integer	1	-	-
+decoder1.fd.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.fd.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.fd.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.fd.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.fd.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.fd.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.fd.offset	ok	1	number.integer	1	-	-
+decoder1.fe.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.fe.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.fe.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.fe.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.fe.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.fe.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.fe.offset	ok	1	number.integer	1	-	-
+decoder1.ff.len.strict	ok	2	nil	-	number.integer	1	-	-
+decoder1.ff.len.lax	ok	2	nil	-	number.integer	1	-	-
+decoder1.ff.codepoint.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ff.codepoint.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ff.codes.strict	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ff.codes.lax	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+decoder1.ff.offset	ok	1	number.integer	1	-	-

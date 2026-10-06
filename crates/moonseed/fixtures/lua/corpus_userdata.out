@@ -1,0 +1,156 @@
+A
+4 userdata userdata nil 1
+4 true false true false
+4 true false true false
+2 true true
+2 true true
+2 true true
+1 true
+1 true
+1 true
+2 userdata nil
+2 true true
+B
+2 0 0
+2 200 0
+C
+2 nil true
+2 nil true
+2 nil true
+1 nil
+1 nil
+1 nil
+1 nil
+1 nil
+1 nil
+1 nil
+1 <uv>
+1 <uv>
+1 <uv>
+1 nil
+1 nil
+2 one true
+2 table true
+2 one true
+1 <uv>
+2 nil true
+2 false bad argument #1 to 'debug.setuservalue' (userdata expected, got light userdata)
+2 false bad argument #1 to 'debug.setuservalue' (userdata expected, got table)
+2 false bad argument #2 to 'debug.setuservalue' (value expected)
+2 false bad argument #1 to 'debug.setuservalue' (userdata expected, got no value)
+2 false bad argument #2 to 'debug.getuservalue' (number expected, got string)
+2 false bad argument #2 to 'debug.getuservalue' (number has no integer representation)
+2 false bad argument #3 to 'debug.setuservalue' (number expected, got string)
+1 nil
+D
+2 nil nil
+3 true true nil
+2 true true
+1 true
+2 true true
+2 locked true
+2 false bad argument #1 to 'setmetatable' (table expected, got Point)
+2 false bad argument #2 to 'setmetatable' (nil or table expected, got no value)
+2 false bad argument #2 to 'rawget' (value expected)
+2 false bad argument #3 to 'rawset' (value expected)
+2 false bad argument #2 to 'rawset' (value expected)
+2 false bad argument #1 to 'setmetatable' (table expected, got light userdata)
+2 true nil
+2 false bad argument #2 to 'debug.setmetatable' (nil or table expected, got number)
+1 true
+3 true true true
+1 true
+1 nil
+1 nil
+2 false bad argument #1 to 'string.rep' (string expected, got Thing)
+2 false bad argument #1 to 'string.rep' (string expected, got light userdata)
+2 false bad argument #1 to 'string.rep' (string expected, got userdata)
+2 false bad argument #1 to 'math.floor' (number expected, got Thing)
+2 false bad argument #1 to 'ipairs' (value expected)
+E
+8 add(<ea>,1) add(1,<ea>) sub(<ea>,<eb>) mul(<ea>,2) div(<ea>,2) mod(<ea>,2) pow(<ea>,2) idiv(<ea>,2)
+7 band(<ea>,1) bor(1,<ea>) bxor(<ea>,1) shl(<ea>,1) shr(1,<ea>) bnot(<ea>,<ea>) unm(<ea>,<ea>)
+4 concat(<ea>,s) concat(s,<ea>) concat(1,<ea>) 42
+4 true false true false
+1 lt le lt le
+5 called <ea> 1 nil 3
+3 get:key get:1 true
+1 set:x=5 set:1=nil
+2 T(<ea>) T(<ea>)|  T(<
+5 1 2 nil 3 3
+1 inner deep
+false false false false false false false false false false
+2 true true
+F
+4 true false true 2
+3 true true 4
+3 true false 4
+3 false true 5
+4 false false false 5
+3 false true 6
+2 false true
+4 false true true 6
+6 light field ladd 7 lcall true lcat
+3 false false 6
+G
+6 k1 k2 l1 l2 nil nil
+2 k1 l2
+1 l3
+1 5
+1 k2,l2,l3
+2 again again l
+2 1 nil
+3 3 userdata true
+2 true 4
+H
+3 userdata true false
+1 true
+1 true
+3 nil nil nil
+1 nil
+1 nil
+1 false
+2 true 1
+2 false false
+1 true
+2 true 5
+2 cell nil
+2 false bad argument #2 to 'debug.upvalueid' (number expected, got no value)
+2 false bad argument #1 to 'debug.upvalueid' (function expected, got number)
+2 false bad argument #2 to 'debug.upvalueid' (number expected, got no value)
+2 false bad argument #2 to 'debug.upvalueid' (number expected, got string)
+1 nil
+I
+1 r
+2 false boom
+1 true
+2 in close done
+1 <scope>:nil <ret>:nil <goto1>:nil <goto2>:nil <err>:boom <co>:nil yield-close
+1 false
+1 false
+J
+2 false idx
+2 2 table
+3 false true 8
+1 index key
+1 lt
+1 call 3
+1 concat
+5 end A false C D
+2 1 one
+1=10 2=20 3=30
+3 3 true nil
+2 false bad argument #1 to 'next' (table expected, got userdata)
+2 false bad argument #1 to 'rawlen' (table or string expected, got userdata)
+2 false bad argument #1 to 'rawget' (table expected, got userdata)
+2 false bad argument #1 to 'rawset' (table expected, got userdata)
+1 false
+5 3 z,a,b z a b
+2 b 2
+1 a,z
+2 false bad argument #1 to 'table.insert' (table expected, got userdata)
+1 2
+2 true 1
+1 true
+2 false <errud>
+end

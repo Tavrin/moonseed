@@ -1,0 +1,17 @@
+[package]
+name = "moonseed-wasm-probe"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+publish = false
+description = "Scalar-ABI wasm probe for the Moonseed proof kernel"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+path = "src/lib.rs"
+
+[dependencies]
+moonseed = { path = "../moonseed" }
+
+[dev-dependencies]
+wasmi = "0.40"

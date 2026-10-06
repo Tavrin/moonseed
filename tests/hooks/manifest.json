@@ -1,0 +1,95 @@
+{
+  "generator_sha256": "59e2b5f70c699f9e3b7b619a91aadeea421d60e48bbcff5ff7951f90b6682158",
+  "groups": {
+    "api": {
+      "acceptance": true,
+      "cases": 37,
+      "records": 68,
+      "sha256": "42e114d9e3afa48404fe89df8e87340525ca8ce95e9c89962cc865c34b056250"
+    },
+    "calls": {
+      "acceptance": true,
+      "cases": 26,
+      "records": 1631,
+      "sha256": "ea952b0698e267ad1033a6bc4308ce3fd305c3e39d50b7c057427adfc791983e"
+    },
+    "close_gc": {
+      "acceptance": true,
+      "cases": 5,
+      "records": 424,
+      "sha256": "fd333eac854d074274a97c08765cf9c59ed321a5e16763b852c01d739f3b4fe3"
+    },
+    "coroutines": {
+      "acceptance": true,
+      "cases": 5,
+      "records": 631,
+      "sha256": "9c79085a3b0848f33ee67ffd983ff77821bb4308ff3eaeee54ec88a452a51e1d"
+    },
+    "count": {
+      "acceptance": true,
+      "cases": 13,
+      "records": 42,
+      "sha256": "3e21f23179a90cb2244cf16c376afbc9453237a0ef56d5c77e3d2e154ecf5bcf"
+    },
+    "count_positions": {
+      "acceptance": false,
+      "cases": 32,
+      "records": 1712,
+      "sha256": "d5d92a5d9eda9663ce8d8df85207905792d31b52a00bec5bd1dd2b888c0b8f32"
+    },
+    "errors": {
+      "acceptance": true,
+      "cases": 16,
+      "records": 244,
+      "sha256": "60c7757a91758ae4765d038e705334b7710cb2a5b3ea2166bd7b68d9ca3f0bf3"
+    },
+    "external": {
+      "acceptance": true,
+      "cases": 7,
+      "records": 41,
+      "sha256": "c90a3faef6337be3361e4c8b9be78c6b20db77961efd1555a5858d440373f657"
+    },
+    "external_positions": {
+      "acceptance": false,
+      "cases": 8,
+      "records": 306,
+      "sha256": "0a178caebd3af28c6636923c3b6fdec0f6d1f8c2769b93e89f883608c03b5e99"
+    },
+    "external_unsupported": {
+      "acceptance": false,
+      "cases": 2,
+      "records": 2,
+      "sha256": "922d75ba95d4552aadd980ecd7c9e1e33ac8acecd88d28d3ed463c8d70b52e6b"
+    },
+    "lines": {
+      "acceptance": true,
+      "cases": 23,
+      "records": 542,
+      "sha256": "7c7b6deea050d667f436e11ac1b742e49489783ad75f52adcef7d40c3b5e757c"
+    },
+    "lua_yield": {
+      "acceptance": true,
+      "cases": 4,
+      "records": 13,
+      "sha256": "2181643e16d38fba2e34a54d91125dd2729d414a6d0ccabd0f0414cae3cd1427"
+    },
+    "metamethods": {
+      "acceptance": true,
+      "cases": 6,
+      "records": 257,
+      "sha256": "924edfc77c9ad7da67ea4a0d5ea20bcede31fc58109798612d67d185d307e8f6"
+    },
+    "reentrancy": {
+      "acceptance": true,
+      "cases": 9,
+      "records": 117,
+      "sha256": "495730d8210745d0eca8feda57b89068cb1e37260134310a11d33921c6e27516"
+    }
+  },
+  "harness_sha256": "e5f0e8e077c1ed73baeddacb252ee9d858dece1733d6deaf4e03462567680f96",
+  "harness_source_sha256": "3c649eb62dfa4a1e81c10844d0a3d20f8bec0af61c4e3d66cb7758827e562178",
+  "oracle": "Lua 5.4.9 without LUA_COMPAT_5_3",
+  "protocol": 1,
+  "puc_sha256": "3881230fd6ef8553c379fc273112dbe3328b582775a010c4997fbe178dae0abe",
+  "runner_sha256": "ddb895213bdbdef403103cd45f1328d7654bfad1f2f98053799d6d1577916d60"
+}

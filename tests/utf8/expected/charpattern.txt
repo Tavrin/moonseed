@@ -1,0 +1,12 @@
+charpattern.bytes	ok	2	string	5b002d7fc22dfd5d5b802dbf5d2a	number.integer	14	-	-
+charpattern.empty	ok	0	-	-
+charpattern.ascii	ok	2	string	61	string	62	-	-
+charpattern.two	ok	1	string	c280	-	-
+charpattern.three	ok	1	string	e0a080	-	-
+charpattern.four	ok	1	string	f0908080	-	-
+charpattern.extended	ok	1	string	fdbfbfbfbfbf	-	-
+charpattern.surrogate	ok	1	string	eda080	-	-
+charpattern.malformed	ok	3	string	41	string	c2	string	42	-	-
+charpattern.continuation	ok	0	-	-
+charpattern.nul	ok	3	string	41	string	00	string	e0a080	-	-
+charpattern.mixed	ok	4	string	41	string	c280	string	e0a080	string	f0908080	-	-

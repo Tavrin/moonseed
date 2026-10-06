@@ -1,0 +1,523 @@
+codes.empty.strict.triple	ok	3	function	strict-iterator	string		number.integer	0	-	-
+codes.empty.strict.generic	ok	0	-	-
+codes.empty.strict.manual.zero	ok	0	-	-
+codes.empty.strict.manual.one	ok	0	-	-
+codes.empty.strict.manual.len	ok	0	-	-
+codes.empty.strict.manual.len1	ok	0	-	-
+codes.empty.strict.manual.len2	ok	0	-	-
+codes.empty.strict.manual.minus1	ok	0	-	-
+codes.empty.strict.manual.minuslen	ok	0	-	-
+codes.empty.strict.manual.before	ok	0	-	-
+codes.empty.strict.manual.min	ok	0	-	-
+codes.empty.strict.manual.max	ok	0	-	-
+codes.empty.strict.manual.integral	ok	0	-	-
+codes.empty.strict.manual.fractional	ok	0	-	-
+codes.empty.strict.manual.numeric	ok	0	-	-
+codes.empty.strict.manual.badstr	ok	0	-	-
+codes.empty.strict.manual.table	ok	0	-	-
+codes.empty.strict.manual.false	ok	0	-	-
+codes.empty.strict.manual.nil	ok	0	-	-
+codes.empty.strict.manual.pastend	ok	0	-	-
+codes.empty.strict.manual.nonnumeric	ok	0	-	-
+codes.empty.lax.triple	ok	3	function	lax-iterator	string		number.integer	0	-	-
+codes.empty.lax.generic	ok	0	-	-
+codes.empty.lax.manual.zero	ok	0	-	-
+codes.empty.lax.manual.one	ok	0	-	-
+codes.empty.lax.manual.len	ok	0	-	-
+codes.empty.lax.manual.len1	ok	0	-	-
+codes.empty.lax.manual.len2	ok	0	-	-
+codes.empty.lax.manual.minus1	ok	0	-	-
+codes.empty.lax.manual.minuslen	ok	0	-	-
+codes.empty.lax.manual.before	ok	0	-	-
+codes.empty.lax.manual.min	ok	0	-	-
+codes.empty.lax.manual.max	ok	0	-	-
+codes.empty.lax.manual.integral	ok	0	-	-
+codes.empty.lax.manual.fractional	ok	0	-	-
+codes.empty.lax.manual.numeric	ok	0	-	-
+codes.empty.lax.manual.badstr	ok	0	-	-
+codes.empty.lax.manual.table	ok	0	-	-
+codes.empty.lax.manual.false	ok	0	-	-
+codes.empty.lax.manual.nil	ok	0	-	-
+codes.empty.lax.manual.pastend	ok	0	-	-
+codes.empty.lax.manual.nonnumeric	ok	0	-	-
+codes.ascii.strict.triple	ok	3	function	strict-iterator	string	6162	number.integer	0	-	-
+codes.ascii.strict.generic	ok	4	number.integer	1	number.integer	97	number.integer	2	number.integer	98	-	-
+codes.ascii.strict.manual.zero	ok	2	number.integer	1	number.integer	97	-	-
+codes.ascii.strict.manual.one	ok	2	number.integer	2	number.integer	98	-	-
+codes.ascii.strict.manual.len	ok	0	-	-
+codes.ascii.strict.manual.len1	ok	0	-	-
+codes.ascii.strict.manual.len2	ok	0	-	-
+codes.ascii.strict.manual.minus1	ok	0	-	-
+codes.ascii.strict.manual.minuslen	ok	0	-	-
+codes.ascii.strict.manual.before	ok	0	-	-
+codes.ascii.strict.manual.min	ok	0	-	-
+codes.ascii.strict.manual.max	ok	0	-	-
+codes.ascii.strict.manual.integral	ok	2	number.integer	2	number.integer	98	-	-
+codes.ascii.strict.manual.fractional	ok	2	number.integer	1	number.integer	97	-	-
+codes.ascii.strict.manual.numeric	ok	2	number.integer	2	number.integer	98	-	-
+codes.ascii.strict.manual.badstr	ok	2	number.integer	1	number.integer	97	-	-
+codes.ascii.strict.manual.table	ok	2	number.integer	1	number.integer	97	-	-
+codes.ascii.strict.manual.false	ok	2	number.integer	1	number.integer	97	-	-
+codes.ascii.strict.manual.nil	ok	2	number.integer	1	number.integer	97	-	-
+codes.ascii.strict.manual.pastend	ok	0	-	-
+codes.ascii.strict.manual.nonnumeric	ok	2	number.integer	1	number.integer	97	-	-
+codes.ascii.strict.byte2	ok	0	-	-
+codes.ascii.lax.triple	ok	3	function	lax-iterator	string	6162	number.integer	0	-	-
+codes.ascii.lax.generic	ok	4	number.integer	1	number.integer	97	number.integer	2	number.integer	98	-	-
+codes.ascii.lax.manual.zero	ok	2	number.integer	1	number.integer	97	-	-
+codes.ascii.lax.manual.one	ok	2	number.integer	2	number.integer	98	-	-
+codes.ascii.lax.manual.len	ok	0	-	-
+codes.ascii.lax.manual.len1	ok	0	-	-
+codes.ascii.lax.manual.len2	ok	0	-	-
+codes.ascii.lax.manual.minus1	ok	0	-	-
+codes.ascii.lax.manual.minuslen	ok	0	-	-
+codes.ascii.lax.manual.before	ok	0	-	-
+codes.ascii.lax.manual.min	ok	0	-	-
+codes.ascii.lax.manual.max	ok	0	-	-
+codes.ascii.lax.manual.integral	ok	2	number.integer	2	number.integer	98	-	-
+codes.ascii.lax.manual.fractional	ok	2	number.integer	1	number.integer	97	-	-
+codes.ascii.lax.manual.numeric	ok	2	number.integer	2	number.integer	98	-	-
+codes.ascii.lax.manual.badstr	ok	2	number.integer	1	number.integer	97	-	-
+codes.ascii.lax.manual.table	ok	2	number.integer	1	number.integer	97	-	-
+codes.ascii.lax.manual.false	ok	2	number.integer	1	number.integer	97	-	-
+codes.ascii.lax.manual.nil	ok	2	number.integer	1	number.integer	97	-	-
+codes.ascii.lax.manual.pastend	ok	0	-	-
+codes.ascii.lax.manual.nonnumeric	ok	2	number.integer	1	number.integer	97	-	-
+codes.ascii.lax.byte2	ok	0	-	-
+codes.two.strict.triple	ok	3	function	strict-iterator	string	c280	number.integer	0	-	-
+codes.two.strict.generic	ok	2	number.integer	1	number.integer	128	-	-
+codes.two.strict.manual.zero	ok	2	number.integer	1	number.integer	128	-	-
+codes.two.strict.manual.one	ok	0	-	-
+codes.two.strict.manual.len	ok	0	-	-
+codes.two.strict.manual.len1	ok	0	-	-
+codes.two.strict.manual.len2	ok	0	-	-
+codes.two.strict.manual.minus1	ok	0	-	-
+codes.two.strict.manual.minuslen	ok	0	-	-
+codes.two.strict.manual.before	ok	0	-	-
+codes.two.strict.manual.min	ok	0	-	-
+codes.two.strict.manual.max	ok	0	-	-
+codes.two.strict.manual.integral	ok	0	-	-
+codes.two.strict.manual.fractional	ok	2	number.integer	1	number.integer	128	-	-
+codes.two.strict.manual.numeric	ok	0	-	-
+codes.two.strict.manual.badstr	ok	2	number.integer	1	number.integer	128	-	-
+codes.two.strict.manual.table	ok	2	number.integer	1	number.integer	128	-	-
+codes.two.strict.manual.false	ok	2	number.integer	1	number.integer	128	-	-
+codes.two.strict.manual.nil	ok	2	number.integer	1	number.integer	128	-	-
+codes.two.strict.manual.pastend	ok	0	-	-
+codes.two.strict.manual.nonnumeric	ok	2	number.integer	1	number.integer	128	-	-
+codes.two.strict.byte2	ok	0	-	-
+codes.two.lax.triple	ok	3	function	lax-iterator	string	c280	number.integer	0	-	-
+codes.two.lax.generic	ok	2	number.integer	1	number.integer	128	-	-
+codes.two.lax.manual.zero	ok	2	number.integer	1	number.integer	128	-	-
+codes.two.lax.manual.one	ok	0	-	-
+codes.two.lax.manual.len	ok	0	-	-
+codes.two.lax.manual.len1	ok	0	-	-
+codes.two.lax.manual.len2	ok	0	-	-
+codes.two.lax.manual.minus1	ok	0	-	-
+codes.two.lax.manual.minuslen	ok	0	-	-
+codes.two.lax.manual.before	ok	0	-	-
+codes.two.lax.manual.min	ok	0	-	-
+codes.two.lax.manual.max	ok	0	-	-
+codes.two.lax.manual.integral	ok	0	-	-
+codes.two.lax.manual.fractional	ok	2	number.integer	1	number.integer	128	-	-
+codes.two.lax.manual.numeric	ok	0	-	-
+codes.two.lax.manual.badstr	ok	2	number.integer	1	number.integer	128	-	-
+codes.two.lax.manual.table	ok	2	number.integer	1	number.integer	128	-	-
+codes.two.lax.manual.false	ok	2	number.integer	1	number.integer	128	-	-
+codes.two.lax.manual.nil	ok	2	number.integer	1	number.integer	128	-	-
+codes.two.lax.manual.pastend	ok	0	-	-
+codes.two.lax.manual.nonnumeric	ok	2	number.integer	1	number.integer	128	-	-
+codes.two.lax.byte2	ok	0	-	-
+codes.three.strict.triple	ok	3	function	strict-iterator	string	e0a080	number.integer	0	-	-
+codes.three.strict.generic	ok	2	number.integer	1	number.integer	2048	-	-
+codes.three.strict.manual.zero	ok	2	number.integer	1	number.integer	2048	-	-
+codes.three.strict.manual.one	ok	0	-	-
+codes.three.strict.manual.len	ok	0	-	-
+codes.three.strict.manual.len1	ok	0	-	-
+codes.three.strict.manual.len2	ok	0	-	-
+codes.three.strict.manual.minus1	ok	0	-	-
+codes.three.strict.manual.minuslen	ok	0	-	-
+codes.three.strict.manual.before	ok	0	-	-
+codes.three.strict.manual.min	ok	0	-	-
+codes.three.strict.manual.max	ok	0	-	-
+codes.three.strict.manual.integral	ok	0	-	-
+codes.three.strict.manual.fractional	ok	2	number.integer	1	number.integer	2048	-	-
+codes.three.strict.manual.numeric	ok	0	-	-
+codes.three.strict.manual.badstr	ok	2	number.integer	1	number.integer	2048	-	-
+codes.three.strict.manual.table	ok	2	number.integer	1	number.integer	2048	-	-
+codes.three.strict.manual.false	ok	2	number.integer	1	number.integer	2048	-	-
+codes.three.strict.manual.nil	ok	2	number.integer	1	number.integer	2048	-	-
+codes.three.strict.manual.pastend	ok	0	-	-
+codes.three.strict.manual.nonnumeric	ok	2	number.integer	1	number.integer	2048	-	-
+codes.three.strict.byte2	ok	0	-	-
+codes.three.strict.byte3	ok	0	-	-
+codes.three.lax.triple	ok	3	function	lax-iterator	string	e0a080	number.integer	0	-	-
+codes.three.lax.generic	ok	2	number.integer	1	number.integer	2048	-	-
+codes.three.lax.manual.zero	ok	2	number.integer	1	number.integer	2048	-	-
+codes.three.lax.manual.one	ok	0	-	-
+codes.three.lax.manual.len	ok	0	-	-
+codes.three.lax.manual.len1	ok	0	-	-
+codes.three.lax.manual.len2	ok	0	-	-
+codes.three.lax.manual.minus1	ok	0	-	-
+codes.three.lax.manual.minuslen	ok	0	-	-
+codes.three.lax.manual.before	ok	0	-	-
+codes.three.lax.manual.min	ok	0	-	-
+codes.three.lax.manual.max	ok	0	-	-
+codes.three.lax.manual.integral	ok	0	-	-
+codes.three.lax.manual.fractional	ok	2	number.integer	1	number.integer	2048	-	-
+codes.three.lax.manual.numeric	ok	0	-	-
+codes.three.lax.manual.badstr	ok	2	number.integer	1	number.integer	2048	-	-
+codes.three.lax.manual.table	ok	2	number.integer	1	number.integer	2048	-	-
+codes.three.lax.manual.false	ok	2	number.integer	1	number.integer	2048	-	-
+codes.three.lax.manual.nil	ok	2	number.integer	1	number.integer	2048	-	-
+codes.three.lax.manual.pastend	ok	0	-	-
+codes.three.lax.manual.nonnumeric	ok	2	number.integer	1	number.integer	2048	-	-
+codes.three.lax.byte2	ok	0	-	-
+codes.three.lax.byte3	ok	0	-	-
+codes.four.strict.triple	ok	3	function	strict-iterator	string	f0908080	number.integer	0	-	-
+codes.four.strict.generic	ok	2	number.integer	1	number.integer	65536	-	-
+codes.four.strict.manual.zero	ok	2	number.integer	1	number.integer	65536	-	-
+codes.four.strict.manual.one	ok	0	-	-
+codes.four.strict.manual.len	ok	0	-	-
+codes.four.strict.manual.len1	ok	0	-	-
+codes.four.strict.manual.len2	ok	0	-	-
+codes.four.strict.manual.minus1	ok	0	-	-
+codes.four.strict.manual.minuslen	ok	0	-	-
+codes.four.strict.manual.before	ok	0	-	-
+codes.four.strict.manual.min	ok	0	-	-
+codes.four.strict.manual.max	ok	0	-	-
+codes.four.strict.manual.integral	ok	0	-	-
+codes.four.strict.manual.fractional	ok	2	number.integer	1	number.integer	65536	-	-
+codes.four.strict.manual.numeric	ok	0	-	-
+codes.four.strict.manual.badstr	ok	2	number.integer	1	number.integer	65536	-	-
+codes.four.strict.manual.table	ok	2	number.integer	1	number.integer	65536	-	-
+codes.four.strict.manual.false	ok	2	number.integer	1	number.integer	65536	-	-
+codes.four.strict.manual.nil	ok	2	number.integer	1	number.integer	65536	-	-
+codes.four.strict.manual.pastend	ok	0	-	-
+codes.four.strict.manual.nonnumeric	ok	2	number.integer	1	number.integer	65536	-	-
+codes.four.strict.byte2	ok	0	-	-
+codes.four.strict.byte3	ok	0	-	-
+codes.four.strict.byte4	ok	0	-	-
+codes.four.lax.triple	ok	3	function	lax-iterator	string	f0908080	number.integer	0	-	-
+codes.four.lax.generic	ok	2	number.integer	1	number.integer	65536	-	-
+codes.four.lax.manual.zero	ok	2	number.integer	1	number.integer	65536	-	-
+codes.four.lax.manual.one	ok	0	-	-
+codes.four.lax.manual.len	ok	0	-	-
+codes.four.lax.manual.len1	ok	0	-	-
+codes.four.lax.manual.len2	ok	0	-	-
+codes.four.lax.manual.minus1	ok	0	-	-
+codes.four.lax.manual.minuslen	ok	0	-	-
+codes.four.lax.manual.before	ok	0	-	-
+codes.four.lax.manual.min	ok	0	-	-
+codes.four.lax.manual.max	ok	0	-	-
+codes.four.lax.manual.integral	ok	0	-	-
+codes.four.lax.manual.fractional	ok	2	number.integer	1	number.integer	65536	-	-
+codes.four.lax.manual.numeric	ok	0	-	-
+codes.four.lax.manual.badstr	ok	2	number.integer	1	number.integer	65536	-	-
+codes.four.lax.manual.table	ok	2	number.integer	1	number.integer	65536	-	-
+codes.four.lax.manual.false	ok	2	number.integer	1	number.integer	65536	-	-
+codes.four.lax.manual.nil	ok	2	number.integer	1	number.integer	65536	-	-
+codes.four.lax.manual.pastend	ok	0	-	-
+codes.four.lax.manual.nonnumeric	ok	2	number.integer	1	number.integer	65536	-	-
+codes.four.lax.byte2	ok	0	-	-
+codes.four.lax.byte3	ok	0	-	-
+codes.four.lax.byte4	ok	0	-	-
+codes.extended.strict.triple	ok	3	function	strict-iterator	string	fdbfbfbfbfbf	number.integer	0	-	-
+codes.extended.strict.generic	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.extended.strict.manual.zero	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.extended.strict.manual.one	ok	0	-	-
+codes.extended.strict.manual.len	ok	0	-	-
+codes.extended.strict.manual.len1	ok	0	-	-
+codes.extended.strict.manual.len2	ok	0	-	-
+codes.extended.strict.manual.minus1	ok	0	-	-
+codes.extended.strict.manual.minuslen	ok	0	-	-
+codes.extended.strict.manual.before	ok	0	-	-
+codes.extended.strict.manual.min	ok	0	-	-
+codes.extended.strict.manual.max	ok	0	-	-
+codes.extended.strict.manual.integral	ok	0	-	-
+codes.extended.strict.manual.fractional	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.extended.strict.manual.numeric	ok	0	-	-
+codes.extended.strict.manual.badstr	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.extended.strict.manual.table	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.extended.strict.manual.false	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.extended.strict.manual.nil	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.extended.strict.manual.pastend	ok	0	-	-
+codes.extended.strict.manual.nonnumeric	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.extended.strict.byte2	ok	0	-	-
+codes.extended.strict.byte3	ok	0	-	-
+codes.extended.strict.byte4	ok	0	-	-
+codes.extended.strict.byte5	ok	0	-	-
+codes.extended.strict.byte6	ok	0	-	-
+codes.extended.lax.triple	ok	3	function	lax-iterator	string	fdbfbfbfbfbf	number.integer	0	-	-
+codes.extended.lax.generic	ok	2	number.integer	1	number.integer	2147483647	-	-
+codes.extended.lax.manual.zero	ok	2	number.integer	1	number.integer	2147483647	-	-
+codes.extended.lax.manual.one	ok	0	-	-
+codes.extended.lax.manual.len	ok	0	-	-
+codes.extended.lax.manual.len1	ok	0	-	-
+codes.extended.lax.manual.len2	ok	0	-	-
+codes.extended.lax.manual.minus1	ok	0	-	-
+codes.extended.lax.manual.minuslen	ok	0	-	-
+codes.extended.lax.manual.before	ok	0	-	-
+codes.extended.lax.manual.min	ok	0	-	-
+codes.extended.lax.manual.max	ok	0	-	-
+codes.extended.lax.manual.integral	ok	0	-	-
+codes.extended.lax.manual.fractional	ok	2	number.integer	1	number.integer	2147483647	-	-
+codes.extended.lax.manual.numeric	ok	0	-	-
+codes.extended.lax.manual.badstr	ok	2	number.integer	1	number.integer	2147483647	-	-
+codes.extended.lax.manual.table	ok	2	number.integer	1	number.integer	2147483647	-	-
+codes.extended.lax.manual.false	ok	2	number.integer	1	number.integer	2147483647	-	-
+codes.extended.lax.manual.nil	ok	2	number.integer	1	number.integer	2147483647	-	-
+codes.extended.lax.manual.pastend	ok	0	-	-
+codes.extended.lax.manual.nonnumeric	ok	2	number.integer	1	number.integer	2147483647	-	-
+codes.extended.lax.byte2	ok	0	-	-
+codes.extended.lax.byte3	ok	0	-	-
+codes.extended.lax.byte4	ok	0	-	-
+codes.extended.lax.byte5	ok	0	-	-
+codes.extended.lax.byte6	ok	0	-	-
+codes.surrogate.strict.triple	ok	3	function	strict-iterator	string	eda080	number.integer	0	-	-
+codes.surrogate.strict.generic	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.surrogate.strict.manual.zero	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.surrogate.strict.manual.one	ok	0	-	-
+codes.surrogate.strict.manual.len	ok	0	-	-
+codes.surrogate.strict.manual.len1	ok	0	-	-
+codes.surrogate.strict.manual.len2	ok	0	-	-
+codes.surrogate.strict.manual.minus1	ok	0	-	-
+codes.surrogate.strict.manual.minuslen	ok	0	-	-
+codes.surrogate.strict.manual.before	ok	0	-	-
+codes.surrogate.strict.manual.min	ok	0	-	-
+codes.surrogate.strict.manual.max	ok	0	-	-
+codes.surrogate.strict.manual.integral	ok	0	-	-
+codes.surrogate.strict.manual.fractional	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.surrogate.strict.manual.numeric	ok	0	-	-
+codes.surrogate.strict.manual.badstr	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.surrogate.strict.manual.table	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.surrogate.strict.manual.false	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.surrogate.strict.manual.nil	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.surrogate.strict.manual.pastend	ok	0	-	-
+codes.surrogate.strict.manual.nonnumeric	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.surrogate.strict.byte2	ok	0	-	-
+codes.surrogate.strict.byte3	ok	0	-	-
+codes.surrogate.lax.triple	ok	3	function	lax-iterator	string	eda080	number.integer	0	-	-
+codes.surrogate.lax.generic	ok	2	number.integer	1	number.integer	55296	-	-
+codes.surrogate.lax.manual.zero	ok	2	number.integer	1	number.integer	55296	-	-
+codes.surrogate.lax.manual.one	ok	0	-	-
+codes.surrogate.lax.manual.len	ok	0	-	-
+codes.surrogate.lax.manual.len1	ok	0	-	-
+codes.surrogate.lax.manual.len2	ok	0	-	-
+codes.surrogate.lax.manual.minus1	ok	0	-	-
+codes.surrogate.lax.manual.minuslen	ok	0	-	-
+codes.surrogate.lax.manual.before	ok	0	-	-
+codes.surrogate.lax.manual.min	ok	0	-	-
+codes.surrogate.lax.manual.max	ok	0	-	-
+codes.surrogate.lax.manual.integral	ok	0	-	-
+codes.surrogate.lax.manual.fractional	ok	2	number.integer	1	number.integer	55296	-	-
+codes.surrogate.lax.manual.numeric	ok	0	-	-
+codes.surrogate.lax.manual.badstr	ok	2	number.integer	1	number.integer	55296	-	-
+codes.surrogate.lax.manual.table	ok	2	number.integer	1	number.integer	55296	-	-
+codes.surrogate.lax.manual.false	ok	2	number.integer	1	number.integer	55296	-	-
+codes.surrogate.lax.manual.nil	ok	2	number.integer	1	number.integer	55296	-	-
+codes.surrogate.lax.manual.pastend	ok	0	-	-
+codes.surrogate.lax.manual.nonnumeric	ok	2	number.integer	1	number.integer	55296	-	-
+codes.surrogate.lax.byte2	ok	0	-	-
+codes.surrogate.lax.byte3	ok	0	-	-
+codes.malformed.strict.triple	ok	3	function	strict-iterator	string	41c242	number.integer	0	-	-
+codes.malformed.strict.generic	error	2	number.integer	1	number.integer	65	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.malformed.strict.manual.zero	ok	2	number.integer	1	number.integer	65	-	-
+codes.malformed.strict.manual.one	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.malformed.strict.manual.len	ok	0	-	-
+codes.malformed.strict.manual.len1	ok	0	-	-
+codes.malformed.strict.manual.len2	ok	0	-	-
+codes.malformed.strict.manual.minus1	ok	0	-	-
+codes.malformed.strict.manual.minuslen	ok	0	-	-
+codes.malformed.strict.manual.before	ok	0	-	-
+codes.malformed.strict.manual.min	ok	0	-	-
+codes.malformed.strict.manual.max	ok	0	-	-
+codes.malformed.strict.manual.integral	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.malformed.strict.manual.fractional	ok	2	number.integer	1	number.integer	65	-	-
+codes.malformed.strict.manual.numeric	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.malformed.strict.manual.badstr	ok	2	number.integer	1	number.integer	65	-	-
+codes.malformed.strict.manual.table	ok	2	number.integer	1	number.integer	65	-	-
+codes.malformed.strict.manual.false	ok	2	number.integer	1	number.integer	65	-	-
+codes.malformed.strict.manual.nil	ok	2	number.integer	1	number.integer	65	-	-
+codes.malformed.strict.manual.pastend	ok	0	-	-
+codes.malformed.strict.manual.nonnumeric	ok	2	number.integer	1	number.integer	65	-	-
+codes.malformed.strict.byte2	ok	2	number.integer	3	number.integer	66	-	-
+codes.malformed.strict.byte3	ok	0	-	-
+codes.malformed.lax.triple	ok	3	function	lax-iterator	string	41c242	number.integer	0	-	-
+codes.malformed.lax.generic	error	2	number.integer	1	number.integer	65	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.malformed.lax.manual.zero	ok	2	number.integer	1	number.integer	65	-	-
+codes.malformed.lax.manual.one	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.malformed.lax.manual.len	ok	0	-	-
+codes.malformed.lax.manual.len1	ok	0	-	-
+codes.malformed.lax.manual.len2	ok	0	-	-
+codes.malformed.lax.manual.minus1	ok	0	-	-
+codes.malformed.lax.manual.minuslen	ok	0	-	-
+codes.malformed.lax.manual.before	ok	0	-	-
+codes.malformed.lax.manual.min	ok	0	-	-
+codes.malformed.lax.manual.max	ok	0	-	-
+codes.malformed.lax.manual.integral	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.malformed.lax.manual.fractional	ok	2	number.integer	1	number.integer	65	-	-
+codes.malformed.lax.manual.numeric	error	0	string	757466382d636173652e6c75613a313a20696e76616c6964205554462d3820636f6465
+codes.malformed.lax.manual.badstr	ok	2	number.integer	1	number.integer	65	-	-
+codes.malformed.lax.manual.table	ok	2	number.integer	1	number.integer	65	-	-
+codes.malformed.lax.manual.false	ok	2	number.integer	1	number.integer	65	-	-
+codes.malformed.lax.manual.nil	ok	2	number.integer	1	number.integer	65	-	-
+codes.malformed.lax.manual.pastend	ok	0	-	-
+codes.malformed.lax.manual.nonnumeric	ok	2	number.integer	1	number.integer	65	-	-
+codes.malformed.lax.byte2	ok	2	number.integer	3	number.integer	66	-	-
+codes.malformed.lax.byte3	ok	0	-	-
+codes.continuation.strict.triple	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.strict.generic	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.strict.manual.zero	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.strict.manual.one	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.strict.manual.len	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.strict.manual.len1	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.strict.manual.len2	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.strict.manual.minus1	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.strict.manual.minuslen	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.strict.manual.before	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.strict.manual.min	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.strict.manual.max	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.strict.manual.integral	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.strict.manual.fractional	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.strict.manual.numeric	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.strict.manual.badstr	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.strict.manual.table	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.strict.manual.false	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.strict.manual.nil	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.strict.manual.pastend	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.strict.manual.nonnumeric	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.strict.byte2	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.lax.triple	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.lax.generic	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.lax.manual.zero	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.lax.manual.one	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.lax.manual.len	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.lax.manual.len1	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.lax.manual.len2	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.lax.manual.minus1	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.lax.manual.minuslen	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.lax.manual.before	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.lax.manual.min	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.lax.manual.max	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.lax.manual.integral	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.lax.manual.fractional	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.lax.manual.numeric	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.lax.manual.badstr	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.lax.manual.table	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.lax.manual.false	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.lax.manual.nil	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.lax.manual.pastend	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.lax.manual.nonnumeric	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.continuation.lax.byte2	error	0	string	757466382d636173652e6c75613a313a2062616420617267756d656e7420233120746f2027636f646573272028696e76616c6964205554462d3820636f646529
+codes.nul.strict.triple	ok	3	function	strict-iterator	string	4100e0a080	number.integer	0	-	-
+codes.nul.strict.generic	ok	6	number.integer	1	number.integer	65	number.integer	2	number.integer	0	number.integer	3	number.integer	2048	-	-
+codes.nul.strict.manual.zero	ok	2	number.integer	1	number.integer	65	-	-
+codes.nul.strict.manual.one	ok	2	number.integer	2	number.integer	0	-	-
+codes.nul.strict.manual.len	ok	0	-	-
+codes.nul.strict.manual.len1	ok	0	-	-
+codes.nul.strict.manual.len2	ok	0	-	-
+codes.nul.strict.manual.minus1	ok	0	-	-
+codes.nul.strict.manual.minuslen	ok	0	-	-
+codes.nul.strict.manual.before	ok	0	-	-
+codes.nul.strict.manual.min	ok	0	-	-
+codes.nul.strict.manual.max	ok	0	-	-
+codes.nul.strict.manual.integral	ok	2	number.integer	2	number.integer	0	-	-
+codes.nul.strict.manual.fractional	ok	2	number.integer	1	number.integer	65	-	-
+codes.nul.strict.manual.numeric	ok	2	number.integer	2	number.integer	0	-	-
+codes.nul.strict.manual.badstr	ok	2	number.integer	1	number.integer	65	-	-
+codes.nul.strict.manual.table	ok	2	number.integer	1	number.integer	65	-	-
+codes.nul.strict.manual.false	ok	2	number.integer	1	number.integer	65	-	-
+codes.nul.strict.manual.nil	ok	2	number.integer	1	number.integer	65	-	-
+codes.nul.strict.manual.pastend	ok	0	-	-
+codes.nul.strict.manual.nonnumeric	ok	2	number.integer	1	number.integer	65	-	-
+codes.nul.strict.byte2	ok	2	number.integer	3	number.integer	2048	-	-
+codes.nul.strict.byte3	ok	0	-	-
+codes.nul.strict.byte4	ok	0	-	-
+codes.nul.strict.byte5	ok	0	-	-
+codes.nul.lax.triple	ok	3	function	lax-iterator	string	4100e0a080	number.integer	0	-	-
+codes.nul.lax.generic	ok	6	number.integer	1	number.integer	65	number.integer	2	number.integer	0	number.integer	3	number.integer	2048	-	-
+codes.nul.lax.manual.zero	ok	2	number.integer	1	number.integer	65	-	-
+codes.nul.lax.manual.one	ok	2	number.integer	2	number.integer	0	-	-
+codes.nul.lax.manual.len	ok	0	-	-
+codes.nul.lax.manual.len1	ok	0	-	-
+codes.nul.lax.manual.len2	ok	0	-	-
+codes.nul.lax.manual.minus1	ok	0	-	-
+codes.nul.lax.manual.minuslen	ok	0	-	-
+codes.nul.lax.manual.before	ok	0	-	-
+codes.nul.lax.manual.min	ok	0	-	-
+codes.nul.lax.manual.max	ok	0	-	-
+codes.nul.lax.manual.integral	ok	2	number.integer	2	number.integer	0	-	-
+codes.nul.lax.manual.fractional	ok	2	number.integer	1	number.integer	65	-	-
+codes.nul.lax.manual.numeric	ok	2	number.integer	2	number.integer	0	-	-
+codes.nul.lax.manual.badstr	ok	2	number.integer	1	number.integer	65	-	-
+codes.nul.lax.manual.table	ok	2	number.integer	1	number.integer	65	-	-
+codes.nul.lax.manual.false	ok	2	number.integer	1	number.integer	65	-	-
+codes.nul.lax.manual.nil	ok	2	number.integer	1	number.integer	65	-	-
+codes.nul.lax.manual.pastend	ok	0	-	-
+codes.nul.lax.manual.nonnumeric	ok	2	number.integer	1	number.integer	65	-	-
+codes.nul.lax.byte2	ok	2	number.integer	3	number.integer	2048	-	-
+codes.nul.lax.byte3	ok	0	-	-
+codes.nul.lax.byte4	ok	0	-	-
+codes.nul.lax.byte5	ok	0	-	-
+codes.mixed.strict.triple	ok	3	function	strict-iterator	string	41c280e0a080f0908080	number.integer	0	-	-
+codes.mixed.strict.generic	ok	8	number.integer	1	number.integer	65	number.integer	2	number.integer	128	number.integer	4	number.integer	2048	number.integer	7	number.integer	65536	-	-
+codes.mixed.strict.manual.zero	ok	2	number.integer	1	number.integer	65	-	-
+codes.mixed.strict.manual.one	ok	2	number.integer	2	number.integer	128	-	-
+codes.mixed.strict.manual.len	ok	0	-	-
+codes.mixed.strict.manual.len1	ok	0	-	-
+codes.mixed.strict.manual.len2	ok	0	-	-
+codes.mixed.strict.manual.minus1	ok	0	-	-
+codes.mixed.strict.manual.minuslen	ok	0	-	-
+codes.mixed.strict.manual.before	ok	0	-	-
+codes.mixed.strict.manual.min	ok	0	-	-
+codes.mixed.strict.manual.max	ok	0	-	-
+codes.mixed.strict.manual.integral	ok	2	number.integer	2	number.integer	128	-	-
+codes.mixed.strict.manual.fractional	ok	2	number.integer	1	number.integer	65	-	-
+codes.mixed.strict.manual.numeric	ok	2	number.integer	2	number.integer	128	-	-
+codes.mixed.strict.manual.badstr	ok	2	number.integer	1	number.integer	65	-	-
+codes.mixed.strict.manual.table	ok	2	number.integer	1	number.integer	65	-	-
+codes.mixed.strict.manual.false	ok	2	number.integer	1	number.integer	65	-	-
+codes.mixed.strict.manual.nil	ok	2	number.integer	1	number.integer	65	-	-
+codes.mixed.strict.manual.pastend	ok	0	-	-
+codes.mixed.strict.manual.nonnumeric	ok	2	number.integer	1	number.integer	65	-	-
+codes.mixed.strict.byte2	ok	2	number.integer	4	number.integer	2048	-	-
+codes.mixed.strict.byte3	ok	2	number.integer	4	number.integer	2048	-	-
+codes.mixed.strict.byte4	ok	2	number.integer	7	number.integer	65536	-	-
+codes.mixed.strict.byte5	ok	2	number.integer	7	number.integer	65536	-	-
+codes.mixed.strict.byte6	ok	2	number.integer	7	number.integer	65536	-	-
+codes.mixed.strict.byte7	ok	0	-	-
+codes.mixed.strict.byte8	ok	0	-	-
+codes.mixed.strict.byte9	ok	0	-	-
+codes.mixed.strict.byte10	ok	0	-	-
+codes.mixed.lax.triple	ok	3	function	lax-iterator	string	41c280e0a080f0908080	number.integer	0	-	-
+codes.mixed.lax.generic	ok	8	number.integer	1	number.integer	65	number.integer	2	number.integer	128	number.integer	4	number.integer	2048	number.integer	7	number.integer	65536	-	-
+codes.mixed.lax.manual.zero	ok	2	number.integer	1	number.integer	65	-	-
+codes.mixed.lax.manual.one	ok	2	number.integer	2	number.integer	128	-	-
+codes.mixed.lax.manual.len	ok	0	-	-
+codes.mixed.lax.manual.len1	ok	0	-	-
+codes.mixed.lax.manual.len2	ok	0	-	-
+codes.mixed.lax.manual.minus1	ok	0	-	-
+codes.mixed.lax.manual.minuslen	ok	0	-	-
+codes.mixed.lax.manual.before	ok	0	-	-
+codes.mixed.lax.manual.min	ok	0	-	-
+codes.mixed.lax.manual.max	ok	0	-	-
+codes.mixed.lax.manual.integral	ok	2	number.integer	2	number.integer	128	-	-
+codes.mixed.lax.manual.fractional	ok	2	number.integer	1	number.integer	65	-	-
+codes.mixed.lax.manual.numeric	ok	2	number.integer	2	number.integer	128	-	-
+codes.mixed.lax.manual.badstr	ok	2	number.integer	1	number.integer	65	-	-
+codes.mixed.lax.manual.table	ok	2	number.integer	1	number.integer	65	-	-
+codes.mixed.lax.manual.false	ok	2	number.integer	1	number.integer	65	-	-
+codes.mixed.lax.manual.nil	ok	2	number.integer	1	number.integer	65	-	-
+codes.mixed.lax.manual.pastend	ok	0	-	-
+codes.mixed.lax.manual.nonnumeric	ok	2	number.integer	1	number.integer	65	-	-
+codes.mixed.lax.byte2	ok	2	number.integer	4	number.integer	2048	-	-
+codes.mixed.lax.byte3	ok	2	number.integer	4	number.integer	2048	-	-
+codes.mixed.lax.byte4	ok	2	number.integer	7	number.integer	65536	-	-
+codes.mixed.lax.byte5	ok	2	number.integer	7	number.integer	65536	-	-
+codes.mixed.lax.byte6	ok	2	number.integer	7	number.integer	65536	-	-
+codes.mixed.lax.byte7	ok	0	-	-
+codes.mixed.lax.byte8	ok	0	-	-
+codes.mixed.lax.byte9	ok	0	-	-
+codes.mixed.lax.byte10	ok	0	-	-
+codes.identity	ok	6	boolean	true	boolean	true	boolean	false	number.integer	3	string		number.integer	0	-	-

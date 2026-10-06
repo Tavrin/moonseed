@@ -1,0 +1,3 @@
+io_stdin.0	ok	3	string	3132	string	6c696e652074776f0a	string	6c6173740a	-	-
+io_stdin.1	ok	3	number.integer	12	string		string	6c696e652074776f0a6c6173740a	-	-
+io_stdin.2	ok	3	string	3132	string	6c696e652074776f	string	6c617374	-	-

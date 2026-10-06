@@ -1,0 +1,2 @@
+arg.layout	ok	8	nil	-	string	686f73746c69622d656e67696e65	string	6472697665722e6c7561	string	616c706861	string		string	6f6d656761	nil	-	number.integer	3	-	-
+arg.varargs	ok	3	string	616c706861	string		string	6f6d656761	-	-

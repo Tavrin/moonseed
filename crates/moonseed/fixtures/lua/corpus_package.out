@@ -1,0 +1,51 @@
+A1	true	true	true
+A2	true	true	true
+A3	true	string	string
+A4	table	table	1
+A5	1	true
+B1	mod1	:preload:	:preload:	1
+B2	true	nil	1	true
+B3	true	true	2
+B4	set	:preload:
+B5	false	false	1
+B6	false	2
+B7	first	:preload:
+B8	already
+B9	number 7	:preload:
+C1	false	module 'nope' not found:
+	no field package.preload['nope']
+C2	false	bad argument #1 to 'require' (string expected, got no value)
+C3	false	bad argument #1 to 'require' (string expected, got table)
+C4	false	loader failed
+C5	nil
+C6	false	module 'badtype' not found:
+	42
+D1	custom module custom extra	extra
+D2	false	module 'missing' not found:
+	no field package.preload['missing']
+	
+	no custom 'missing'
+	42
+D3	s2:custom s2:missing s3:missing
+D4	false	module 'missing2' not found:
+	no field package.preload['missing2']
+	42
+D5	false	module 'missing3' not found:
+	no field package.preload['missing3']
+	a string
+	42
+D6	false	'package.searchers' must be a table
+D7	false	'package.searchers' must be a table
+D8	true
+E1	mm	metamod
+E2	false	module 'proxied' not found:
+F1	2	table
+F2	true
+G1	true	true
+G2	registry
+H1	outer+inner	inner
+H2	false	module 'nothing' not found:
+	no field package.preload['nothing']
+	a string
+	42
+done

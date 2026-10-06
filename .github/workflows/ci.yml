@@ -1,0 +1,91 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  CARGO_BUILD_JOBS: 8
+  CARGO_INCREMENTAL: '0'
+  CARGO_PROFILE_DEV_DEBUG: '0'
+  CARGO_PROFILE_TEST_DEBUG: '0'
+  CARGO_TARGET_DIR: ${{ github.workspace }}/target
+
+jobs:
+  fast:
+    name: Linux stable
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - name: Stable toolchain
+        run: python3 tools/ci_run.py -- rustup toolchain install stable --profile minimal --component rustfmt --component clippy
+      - name: Fast PR checks
+        run: bash tools/release_check.sh --fast
+
+  msrv:
+    name: Rust 1.88
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - run: python3 tools/ci_run.py -- rustup toolchain install 1.88 --profile minimal
+      - run: bash tools/release_check.sh --msrv
+
+  native:
+    name: Native ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [macos-14, windows-2022]
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 60
+    defaults:
+      run:
+        shell: bash
+    env:
+      RUSTUP_TOOLCHAIN: stable
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: '3.12'
+      - run: python tools/ci_run.py -- rustup toolchain install stable --profile minimal
+      - name: Default build and public/core tests
+        run: |
+          python tools/ci_run.py -- cargo build --locked -p moonseed
+          python tools/ci_run.py -- cargo test --locked -p moonseed
+      - name: Portable build and public/core tests
+        run: |
+          python tools/ci_run.py -- cargo build --locked -p moonseed --no-default-features
+          python tools/ci_run.py -- cargo test --locked -p moonseed --no-default-features
+      - name: All-feature build and public/core tests
+        run: |
+          python tools/ci_run.py -- cargo build --locked -p moonseed --all-features
+          python tools/ci_run.py -- cargo test --locked -p moonseed --all-features
+      - name: Native filesystem behavior
+        run: python tools/ci_run.py -- cargo test --locked -p moonseed --lib hostcaps::native::tests
+
+  wasm:
+    name: Wasm builds and snapshot roundtrip
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - run: python3 tools/ci_run.py -- rustup toolchain install stable --profile minimal --target wasm32-unknown-unknown
+      - run: bash tools/release_check.sh --wasm

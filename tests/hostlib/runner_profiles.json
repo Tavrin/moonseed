@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "profiles": {
+    "native": [
+      "--host=native:."
+    ],
+    "environment": [
+      "--host=native:.",
+      "--host-environment=process"
+    ],
+    "civil": [
+      "--host=native:.",
+      "--host-civil=fixture-tz"
+    ],
+    "temporary": [
+      "--host=native:.",
+      "--host-fixture-tmp"
+    ],
+    "process": [
+      "--host=native:.",
+      "--host-process"
+    ],
+    "argv": [
+      "--host=native:.",
+      "--lua-args"
+    ],
+    "vfs": [
+      "--host=vfs:."
+    ]
+  },
+  "groups": {
+    "io_modes": {
+      "profile": "native",
+      "vfs": true,
+      "lua_argv": false,
+      "timezone": "UTC",
+      "stdin": "empty"
+    },
+    "io_read": {
+      "profile": "native",
+      "vfs": true,
+      "lua_argv": false,
+      "timezone": "UTC",
+      "stdin": "empty"
+    },
+    "io_numerals": {
+      "profile": "native",
+      "vfs": true,
+      "lua_argv": false,
+      "timezone": "UTC",
+      "stdin": "empty"
+    },
+    "io_write": {
+      "profile": "native",
+      "vfs": true,
+      "lua_argv": false,
+      "timezone": "UTC",
+      "stdin": "empty"
+    },
+    "io_seek": {
+      "profile": "native",
+      "vfs": true,
+      "lua_argv": false,
+      "timezone": "UTC",
+      "stdin": "empty"
+    },
+    "io_defaults": {
+      "profile": "native",
+      "vfs": true,
+      "lua_argv": false,
+      "timezone": "UTC",
+      "stdin": "empty"
+    },
+    "io_lines": {
+      "profile": "native",
+      "vfs": true,
+      "lua_argv": false,
+      "timezone": "UTC",
+      "stdin": "empty"
+    },
+    "io_lifecycle": {
+      "profile": "native",
+      "vfs": true,
+      "lua_argv": false,
+      "timezone": "UTC",
+      "stdin": "empty"
+    },
+    "io_streams": {
+      "profile": "native",
+      "vfs": true,
+      "lua_argv": false,
+      "timezone": "UTC",
+      "stdin": "empty"
+    },
+    "io_stdin": {
+      "profile": "native",
+      "vfs": true,
+      "lua_argv": false,
+      "timezone": "UTC",
+      "stdin": "read.txt"
+    },
+    "loadfile": {
+      "profile": "native",
+      "vfs": false,
+      "lua_argv": false,
+      "timezone": "UTC",
+      "stdin": "empty"
+    },
+    "load_binary": {
+      "profile": "native",
+      "vfs": false,
+      "lua_argv": false,
+      "timezone": "UTC",
+      "stdin": "empty"
+    },
+    "loadfile_stdin": {
+      "profile": "native",
+      "vfs": false,
+      "lua_argv": false,
+      "timezone": "UTC",
+      "stdin": "chunk.lua"
+    },
+    "dofile_stdin": {
+      "profile": "native",
+      "vfs": false,
+      "lua_argv": false,
+      "timezone": "UTC",
+      "stdin": "chunk.lua"
+    },
+    "searchpath": {
+      "profile": "native",
+      "vfs": false,
+      "lua_argv": false,
+      "timezone": "UTC",
+      "stdin": "empty"
+    },
+    "require": {
+      "profile": "native",
+      "vfs": false,
+      "lua_argv": false,
+      "timezone": "UTC",
+      "stdin": "empty"
+    },
+    "os_fs": {
+      "profile": "temporary",
+      "vfs": false,
+      "lua_argv": false,
+      "timezone": "UTC",
+      "stdin": "empty"
+    },
+    "os_utc": {
+      "profile": "native",
+      "vfs": false,
+      "lua_argv": false,
+      "timezone": "UTC",
+      "stdin": "empty"
+    },
+    "os_new_york": {
+      "profile": "civil",
+      "vfs": false,
+      "lua_argv": false,
+      "timezone": "America/New_York",
+      "stdin": "empty"
+    },
+    "os_misc": {
+      "profile": "environment",
+      "vfs": false,
+      "lua_argv": false,
+      "timezone": "UTC",
+      "stdin": "empty"
+    },
+    "process": {
+      "profile": "process",
+      "vfs": false,
+      "lua_argv": false,
+      "timezone": "UTC",
+      "stdin": "empty"
+    },
+    "arg": {
+      "profile": "argv",
+      "vfs": false,
+      "lua_argv": true,
+      "timezone": "UTC",
+      "stdin": "empty"
+    },
+    "io_buffering": {
+      "profile": "native",
+      "vfs": true,
+      "lua_argv": false,
+      "timezone": "UTC",
+      "stdin": "empty"
+    }
+  },
+  "environment": {
+    "TZ": "UTC",
+    "LC_ALL": "C",
+    "PATH": "/usr/bin:/bin",
+    "MS_A": "alpha",
+    "MS_EMPTY": ""
+  },
+  "argv": [
+    "alpha",
+    "",
+    "omega"
+  ]
+}

@@ -1,0 +1,38 @@
+io_numerals.0	ok	4	number.integer	0	nil	-	number.integer	2	string	5a	-	-
+io_numerals.1	ok	4	number.integer	0	nil	-	number.integer	3	string	5a	-	-
+io_numerals.2	ok	4	number.integer	12	nil	-	number.integer	4	string	5a	-	-
+io_numerals.3	ok	4	number.integer	42	nil	-	number.integer	8	string	5a	-	-
+io_numerals.4	ok	4	number.integer	255	nil	-	number.integer	5	string	5a	-	-
+io_numerals.5	ok	4	number.integer	-171	nil	-	number.integer	6	string	5a	-	-
+io_numerals.6	ok	4	number.float	0x1.8p+2	nil	-	number.integer	9	string	5a	-	-
+io_numerals.7	ok	4	number.float	0x1p-1	nil	-	number.integer	7	string	5a	-	-
+io_numerals.8	ok	4	number.float	0x1.f4p+9	nil	-	number.integer	4	string	5a	-	-
+io_numerals.9	ok	4	number.float	-0x1.999999999999ap-6	nil	-	number.integer	8	string	5a	-	-
+io_numerals.10	ok	4	number.float	0x1p-2	nil	-	number.integer	4	string	5a	-	-
+io_numerals.11	ok	4	number.float	0x1p+0	nil	-	number.integer	3	string	5a	-	-
+io_numerals.12	ok	3	nil	-	number.integer	2	string	205a	-	-
+io_numerals.13	ok	3	nil	-	number.integer	3	string	205a	-	-
+io_numerals.14	ok	3	nil	-	number.integer	2	string	205a	-	-
+io_numerals.15	ok	3	nil	-	number.integer	2	string	7031205a	-	-
+io_numerals.16	ok	3	nil	-	number.integer	4	string	205a	-	-
+io_numerals.17	ok	3	nil	-	number.integer	1	string	205a	-	-
+io_numerals.18	ok	3	nil	-	number.integer	1	string	205a	-	-
+io_numerals.19	ok	3	nil	-	number.integer	1	string	205a	-	-
+io_numerals.20	ok	3	nil	-	number.integer	0	string	6e616e205a	-	-
+io_numerals.21	ok	3	nil	-	number.integer	0	string	696e66205a	-	-
+io_numerals.22	ok	3	nil	-	number.integer	2	string	67205a	-	-
+io_numerals.23	ok	4	number.integer	123	nil	-	number.integer	3	string	616263205a	-	-
+io_numerals.24	ok	5	number.float	0x1.3333333333333p+0	number.float	0x1.3333333333333p-2	string	205a	number.integer	7	string		-	-
+io_numerals.25	ok	4	number.float	inf	nil	-	number.integer	7	string	5a	-	-
+io_numerals.26	ok	4	number.float	-inf	nil	-	number.integer	8	string	5a	-	-
+io_numerals.27	ok	4	number.float	0x0p+0	nil	-	number.integer	8	string	5a	-	-
+io_numerals.28	ok	4	number.integer	9223372036854775807	nil	-	number.integer	20	string	5a	-	-
+io_numerals.29	ok	4	number.float	0x1p+63	nil	-	number.integer	20	string	5a	-	-
+io_numerals.30	ok	4	number.integer	-9223372036854775808	nil	-	number.integer	21	string	5a	-	-
+io_numerals.31	ok	4	number.float	-0x1p+63	nil	-	number.integer	21	string	5a	-	-
+io_numerals.32	ok	4	number.integer	-1	nil	-	number.integer	19	string	5a	-	-
+io_numerals.33	ok	4	number.float	0x1.0b8e0acac4eafp+661	nil	-	number.integer	200	string	5a	-	-
+io_numerals.34	ok	4	number.float	0x1.4e718d7d7625ap+664	nil	-	number.integer	201	string	5a	-	-
+io_numerals.35	ok	3	nil	-	number.integer	200	string	39205a	-	-
+io_numerals.36	ok	3	nil	-	number.integer	200	string	30205a	-	-
+io_numerals.37	ok	3	nil	-	number.integer	200	string	3030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030205a	-	-

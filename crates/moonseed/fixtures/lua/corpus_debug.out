@@ -1,0 +1,180 @@
+A1	currentline=-1 ftransfer=0 func=function istailcall=false isvararg=true lastlinedefined=-1 linedefined=-1 namewhat= nparams=0 ntransfer=0 nups=0 short_src=[C] source==[C] what=C
+A2	currentline=-1 ftransfer=0 func=function istailcall=false isvararg=false lastlinedefined=21 linedefined=10 namewhat= nparams=1 ntransfer=0 nups=1 short_src=corpus_debug.lua source=@corpus_debug.lua what=Lua
+A3	lastlinedefined=28 linedefined=23 short_src=corpus_debug.lua source=@corpus_debug.lua what=Lua
+A4	isvararg=true nparams=0 nups=0
+A5	isvararg=true nparams=0 nups=1
+A6	11,12,13,14,15,16,17,18,19,20,21	7,8
+A7	nil	true
+A8	false	bad argument #2 to 'debug.getinfo' (invalid option '>')
+A9	false	bad argument #2 to 'debug.getinfo' (invalid option)
+A10	false	bad argument #1 to 'debug.getinfo' (number expected, got string)
+A11	false	bad argument #1 to 'debug.getinfo' (number has no integer representation)
+A12	table	nil
+A13	nil	nil
+A14	currentline=44 istailcall=false lastlinedefined=0 linedefined=0 namewhat= short_src=corpus_debug.lua source=@corpus_debug.lua what=main
+B1	lastlinedefined=0 linedefined=0 short_src=[string "return 1"] source=return 1 what=main
+B2	lastlinedefined=0 linedefined=0 short_src=name source==name what=main
+B3	lastlinedefined=0 linedefined=0 short_src=some/file.lua source=@some/file.lua what=main
+B4	lastlinedefined=0 linedefined=0 short_src=[string "a long chunk name that goes on and on past th..."] source=a long chunk name that goes on and on past the sixty byte limit what=main
+B5	[string "..."]
+B6	3
+B7	=(load)
+C1	global:global_fn local:local_fn method:m field:m field:f field:integer index field:? field:long field:? local:local_fn global:global_fn upvalue:local_fn for iterator:for iterator metamethod:index metamethod:newindex metamethod:add metamethod:sub metamethod:concat metamethod:eq metamethod:lt metamethod:lt metamethod:le metamethod:len metamethod:unm metamethod:band metamethod:shl metamethod:bnot metamethod:idiv metamethod:mod metamethod:pow metamethod:div local:a metamethod:close global:pcall :nil
+C2	:nil	false
+C3	true	false
+D1	x=1 y=2 z=3
+D2	x=1 y=2 z=3 inner=in
+D3	x=1 y=2 z=3
+D4	(vararg)	(vararg)	(vararg)	nil
+D5	(vararg)	changed	v3
+D6	x=1 y=2 z=3 (for state)=10 (for state)=1 (for state)=1 i=10
+D6	x=1 y=2 z=3 (for state)=11 (for state)=0 (for state)=1 i=11
+D7	x=1 y=2 z=3 (for state)=function (for state)=table (for state)=1 (for state)=nil k=1 v=p
+D8	z	99
+D9	nil	nil
+D10	99
+D11	x	y	nil	nil
+D12	nil	nil
+D13	false	bad argument #1 to 'debug.getlocal' (level out of range)
+D14	false	bad argument #2 to 'debug.getlocal' (number expected, got no value)
+D15	false	bad argument #3 to 'debug.setlocal' (value expected)
+D16	false	bad argument #1 to 'debug.setlocal' (level out of range)
+D17	false	bad argument #2 to 'debug.getlocal' (number expected, got string)
+D18	nil
+D19	nil
+D20	here	caller
+D21	nil	before
+D22	1,2,102
+E1	up1	up2	nil
+E2	_ENV	up1	1
+E3	up1	10	12
+E4	nil
+E5	0	0
+E6	true	true
+E7	false	bad argument #1 to 'debug.getupvalue' (function expected, got number)
+E8	false	bad argument #2 to 'debug.getupvalue' (number expected, got no value)
+E9	false	bad argument #3 to 'debug.setupvalue' (value expected)
+E10	3	4	5
+E11	three	three	one
+E12	false	bad argument #2 to 'debug.upvaluejoin' (invalid upvalue index)
+E13	false	bad argument #4 to 'debug.upvaluejoin' (invalid upvalue index)
+E14	false	bad argument #2 to 'debug.upvaluejoin' (invalid upvalue index)
+E15	false	bad argument #1 to 'debug.upvaluejoin' (Lua function expected)
+E16	false	bad argument #3 to 'debug.upvaluejoin' (Lua function expected)
+E17	false	bad argument #4 to 'debug.upvaluejoin' (number expected, got no value)
+E18	false	bad argument #1 to 'debug.upvaluejoin' (function expected, got table)
+F1	true	nil	nil
+F2	locked	table
+F3	true	foo7	bar1.5
+F4	true
+F5	true	nil
+F6	from nil
+F7	1	0	called 9
+F8	function	function
+F9	false	bad argument #2 to 'debug.setmetatable' (nil or table expected, got number)
+F10	false	bad argument #2 to 'debug.setmetatable' (nil or table expected, got no value)
+F11	false	bad argument #1 to 'debug.getmetatable' (value expected)
+F12	26	26
+F13	table	true	true	true
+F14	true	thread	true
+G1	msg
+stack traceback:
+	corpus_debug.lua:7: in function <corpus_debug.lua:6>
+	(...tail calls...)
+	corpus_debug.lua:254: in upvalue 'level2'
+	corpus_debug.lua:255: in local 'level1'
+	corpus_debug.lua:256: in main chunk
+G2	m
+stack traceback:
+	corpus_debug.lua:257: in main chunk
+G3	stack traceback:
+	corpus_debug.lua:7: in local 'tb'
+	corpus_debug.lua:258: in main chunk
+G4	stack traceback:
+	corpus_debug.lua:7: in local 'tb'
+	corpus_debug.lua:259: in main chunk
+G5	table	true	true
+G6	42
+stack traceback:
+	corpus_debug.lua:7: in local 'tb'
+	corpus_debug.lua:261: in main chunk
+G7	x
+stack traceback:
+	corpus_debug.lua:7: in local 'tb'
+	corpus_debug.lua:262: in main chunk
+G8	lvl
+stack traceback:
+	[C]: in function 'debug.traceback'
+	corpus_debug.lua:7: in local 'tb'
+	corpus_debug.lua:263: in main chunk
+G9	big
+stack traceback:
+G10	deep
+stack traceback:
+	corpus_debug.lua:7: in upvalue 'tb'
+	corpus_debug.lua:265: in upvalue 'deep'
+	corpus_debug.lua:265: in upvalue 'deep'
+	corpus_debug.lua:265: in upvalue 'deep'
+	corpus_debug.lua:265: in upvalue 'deep'
+	corpus_debug.lua:265: in upvalue 'deep'
+	corpus_debug.lua:265: in upvalue 'deep'
+	corpus_debug.lua:265: in upvalue 'deep'
+	corpus_debug.lua:265: in upvalue 'deep'
+	corpus_debug.lua:265: in upvalue 'deep'
+	corpus_debug.lua:265: in upvalue 'deep'
+	corpus_debug.lua:265: in upvalue 'deep'
+	corpus_debug.lua:265: in upvalue 'deep'
+	corpus_debug.lua:265: in upvalue 'deep'
+	corpus_debug.lua:265: in upvalue 'deep'
+	corpus_debug.lua:265: in upvalue 'deep'
+	corpus_debug.lua:265: in upvalue 'deep'
+	corpus_debug.lua:265: in upvalue 'deep'
+	corpus_debug.lua:265: in local 'deep'
+	corpus_debug.lua:267: in main chunk
+G13	t
+stack traceback:
+	corpus_debug.lua:7: in upvalue 'tb'
+	corpus_debug.lua:268: in function <corpus_debug.lua:268>
+	(...tail calls...)
+	corpus_debug.lua:269: in main chunk
+G14	mod
+stack traceback:
+	corpus_debug.lua:7: in upvalue 'tb'
+	corpus_debug.lua:270: in function 'mymod.run'
+	corpus_debug.lua:272: in main chunk
+G15	bad argument #1 to 'string.rep' (string expected, got no value)
+G16	false	handler
+stack traceback:
+	corpus_debug.lua:7: in function <corpus_debug.lua:6>
+	(...tail calls...)
+	corpus_debug.lua:275: in function <corpus_debug.lua:275>
+	[C]: in function 'xpcall'
+	corpus_debug.lua:275: in main chunk
+G17	false	bad argument #2 to 'debug.traceback' (number expected, got string)
+G18	meta
+stack traceback:
+	corpus_debug.lua:7: in function <corpus_debug.lua:6>
+	(...tail calls...)
+	corpus_debug.lua:279: in main chunk
+H1	(temporary)	(temporary)	2
+H2	-1	?
+H3	3
+H4	lastlinedefined=287 linedefined=282 short_src=? source==? what=Lua	
+H5	(no name)	table
+H6	lastlinedefined=287 linedefined=282 short_src=corpus_debug.lua source=@corpus_debug.lua what=Lua	q
+H1	p	q	4
+H2	285	corpus_debug.lua
+H7	7
+H8	=orig
+H9	s
+stack traceback:
+	corpus_debug.lua:7: in function 'gtb'
+	?: in local 'stripped_names'
+	corpus_debug.lua:301: in main chunk
+I1	main	0	0	@corpus_debug.lua	corpus_debug.lua
+I2	isvararg=true nparams=0 nups=1
+I3	307
+J1	315,316,317
+J2	325,327,330
+J3	333,334,335,337,338
+done

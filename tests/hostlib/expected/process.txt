@@ -1,0 +1,13 @@
+process.execute.0	ok	3	boolean	true	string	65786974	number.integer	0	-	-
+process.popen.0	ok	5	boolean	true	string	65786974	number.integer	0	string		string	636c6f7365642066696c65	-	-
+process.execute.1	ok	3	nil	-	string	65786974	number.integer	1	-	-
+process.popen.1	ok	5	nil	-	string	65786974	number.integer	1	string		string	636c6f7365642066696c65	-	-
+process.execute.2	ok	3	nil	-	string	65786974	number.integer	3	-	-
+process.popen.2	ok	5	nil	-	string	65786974	number.integer	3	string		string	636c6f7365642066696c65	-	-
+process.execute.available	ok	1	boolean	true	-	-
+process.popen.echo	ok	4	boolean	true	string	65786974	number.integer	0	string	666978747572650a	-	-
+process.popen.write	ok	5	boolean	true	string	65786974	number.integer	0	boolean	true	string	706970652d6279746573	-	-
+process.popen.mode.x	error	0	string	686f73746c69622d636173652e6c75613a313a2062616420617267756d656e7420233220746f2027706f70656e272028696e76616c6964206d6f646529
+process.popen.mode.rb	error	0	string	686f73746c69622d636173652e6c75613a313a2062616420617267756d656e7420233220746f2027706f70656e272028696e76616c6964206d6f646529
+process.popen.mode.r+	error	0	string	686f73746c69622d636173652e6c75613a313a2062616420617267756d656e7420233220746f2027706f70656e272028696e76616c6964206d6f646529
+process.popen.mode.empty	error	0	string	686f73746c69622d636173652e6c75613a313a2062616420617267756d656e7420233220746f2027706f70656e272028696e76616c6964206d6f646529
