@@ -846,9 +846,12 @@ mod tests {
     struct TempRoot(PathBuf);
     impl TempRoot {
         fn new() -> Self {
+            // Parallel tests can read the same clock value (coarse on macOS).
+            static NEXT: std::sync::atomic::AtomicU64 = std::sync::atomic::AtomicU64::new(0);
             let path = std::env::temp_dir().join(format!(
-                "moonseed-c1-{}-{}",
+                "moonseed-c1-{}-{}-{}",
                 std::process::id(),
+                NEXT.fetch_add(1, std::sync::atomic::Ordering::Relaxed),
                 std::time::SystemTime::now()
                     .duration_since(std::time::UNIX_EPOCH)
                     .unwrap()

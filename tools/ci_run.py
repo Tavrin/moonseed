@@ -26,8 +26,12 @@ def main():
     if seconds < 1:
         parser.error('seconds must be positive')
     env = dict(os.environ, CARGO_BUILD_JOBS='8', RUST_TEST_THREADS='8')
+    # RLIMIT_CPU sums every thread and children inherit its hard bound, so cargo
+    # test and its harnesses (eight test threads) get eight times the wall deadline.
+    cargo_test = command[0] == 'cargo' and 'test' in command
+    cpu_seconds = seconds * 8 if cargo_test or args.test_harness else seconds
     # Rust test harnesses keep Cargo caps; standalone oracle programs use --runtime.
-    if command[0] == 'cargo' and 'test' in command:
+    if cargo_test:
         runner = [sys.executable, os.path.abspath(__file__), '--test-harness', '--']
         # CLI TOML arrays preserve spaces in Python/script paths on Windows.
         config = 'target.' + json.dumps('cfg(not(target_arch = "wasm32"))')
@@ -44,7 +48,7 @@ def main():
             resource.setrlimit(kind, (bound, bound))
 
         tighten(resource.RLIMIT_CORE, 0)
-        tighten(resource.RLIMIT_CPU, seconds)
+        tighten(resource.RLIMIT_CPU, cpu_seconds)
         if platform.system() == 'Linux':
             size = (2_000_000 if args.runtime else 8_000_000) * 1024
             tighten(resource.RLIMIT_AS, size)
